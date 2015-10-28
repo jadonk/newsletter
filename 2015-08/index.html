@@ -1,18 +1,21 @@
 ---
-title: August Dog Dish
+layout: default
+title: September Dog Dish
+feature:
+ - title: Room For the Big Guys
+   body: <p>At BeagleBoard.org, we are very much about enabling innovation from everyone, no matter what size their organization. That's why we encourage distributors to keep their pricing model flat. That's why we make sure our components are available from distributors in quantity one and don't require non-disclosure agreements to get the documentation. Our goal is to make solutions accessible and enable the best technology to win. Sometimes, technology from the big guys can be part of the solution.</p><p>This month has seen big announcements from big players in Internet of Things (IoT) and 3D printing technologies very relevant to BeagleBoard.org community members. BeagleBoard.org community members are already making a lot of use of tools from Bug Labs, Apigee, PubNub, Weaved and many more, several of which are also summarized on <a href="http://www.ti.com/ww/en/internet_of_things/iot-overview.html">TI's Cloud Ecosystem Partners page</a>. Many are also using <a href="http://beagleboard.org/blog/2015-01-28-thought-leadership-regarding-internet-things/">Canonical's Ubuntu Snappy Core</a>   I'm talking about Microsoft's Azure Certified for IoT announcement, Canonical's AppEnabledHome initiative and Autodesk's opening of the Ember 3D printer. You can read some </p>
 events:
- - event: Maker Faire Grand Rapids
-   date: Sep 5-6
-   link: http://bit.ly/makergr
- - event: Open Hardware Summit
-   date: Sep 19
-   link: http://bit.ly/oshwa2015
- - event: SE Michigan BeagleBone Users Group
-   date: Sep 24
+ - title: SE Michigan BeagleBone Users Group
+   date: Oct 22
    link: http://bit.ly/beaglemeetup
- - event: Maker Faire New York
+ - title: Maker Faire New York
    date: Sep 26-27
    link: http://bit.ly/1KAPjwo
+book:
+ - image: http://beagleboard.org/static/images/LearnBeagleBonePython.jpg
+   title: Learning BeagleBone Python Programming
+   link: http://amzn.to/1ifsH9D
+   body: 
 articles:
  - title: Article #1
    link: http://bit.ly/adsf
@@ -20,116 +23,11 @@ articles:
  - title: Article #2
    link: http://bit.ly/adsf
    body: <p>Text</p>
-book:
- - image: http://beagleboard.org/static/images/LearnBeagleBonePython.jpg
-   title: Learning BeagleBone Python Programming
-   link: http://amzn.to/1ifsH9D
-   description: 
+projects:
+ - title: Project #1
+   link: 
 ---
-     <!-- From The Foundation -->
-     <table class="twelve columns">
-      <tr>
-       <td class="panel">
-        <h6 class="dkgreytype">from the foundation</h6>
-       </td>
-      </tr>
-     </table>
-     <table class="row">
-      <tr>
-       <td class="wrapper last">
-        <table class="three columns">
-         <tr>
-          <td class="left-text-pad">
-           <img height="130" width="130" alt="Jason Kridner" src="http://beagleboard.org/static/images/jasonkridner_web1_1---(0-0-250-250-250-250)---.jpg">
-          </td>
-         </tr>
-        </table>
-       </td>
-       <td class="wrapper last">
-        <table class="nine columns">
-         <tr>
-          <td class="left-text-pad">
-           <h6>FROM THE FOUNDATION</h6>
-           <p></p>
-          </td>
-         </tr>
-        </table>
-       </td>
-      </tr>
-     </table>
 
-     <!-- Blog Content start -->
-     <table class="row">
-      <tr>
-       <td class="wrapper">
-        <table class="six columns">
-         <tr>
-          <td class="panel">
-           <h6 class="dkgreytype">events</h6>
-          </td>
-         </tr>
-        </table>
-        <br>
-        <div class="repeatables">
-         <table class="six columns">
-for event in page.events %}
-include event.html event=event.event date=event.date link=event.link %}
-endfor %}
-         </table>
-         <br>
-        </div>
-        <table class="six columns">
-         <tr>
-          <td class="panel">
-           <h6 class="dkgreytype">articles</h6>
-          </td>
-         </tr>
-        </table>
-        <br>
-for article in page.articles %}
-include article.html link=article.link title=article.title body=article.body %}
-endfor %}
-       </td>
-       <td class="wrapper last">
-        <table class="six columns">
-         <tr>
-          <td class="panel1">
-           <h6 class="dkgreytype">hot off the presses</h6>
-          </td>
-         </tr>
-        </table>
-        <br>
-        <div class="repeatables">
-         <table class="row">
-          <tr>
-           <td class="wrapper">
-            <table class="two columns">
-             <tr>
-              <td>
-               <a href="http://amzn.to/1TRFL2y">
-                <img width="80px" src="http://beagleboard.org/static/images/beaglebone-cookbook.jpeg" alt="BeagleBone Cookbook">
-               </a>
-              </td>
-             </tr>
-            </table>
-           </td>
-           <td class="wrapper last">
-            <table class="columns four">
-             <tbody>
-              <tr>
-               <td>
-                <p><a href="http://amzn.to/1TRFL2y">BeagleBone Cookbook: Software and Hardware Problems and Solutions</a>
-                </p>
-                <p>The coauthors of BeagleBone Cookbook are Mark Yoder, known for his 32-bit embedded Linux classes with content on the public eLinux wiki, and BeagleBoard.org co-founder Jason Kridner. The book is loaded with quick solutions to common challenges in building connected electronics. It can be read from cover-to-cover, but is also ready for you to jump in at any point. The reviews have been excellent so far, so be sure to check this one out.</p>
-               </td>
-              </tr>
-             </tbody>
-            </table>
-           </td>
-          </tr>
-         </table>
-         <br>
-        </div>
         <table class="six columns">
          <tr>
           <td class="panel">

@@ -1093,7 +1093,7 @@
                </a>
               </td>
               <td class="six sub-columns last" style="text-align:right; vertical-align:middle;">
-               <h5 style="text-align:right;color:#fff;font-size:20px;" class="editable"><a style="color:#fff;font-size:20px;" href="http://beagleboard.org{{ page.url }}"><font color="FFFFFF"></font></a></h5>
+               <h5 style="text-align:right;color:#fff;font-size:20px;"><a style="color:#fff;font-size:20px;" href="http://beagleboard.org{{ page.url }}"><font color="FFFFFF">{{ page.title }}</font></a></h5>
               </td>
               <td class="expander"></td>
              </tr>
@@ -1106,6 +1106,112 @@
       </tr>
      </table>
      <br>
+
+     <!-- From The Foundation -->
+     <table class="twelve columns">
+      <tr>
+       <td class="panel">
+        <h6 class="dkgreytype">from the foundation</h6>
+       </td>
+      </tr>
+     </table>
+     <table class="row">
+      <tr>
+       <td class="wrapper last">
+        <table class="three columns">
+         <tr>
+          <td class="left-text-pad">
+           <img height="130" width="130" alt="Jason Kridner" src="http://beagleboard.org/static/images/jasonkridner_web1_1---(0-0-250-250-250-250)---.jpg">
+          </td>
+         </tr>
+        </table>
+       </td>
+       <td class="wrapper last">
+        <table class="nine columns">
+         <tr>
+          <td class="left-text-pad">
+           <h6>{{ page.feature.title }}</h6>
+           {{ page.feature.content }}
+           <p></p>
+          </td>
+         </tr>
+        </table>
+       </td>
+      </tr>
+     </table>
+
+     <!-- Blog Content start -->
+     <table class="row">
+      <tr>
+       <td class="wrapper">
+        <table class="six columns">
+         <tr>
+          <td class="panel">
+           <h6 class="dkgreytype">events</h6>
+          </td>
+         </tr>
+        </table>
+        <br>
+        <div class="repeatables">
+         <table class="six columns">
+{% for event in page.events %}
+{% include event.html title=event.title date=event.date link=event.link %}
+{% endfor %}
+         </table>
+         <br>
+        </div>
+        <table class="six columns">
+         <tr>
+          <td class="panel">
+           <h6 class="dkgreytype">articles</h6>
+          </td>
+         </tr>
+        </table>
+        <br>
+{% for article in page.articles %}
+{% include article.html link=article.link title=article.title body=article.body %}
+{% endfor %}
+       </td>
+       <td class="wrapper last">
+        <table class="six columns">
+         <tr>
+          <td class="panel1">
+           <h6 class="dkgreytype">hot off the presses</h6>
+          </td>
+         </tr>
+        </table>
+        <br>
+        <div class="repeatables">
+         <table class="row">
+          <tr>
+           <td class="wrapper">
+            <table class="two columns">
+             <tr>
+              <td>
+               <a href="http://amzn.to/1TRFL2y">
+                <img width="80px" src="http://beagleboard.org/static/images/beaglebone-cookbook.jpeg" alt="BeagleBone Cookbook">
+               </a>
+              </td>
+             </tr>
+            </table>
+           </td>
+           <td class="wrapper last">
+            <table class="columns four">
+             <tbody>
+              <tr>
+               <td>
+                <p><a href="http://amzn.to/1TRFL2y">BeagleBone Cookbook: Software and Hardware Problems and Solutions</a>
+                </p>
+                <p>The coauthors of BeagleBone Cookbook are Mark Yoder, known for his 32-bit embedded Linux classes with content on the public eLinux wiki, and BeagleBoard.org co-founder Jason Kridner. The book is loaded with quick solutions to common challenges in building connected electronics. It can be read from cover-to-cover, but is also ready for you to jump in at any point. The reviews have been excellent so far, so be sure to check this one out.</p>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </td>
+          </tr>
+         </table>
+         <br>
+        </div>
 
 {{ page.content }}
 
