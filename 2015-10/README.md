@@ -1,3 +1,5 @@
+I generally create bit.ly links for all of the links.
+
 # Current status on Kickstarters coming from our community:
 * 63 hours left on https://www.kickstarter.com/projects/openrov/openrov-trident-an-underwater-drone-for-everyone?ref=hero
 * 7 days left on https://www.kickstarter.com/projects/1924187374/replicape-a-smart-and-quiet-3d-printer-control-boa?ref=nav_search
@@ -15,18 +17,9 @@ now
 # From the foundation
 * Beagle approved logo- maybe a short write up here
 
-# Events (most of these have past without us getting out a newsletter)
-Grand rapids makiker faire
-http://www.makerfairegr.com/
- 
- 
-The Open Hardware Summit is the annual conference organized by the Open Source
-Hardware Association and the world’s first comprehensive conference on open
-hardware: a venue to discuss and draw attention to the rapidly growing Open
-Source Hardware movement. This year’s summit will be on September 19, 2015 in
-Philadelphia, PA.
-http://2015.oshwa.org/
- 
+# Events 
+* http://www.element14.com/community/events/4440
+* http://bit.ly/beaglemeetup
  
 # Hot of the presses
 I believe I updated the book since the 2015-07 newsletter
