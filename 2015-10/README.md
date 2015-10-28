@@ -1,6 +1,10 @@
+Current status on Kickstarters coming from our community:
+* 63 hours left on https://www.kickstarter.com/projects/openrov/openrov-trident-an-underwater-drone-for-everyone?ref=hero
+* 7 days left on https://www.kickstarter.com/projects/1924187374/replicape-a-smart-and-quiet-3d-printer-control-boa?ref=nav_search
+
+
 http://linuxgizmos.com/amazons-aws-iot-platform-taps-three-linux-sbcs/
 
-https://www.kickstarter.com/projects/1924187374/replicape-a-smart-and-quiet-3d-printer-control-boa?ref=nav_search
 
 http://einsteiniumstudios.com/index.html
 
