@@ -13,11 +13,6 @@ I generally create bit.ly links for all of the links.
 * http://linuxgizmos.com/amazons-aws-iot-platform-taps-three-linux-sbcs/
 * http://einsteiniumstudios.com/index.html
 * http://www.mathworks.com/help/supportpkg/beagleboneio/examples.html
-* I blieve I created a http://beagleboard.org/project entry for this one: https://learn.adafruit.com/ledgames-beaglebone-black-64x64-led-game
-
-# Notes
-* Christi asked element 14 again and also tara from hiatech – told them I need info
-now
 
 # From the foundation
 * Beagle approved logo- maybe a short write up here
@@ -27,15 +22,13 @@ now
 * http://bit.ly/beaglemeetup
  
 # Hot of the presses
-I believe I updated the book since the 2015-07 newsletter
+* I've forgotten what book we do this month
 
-# Projects 
- 
- 
-# Featured products
-Ideally, all featured projects point to project pages at http://beagleboard.org/project.
-* I believe I pulled an LED tutorial from here and put it on beagleboard.org/project:  https://learn.adafruit.com/category/beaglebone
- 
+# Featured projects 
+All featured projects point to project pages at http://beagleboard.org/project.
+* http://beagleboard.org/project/ledgames/
+* http://beagleboard.org/project/3dhubsbeagleboard/ ($10 credit -- might need details on the credit)
+
 # Community Activity
 Ideally, these point back to BeagleBoard's Google Group to drive more participation there. Including some to point to Element14's community site would be fine.
 * How to make your own Beaglebone black bot that you can control over WiFi. http://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2015/05/15/beaglebone-rc-bot
