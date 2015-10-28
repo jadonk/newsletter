@@ -1,6 +1,6 @@
 I generally create bit.ly links for all of the links.
 
-# Current status on Kickstarters coming from our community:
+# Current status on Kickstarters coming from our community (likely these should be featured projects):
 * 63 hours left on https://www.kickstarter.com/projects/openrov/openrov-trident-an-underwater-drone-for-everyone?ref=hero
 * 7 days left on https://www.kickstarter.com/projects/1924187374/replicape-a-smart-and-quiet-3d-printer-control-boa?ref=nav_search
 
@@ -27,7 +27,7 @@ I generally create bit.ly links for all of the links.
 # Featured projects 
 All featured projects point to project pages at http://beagleboard.org/project.
 * http://beagleboard.org/project/ledgames/
-* http://beagleboard.org/project/3dhubsbeagleboard/ ($10 credit -- might need details on the credit)
+* http://beagleboard.org/project/3dhubsbeagleboard/ ($10 credit -- might need details on the credit - this one might be community activity and point to the G+ note that promises the $10 credit)
 
 # Community Activity
 Ideally, these point back to BeagleBoard's Google Group to drive more participation there. Including some to point to Element14's community site would be fine.
