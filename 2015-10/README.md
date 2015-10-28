@@ -4,6 +4,11 @@ I generally create bit.ly links for all of the links.
 * 63 hours left on https://www.kickstarter.com/projects/openrov/openrov-trident-an-underwater-drone-for-everyone?ref=hero
 * 7 days left on https://www.kickstarter.com/projects/1924187374/replicape-a-smart-and-quiet-3d-printer-control-boa?ref=nav_search
 
+# Articles
+* http://beagleboard.org/blog/2015-10-14-beagleboard-x15/
+* http://beagleboard.org/blog/2015-09-29-microsoft-azure-certified-for-iot/
+* http://beagleboard.org/blog/2015-09-29-autodesk-ember/
+
 # Activity that should be included somewhere
 * http://linuxgizmos.com/amazons-aws-iot-platform-taps-three-linux-sbcs/
 * http://einsteiniumstudios.com/index.html
