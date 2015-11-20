@@ -10,6 +10,7 @@
 
 # community topics
 * OpenCL support on BeagleBoard-X15
+* TFT displays
 
 # events
 * Webinar - http://beagleboard.org/cookbook
