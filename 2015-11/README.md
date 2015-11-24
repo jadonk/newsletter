@@ -23,4 +23,5 @@
 # featured projects
 * CNC Plasma cutter - http://ow.ly/UYLWY
 * TFT display on 3.8 kernel
+* http://dev.iachieved.it/iachievedit/gauging-wireless-ap-stability-with-a-beaglebone-black/
 
