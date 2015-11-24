@@ -6,7 +6,7 @@
 
 # articles
 * SanCloud BeagleBoard Enhanced - http://beagleboard.org/blog/2015-11-23-beaglebone-enhanced/
-* MIMO Baby Monitor - https://forum.quantifiedself.com/t/tapping-into-mimo-smart-baby-monitor/1758
+* MIMO Baby Monitor -  https://gist.github.com/jadonk/f2323348eb7706889f88
 * Music Tech Challenge - http://beagleboard.org/blog/2015-11-23-musictech-challenge/
 * http://iotdesign.embedded-computing.com/articles/beagleboard-x15-keeps-easy-things-easy-makes-hard-things-possible-for-iot-maker-pros/
 
@@ -24,4 +24,5 @@
 * CNC Plasma cutter - http://ow.ly/UYLWY
 * TFT display on 3.8 kernel
 * http://dev.iachieved.it/iachievedit/gauging-wireless-ap-stability-with-a-beaglebone-black/
+
 
