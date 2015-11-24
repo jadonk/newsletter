@@ -21,4 +21,6 @@
 * SE Michigan BeagleBone Users Group - http://bit.ly/beaglemeetup
 
 # featured projects
+* CNC Plasma cutter - http://ow.ly/UYLWY
+* TFT display on 3.8 kernel
 
