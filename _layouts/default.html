@@ -1106,58 +1106,56 @@
       </tr>
      </table>
      <br>
-
+     <!-- body container -->
      <table class="container white">
       <tbody>
        <tr>
         <td>
-     <!-- From The Foundation -->
-     <table class="twelve columns">
-      <tr>
-       <td class="panel">
-        <h6 class="dkgreytype">from the foundation</h6>
-       </td>
-      </tr>
-     </table>
-     <table class="row">
-      <tr>
-       <td class="wrapper last">
-        <table class="three columns">
-         <tr>
-          <td class="left-text-pad">
-           <img height="130" width="130" alt="Jason Kridner" src="http://beagleboard.org/static/images/jasonkridner_web1_1---(0-0-250-250-250-250)---.jpg">
-          </td>
-         </tr>
-        </table>
-       </td>
-       <td class="wrapper last">
-        <table class="nine columns">
-         <tr>
-          <td class="left-text-pad">
-           <h6>{{ page.feature.title }}</h6>
-           {{ page.feature.content }}
-           <p></p>
-          </td>
-         </tr>
-        </table>
-       </td>
-      </tr>
-     </table>
-
-     <!-- Blog Content start -->
-     <table class="row">
-      <tr>
-       <td class="wrapper">
-        <table class="six columns">
-         <tr>
-          <td class="panel">
-           <h6 class="dkgreytype">events</h6>
-          </td>
-         </tr>
-        </table>
-        <br>
-        <div class="repeatables">
-         <table class="six columns">
+         <!-- From The Foundation -->
+         <table class="twelve columns">
+          <tr>
+           <td class="panel">
+            <h6 class="dkgreytype">from the foundation</h6>
+           </td>
+          </tr>
+         </table>
+         <table class="row">
+          <tr>
+           <td class="wrapper last">
+            <table class="three columns">
+             <tr>
+              <td class="left-text-pad">
+               <img height="130" width="130" alt="Jason Kridner" src="http://beagleboard.org/static/images/jasonkridner_web1_1---(0-0-250-250-250-250)---.jpg">
+              </td>
+             </tr>
+            </table>
+           </td>
+           <td class="wrapper last">
+            <table class="nine columns">
+             <tr>
+              <td class="left-text-pad">
+               <h6>{{ page.feature.title }}</h6>
+               {{ page.feature.body }}
+              </td>
+             </tr>
+            </table>
+           </td>
+          </tr>
+         </table>
+         <!-- Blog Content start -->
+         <table class="row">
+          <tr>
+           <td class="wrapper">
+            <table class="six columns">
+             <tr>
+              <td class="panel">
+               <h6 class="dkgreytype">events</h6>
+              </td>
+             </tr>
+            </table>
+            <br>
+            <div class="repeatables">
+             <table class="six columns">
 {% for event in page.events %}
 {% include event.html title=event.title date=event.date link=event.link %}
 {% endfor %}
