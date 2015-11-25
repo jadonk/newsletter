@@ -1142,7 +1142,26 @@
            </td>
           </tr>
          </table>
-         <!-- Blog Content start -->
+         <!-- 2 columns start (everything until the footer is "six columns" or half width) -->
+         <!-- Articles -->
+         <table class="row">
+          <tr>
+           <td class="wrapper">
+            <table class="six columns">
+              <tr>
+                <td class="panel"><h6 class="dkgreytype">articles</h6></td>
+                <td class="expander"></td>
+              </tr>
+            </table>
+            <p><br />
+            </p>
+{% for article in page.articles %}
+{% include article.html link=article.link title=article.title body=article.body %}
+{% endfor %}
+           </td>
+          </tr>
+         </table>
+         <!-- Events -->
          <table class="row">
           <tr>
            <td class="wrapper">
@@ -1153,27 +1172,13 @@
               </td>
              </tr>
             </table>
-            <br>
-            <div class="repeatables">
-             <table class="six columns">
+            <p><br /></p>
 {% for event in page.events %}
 {% include event.html title=event.title date=event.date link=event.link %}
 {% endfor %}
+           </td>
+          </tr>
          </table>
-         <br>
-        </div>
-        <table class="six columns">
-         <tr>
-          <td class="panel">
-           <h6 class="dkgreytype">articles</h6>
-          </td>
-         </tr>
-        </table>
-        <br>
-{% for article in page.articles %}
-{% include article.html link=article.link title=article.title body=article.body %}
-{% endfor %}
-       </td>
        <td class="wrapper last">
         <table class="six columns">
          <tr>
