@@ -920,11 +920,6 @@ body.outlook p {
           <td class="expander"></td>
         </tr>
       </table>
-
-{% for topic in page.topics %}
-{% include topic.html title=topic.title body=topic.body link=topic.link %}
-{% endfor %}
-
     </td>
     <td class="wrapper last">
 
@@ -947,6 +942,11 @@ body.outlook p {
                         </tr>
                       </table>
                       <br />
+
+
+{% for topic in page.topics %}
+{% include topic.html title=topic.title body=topic.body link=topic.link %}
+{% endfor %}
 
                   </td>
                 </tr>
