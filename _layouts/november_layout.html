@@ -880,75 +880,9 @@ body.outlook p {
                       </table>
                       <p><br />
                       </p>
-                    <table class="six columns">
-                        <tr>
-                          <td class="left-text-pad">
-                            <h6><a href="http://beagleboard.org/blog/2015-10-14-beagleboard-x15/">Announcing the new, powerful BeagleBoard-X15 open hardware computer for electronics innovators</a></h6>
-                          <p>By Jason Kridner</p></td>
-                          <td class="expander"></td>
-                        </tr>
-                        <tr>
-                          <td><table class="six columns">
-                            <tr>
-                              <td class="left-text-pad"><a href="http://beagleboard.org/blog/2015-10-14-beagleboard-x15/"><img height="243" width="280" src="http://beagleboard.org/static/newsletter/images/beagleboard-x15-280px.png" /></a></td>
-                              <td class="expander"></td>
-                            </tr>
-                          </table></td>
-                          <td class="expander"></td>
-                        </tr>
-                        <tr>
-                          <td class="left-text-pad"><p>Powered by a Sitara™ AM572x processor from Texas Instruments (TI), BeagleBoard-X15 is loaded with fast cores tuned to various programming challenges, providing the most flexible processor-based development system from BeagleBoard.org to date. </p>
-                          <p><a href="http://beagleboard.org/blog/2015-10-14-beagleboard-x15/">Read more »</a>
-                          </td>
-                          <td class="expander"></td>
-                        </tr>
-                    </table>
-                    <br />
-                      <table class="six columns">
-                        <tr>
-                          <td class="left-text-pad"><h6><a href="http://beagleboard.org/blog/2015-09-29-microsoft-azure-certified-for-iot/">BeagleBoard.org collaborates with Microsoft to simplify Internet of Things (IoT) development</a></h6>
-                          <p>by Jason Kridner</p></td>
-                          <td class="expander"></td>
-                        </tr>
-                        <tr>
-                          <td><table class="six columns">
-                            <tr>
-                              <td class="left-text-pad"><a href="http://beagleboard.org/blog/2015-09-29-microsoft-azure-certified-for-iot/"><img height="280" width="280" src="http://beagleboard.org/static/newsletter/images/microsoft_azure_certified_rgb.png" /></a></td>
-                              <td class="expander"></td>
-                            </tr>
-                          </table></td>
-                          <td class="expander"></td>
-                        </tr>
-                        <tr>
-                          <td class="left-text-pad"><p>When developers of Internet-connected device (or “IoT”) solutions are prototyping and deploying their products, they frequently choose BeagleBoard.org BeagleBone Black and the new BeagleBoard-compatible SeeedStudio BeagleBone Green. By adding participation of these two devices in Microsoft Azure Certified for IoT, BeagleBoard.org is now extending the benefits of its proven open hardware and software ecosystem.</p>
-                          <p><a href="http://beagleboard.org/blog/2015-09-29-microsoft-azure-certified-for-iot/">Read more »</a>
-                          </td>
-                          <td class="expander"></td>
-                        </tr>
-                    </table>
-                    <br />
-                    <table class="six columns">
-                      <tr>
-                        <td class="left-text-pad"><h6><a href="http://beagleboard.org/blog/2015-09-29-autodesk-ember/">Ember opens the way to 3D printing</a></h6>
-                        <p>by Jason Kridner</p></td>
-                        <td class="expander"></td>
-                      </tr>
-                      <tr>
-                        <td><table class="six columns">
-                          <tr>
-                            <td class="left-text-pad"><a href="http://beagleboard.org/blog/2015-09-29-autodesk-ember/"><img height="264" width="280" src="http://beagleboard.org/static/newsletter/images/ember-board.jpg" /></a></td>
-                            <td class="expander"></td>
-                          </tr>
-                        </table></td>
-                        <td class="expander"></td>
-                      </tr>
-                      <tr>
-                        <td class="left-text-pad"><p>Interested in 3D printing or materials development? We all know by now that BeagleBone Black has incredibly precise machine control capabilities. Now, Autodesk® just did a bunch of us a big favor when it recently opened up its Ember high-resolution and small footprint stereolithography (SLA) 3D printer. </p>
-                        <p><a href="http://beagleboard.org/blog/2015-09-29-autodesk-ember/">Read more »</a></p>
-                        </td>
-                        <td class="expander"></td>
-                      </tr>
-                    </table>
+{% for article in page.articles %}
+{% include article.html link=article.link title=article.title body=article.body %}
+{% endfor %}
                     <p>&nbsp;</p>
                     <table class="six columns">
                       <tr>
