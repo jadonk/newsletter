@@ -921,6 +921,10 @@ body.outlook p {
         </tr>
       </table>
 
+{% for topic in page.topics %}
+{% include topic.html title=topic.title body=topic.body link=topic.link %}
+{% endfor %}
+
     </td>
     <td class="wrapper last">
 
@@ -943,105 +947,7 @@ body.outlook p {
                         </tr>
                       </table>
                       <br />
-                      <table class="six columns">
-                        <tr>
-                          <td class="right-text-pad"><h6><a href="http://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2015/05/15/beaglebone-rc-bot">How to make your own Beaglebone black bot that you can control over WiFi</a></h6>
-                          <p>by  Callum Smith</p></td>
-                          <td class="expander"></td>
-                        </tr>
-                        <tr>
-                          <td><table class="six columns">
-                            <tr>
-                              <td class="right-text-pad"><a href="http://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2015/05/15/beaglebone-rc-bo"><img  width="280" src="http://beagleboard.org/static/newsletter/images/bbb-bots-almost-finished.jpg" /></a></td>
-                              <td class="expander"></td>
-                            </tr>
-                          </table></td>
-                          <td class="expander"></td>
-                        </tr>
-                      </table>
-                      <br />
-                      <table class="six columns">
-                        <tr>
-                          <td class="right-text-pad"><h6><a href="http://www.element14.com/community/people/callum.ds/blog/2015/08/25/beaglebot--self-driven">How to make your own self driving BeagleBot</a></h6>
-                          <p>by  Callum Smith</p></td>
-                          <td class="expander"></td>
-                        </tr>
-                        <tr>
-                          <td><table class="six columns">
-                            <tr>
-                              <td class="right-text-pad"><a href="http://www.element14.com/community/people/callum.ds/blog/2015/08/25/beaglebot--self-driven"><img width="280" src="http://beagleboard.org/static/newsletter/images/self-driving-bot.png" /></a></td>
-                              <td class="expander"></td>
-                            </tr>
-                          </table></td>
-                          <td class="expander"></td>
-                        </tr>
-                        <tr>
-                          <td class="right-text-pad"><p>So using an analogue IR sensor and an extra servo, you can now improve your BeagleBot so it can control itself and turn it into a sumo bot.</p></td>
-                          <td class="expander"></td>
-                        </tr>
-                      </table>
-                      <br />
-                      <table class="six columns">
-                        <tr>
-                          <td class="right-text-pad"><h6><a href="https://www.youtube.com/watch?v=EexJH58TNZU&amp;feature=player_detailpage">Ben Heck's BeagleBone Black Geocache</a></h6>
-                          <p>by  The Ben Heck Show</p></td>
-                          <td class="expander"></td>
-                        </tr>
-                        <tr>
-                          <td><table class="six columns">
-                            <tr>
-                              <td class="right-text-pad"><a href="https://www.youtube.com/watch?v=EexJH58TNZU&amp;feature=player_detailpage"><img width="280" src="http://beagleboard.org/static/newsletter/images/20714721662_8f55c7bf54_m.jpg" /></a></td>
-                              <td class="expander"></td>
-                            </tr>
-                          </table></td>
-                          <td class="expander"></td>
-                        </tr>
-                        <tr>
-                          <td class="right-text-pad"><p>In this episode Ben and Felix set out to make a Geocache using a BeagleBone Black. The device has to be durable, it has to last for at least a month and it has to do something cool when you reach it.</p></td>
-                          <td class="expander"></td>
-                        </tr>
-                      </table>
-                      <p><br />
-                      </p>
-                      <table class="six columns">
-                        <tr>
-                          <td class="right-text-pad"><h6><a href="https://www.youtube.com/watch?feature=player_detailpage&amp;v=2HFWz1Yexhk">Daddy and Daughter Electronics Episode 7 - Building a Lunch Box Computer with BeagleBone Black</a></h6>
-                          <p>by  Philip Polstra</p></td>
-                          <td class="expander"></td>
-                        </tr>
-                        <tr>
-                          <td><table class="six columns">
-                            <tr>
-                              <td class="right-text-pad"><img src="http://beagleboard.org/static/newsletter/images/dadd-daughter-lunchbox.png" /></td>
-                              <td class="expander"></td>
-                            </tr>
-                          </table></td>
-                          <td class="expander"></td>
-                        </tr>
-                        <tr>
-                          <td class="right-text-pad"><p>In this episode we build a Minion lunch box computer with the BeagleBone Black and a 7 inch touchscreen.</p></td>
-                          <td class="expander"></td>
-                        </tr>
-                      </table>
-                      <br />
-                      <table class="six columns">
-                        <tr>
-                          <td class="right-text-pad"><h6><a href="http://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2015/07/14/testing-the-beagleboneblack-rev-c">Which BeagleBone Black OS is best?</a></h6>
-                          <p>by Alexander Rowsell</p>
-</td>
-                          <td class="expander"></td>
-                        </tr>
-                        <tr>
-                          <td><table class="six columns">
-                            <tr>
-                              <td class="right-text-pad"><a href="http://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2015/07/14/testing-the-beagleboneblack-rev-c"><img width="280" src="http://beagleboard.org/static/newsletter/images/image_3.jpg" /></a></td>
-                              <td class="expander"></td>
-                            </tr>
-                          </table></td>
-                          <td class="expander"></td>
-                        </tr>
-                      </table>
-                      <p>&nbsp;</p>
+
                   </td>
                 </tr>
                 </table>
