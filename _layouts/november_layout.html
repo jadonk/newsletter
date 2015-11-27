@@ -960,11 +960,23 @@ body.outlook p {
                 </table>
                 <br />
                 <!-- Featured Projects -->
-
+		<table class="row">
+        	 <tr>
+                  
 {% for project in page.projects %}
+{% assign loopindex = forloop.index | modulo: 2 %}
+{% assign islast = forloop.index == ( ( page.projects | size ) - 1 ) %}
+{% if loopindex == 1 %}
+		   <td class="wrapper{% if islast %} last{% endif %}">
 {% include project.html title=project.title body=project.body link=project.link image=project.image %}
+{% else %}
+{% include project.html title=project.title body=project.body link=project.link image=project.image %}
+                   </td>
+{% endif %}
 {% endfor %}
 
+		 </tr>
+		</table>
                 <!-- Legal + Unsubscribe -->
 
                 <table class="row">
