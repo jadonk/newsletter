@@ -5,12 +5,15 @@ feature:
  title: FEATURE
  body: feature.html 
 events:
- - title: EVENT1
-   date: EVENT1_DATE
-   link: http://EVENT1_URL
- - title: EVENT2
-   date: EVENT2_DATE
-   link: http://EVENT2_URL
+ - title: BeagleBone Cookbook Webinar Series
+   date: Dec 1, 2015
+   link: http://beagleboard.org/cookbook
+ - title: SE Michigan BeagleBone Users Group - Drone Building Continues
+   date: Dec 17, 2015
+   link: http://bit.ly/beaglemeetup
+ - title: Consumer Electronics Show
+   date: Jan 6-9, 2016
+   link: http://beagleboard.org/show/ces
 book:
  title: The BeagleBone Black Primer
  link: http://www.amazon.com/gp/product/0789753863
