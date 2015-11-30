@@ -45,8 +45,8 @@ projects:
    image: http://beagleboard.org/static/images/cncplasma-280.jpeg
  - title: Connecting to a MIMO Smart Baby Monitor
    link: http://beagleboard.org/project/babymonitor
-   body: PROJECT2_DESCRIPTION
-   image: http://PROJECT2_IMAGE_URL
+   body: Eliminate the cloud connection on your MIMO Smart Baby Monitor using a BeagleBone and Bluetooth Low Energy
+   image: http://beagleboard.org/static/images/mimo_connect_1.jpg
  - title: PROJECT3
    link: http://PROJECT3_URL
    body: PROJECT3_DESCRIPTION
