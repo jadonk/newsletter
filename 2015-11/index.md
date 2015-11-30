@@ -18,11 +18,11 @@ book:
  image: http://beagleboard.org/static/images/bbb_primer.jpg
 articles:
  - title: SanCloud BeagleBoard Enhanced
-   link: http://ARTICLE1_URL
-   body: ARTICLE1_INTRO
-   image: ARTICLE1_IMAGE_URL
+   link: http://beagleboard.org/blog/2015-11-23-beaglebone-enhanced
+   body: <p>SanCloud is joining the BeagleBoard.org logo licensing family and enhancing the open hardware BeagleBone Black design you love with more features than you thought possible! The SanCloud BeagleBone Enhanced is an ultra-powered embedded computer that adds 1GB DDR3, Gigabit Ethernet, sensors, SPI flash and more and can <em>(still)</em> fit in a mint tin.</p>
+   image: http://beagleboard.org/static/images/BeagleEnhanced.jpg
  - title: ARTICLE2
-   link: http://ARTICLE2_URL
+   link: http://beagleboard.org/blog/2015-11-23-beaglebone-enhanced
    body: ARTICLE2_INTRO
    image: ARTICLE2_IMAGE_URL
 topics:
