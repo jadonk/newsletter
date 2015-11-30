@@ -39,10 +39,10 @@ topics:
    link: http://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2015/11/19/build-fbtft-drviers-for-ti-linux-41-kernel
    body: <p>While this support is now in BeagleBone 4.1 kernels, Drew Fustini explores how he added it before it was enabled by default.</p>
 projects:
- - title: PROJECT1
-   link: http://PROJECT1_URL
-   body: PROJECT1_DESCRIPTION
-   image: http://PROJECT1_IMAGE_URL
+ - title: Upgrading a CNC plasma cutting machine
+   link: http://beagleboard.org/project/cncplasma/
+   body: Improving safety and implementing basic motion control with a BeagleBone Black
+   image: http://beagleboard.org/static/images/cncplasma.jpeg
  - title: PROJECT2
    link: http://PROJECT2_URL
    body: PROJECT2_DESCRIPTION
@@ -51,8 +51,8 @@ projects:
    link: http://PROJECT3_URL
    body: PROJECT3_DESCRIPTION
    image: http://PROJECT3_IMAGE_URL
- - title: PROJECT4
-   link: http://PROJECT4_URL
-   body: PROJECT4_DESCRIPTION
-   image: http://PROJECT4_IMAGE_URL
+ - title: BeagleBone Black LCDs with Prebuilt FBTFT drivers
+   link: http://beagleboard.org/project/bbb-lcd-fbtft-prebuilt/
+   body: Use small TFT LCDs displays as Linux framebuffer on BeagleBone Black using pre-built fbtft drivers for Linux 3.8.13-bone50
+   image: http://beagleboard.org/static/images/bbb-lcd-fbtft-prebuilt.jpeg
 ---
