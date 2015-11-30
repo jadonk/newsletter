@@ -1,6 +1,7 @@
 ---
 layout: november_layout
 title: November Dog Dish
+link: http://beagleboard.org/newsletter/2015-11
 feature:
  title: BeagleBoard-X15, new BeagleBone clone and CES
  body: <p>This is a busy time of year. At BeagleBoard.org, we are working frantically to get BeagleBoard-X15 past FCC and into production, but that isn't all we are up to. From easy to possible, we're working to make sure innovation is available to everyone, which always means open source hardware. Check out the Music Tech Challenge, lots of cool projects below and more, but make sure not to miss meeting us at CES to see how we are accelerating open innovation moving forward.</p> 
