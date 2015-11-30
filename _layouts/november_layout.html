@@ -883,23 +883,6 @@ body.outlook p {
 {% for article in page.articles %}
 {% include article.html link=article.link title=article.title body=article.body image=article.image %}
 {% endfor %}
-                    <p>&nbsp;</p>
-                    <table class="six columns">
-                      <tr>
-                        <td class="panel1"><h6 class="dkgreytype">events</h6></td>
-                        <td class="expander"></td>
-                      </tr>
-                    </table>
-                    <p>&nbsp;</p>
-                    <table class="six columns">
-                     <tr>
-                       <td class="left-text-pad">
-{% for event in page.events %}
-{% include event.html title=event.title date=event.date link=event.link %}
-{% endfor %}
-                        </td>
-                      </tr>
-                    </table>
                   </td>
                   <td class="wrapper last">
                     <table class="six columns">
@@ -934,6 +917,22 @@ body.outlook p {
   </tr>
 </table>
                     <br />
+                    <table class="six columns">
+                      <tr>
+                        <td class="panel1"><h6 class="dkgreytype">events</h6></td>
+                        <td class="expander"></td>
+                      </tr>
+                    </table>
+                    <p>&nbsp;</p>
+                    <table class="six columns">
+                     <tr>
+                       <td class="left-text-pad">
+{% for event in page.events %}
+{% include event.html title=event.title date=event.date link=event.link %}
+{% endfor %}
+                        </td>
+                      </tr>
+                    </table>
                     <br />
                       <table class="six columns">
                         <tr>
