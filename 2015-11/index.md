@@ -42,6 +42,9 @@ topics:
  - title: How to integrate TFT LCD support
    link: http://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2015/11/19/build-fbtft-drviers-for-ti-linux-41-kernel
    body: <p>While this support is now in BeagleBone 4.1 kernels, Drew Fustini explores how he added it before it was enabled by default.</p>
+ - title: Kernel Updates 4.4.x-ti
+   link: http://beagleboard.org/Community/Forums?place=msg%2Fbeagleboard%2F0zuP8nkygj4%2FJkyW_myyBwAJ
+   body: Linux kernel version 4.4.x support released for Beagles
 projects:
  - title: Upgrading a CNC plasma cutting machine
    link: http://beagleboard.org/project/cncplasma/
