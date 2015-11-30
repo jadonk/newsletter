@@ -42,7 +42,7 @@ projects:
  - title: Upgrading a CNC plasma cutting machine
    link: http://beagleboard.org/project/cncplasma/
    body: Improving safety and implementing basic motion control with a BeagleBone Black
-   image: http://beagleboard.org/static/images/cncplasma.jpeg
+   image: http://beagleboard.org/static/images/cncplasma-280.jpeg
  - title: PROJECT2
    link: http://PROJECT2_URL
    body: PROJECT2_DESCRIPTION
