@@ -43,8 +43,8 @@ projects:
    link: http://beagleboard.org/project/cncplasma/
    body: Improving safety and implementing basic motion control with a BeagleBone Black
    image: http://beagleboard.org/static/images/cncplasma-280.jpeg
- - title: PROJECT2
-   link: http://PROJECT2_URL
+ - title: Connecting to a MIMO Smart Baby Monitor
+   link: http://beagleboard.org/project/babymonitor
    body: PROJECT2_DESCRIPTION
    image: http://PROJECT2_IMAGE_URL
  - title: PROJECT3
