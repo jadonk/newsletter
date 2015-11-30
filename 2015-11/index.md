@@ -43,14 +43,14 @@ projects:
    link: http://beagleboard.org/project/cncplasma/
    body: Improving safety and implementing basic motion control with a BeagleBone Black
    image: http://beagleboard.org/static/images/cncplasma-280.jpeg
+ - title: Guaging Wireless AP Stability
+   link: http://beagleboard.org/project/apstability/
+   body: Build a WiFi Access Point tester with an LED status indicator
+   image: http://beagleboard.org/static/images/apstability.jpg
  - title: Connecting to a MIMO Smart Baby Monitor
    link: http://beagleboard.org/project/babymonitor
    body: Eliminate the cloud connection on your MIMO Smart Baby Monitor using a BeagleBone and Bluetooth Low Energy
    image: http://beagleboard.org/static/images/mimo_connect_1.jpg
- - title: PROJECT3
-   link: http://PROJECT3_URL
-   body: PROJECT3_DESCRIPTION
-   image: http://PROJECT3_IMAGE_URL
  - title: BeagleBone Black LCDs with Prebuilt FBTFT drivers
    link: http://beagleboard.org/project/bbb-lcd-fbtft-prebuilt/
    body: Use small TFT LCDs displays as Linux framebuffer on BeagleBone Black using pre-built fbtft drivers for Linux 3.8.13-bone50
