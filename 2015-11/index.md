@@ -21,10 +21,10 @@ articles:
    link: http://beagleboard.org/blog/2015-11-23-beaglebone-enhanced
    body: <p>SanCloud is joining the BeagleBoard.org logo licensing family and enhancing the open hardware BeagleBone Black design you love with more features than you thought possible! The SanCloud BeagleBone Enhanced is an ultra-powered embedded computer that adds 1GB DDR3, Gigabit Ethernet, sensors, SPI flash and more and can <em>(still)</em> fit in a mint tin.</p>
    image: http://beagleboard.org/static/images/BeagleEnhanced.jpg
- - title: ARTICLE2
-   link: http://beagleboard.org/blog/2015-11-23-beaglebone-enhanced
-   body: ARTICLE2_INTRO
-   image: ARTICLE2_IMAGE_URL
+ - title: Deadline extended for Music Tech Challenge
+   link: http://beagleboard.org/blog/2015-11-23-musictech-challenge/
+   body: <p>You now have until December 7th to join this challenge, win cool prizes and advance the state of open hardware music.</p>
+   image: http://beagleboard.org/static/images/MusicTech_hp.png
 topics:
  - title: TOPIC1
    link: http://TOPIC1_URL
