@@ -20,6 +20,10 @@ book:
  body: <p>Great introduction to the world of Beagle all the way to software defined radio, computer vision and car monitoring</p>
  image: http://beagleboard.org/static/images/bbb_primer.jpg
 articles:
+ - title: BeagleBoard-X15 and IoT Interview
+   link: http://iotdesign.embedded-computing.com/articles/beagleboard-x15-keeps-easy-things-easy-makes-hard-things-possible-for-iot-maker-pros/
+   body: <p>BeagleBoard-X15 keeps easy things easy, makes hard things possible for IoT Maker Pros.</p>
+   image: http://beagleboard.org/static/images/x15blockosm.png
  - title: SanCloud BeagleBoard Enhanced
    link: http://beagleboard.org/blog/2015-11-23-beaglebone-enhanced
    body: <p>SanCloud is joining the BeagleBoard.org logo licensing family and enhancing the open hardware BeagleBone Black design you love with more features than you thought possible! The SanCloud BeagleBone Enhanced is an ultra-powered embedded computer that adds 1GB DDR3, Gigabit Ethernet, sensors, SPI flash and more and can <em>(still)</em> fit in a mint tin.</p>
