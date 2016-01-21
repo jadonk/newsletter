@@ -1,4 +1,5 @@
-=================================================
+Newsletter: January 2016
+
 # from the foundation
 ## BeagleBone Blue
 * Additional details to be announced in February. Production planned for May.
