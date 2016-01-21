@@ -64,6 +64,15 @@ Newsletter: January 2016
 * NewsWatch is airing a Consumer Electronics Show 2016 Special featuring BeagleBoard.org, Oculus Rift, drones, interviews and more
 * You can also watch the segment on Vimeo: https://vimeo.com/151100483 
 
+## 32C3: BEYOND YOUR CABLE MODEM
+* http://hackaday.com/2015/12/29/32c3-beyond-your-cable-modem/
+> There’s even a bone for you die-hard hardware hackers out there who think that all of this software security stuff is silly. To get the modem’s firmware in the first place, at minute 42 of the talk, [Alexander] shows briefly how he pulled the flash chip off the device and read it into his computer using a BeagleBone Black. No JTAG, no nothing. Just pulling the chip off and reading it the old-fashioned way.
+
+## TIME: This New Gadget Could Prevent Another Volkswagen Scandal
+* https://blog.adafruit.com/2015/12/01/this-new-gadget-could-prevent-another-volkswagen-scandal-time/
+> BeagleBone Black + GPS-tracker that has barometric pressure reading and humidit
+
+
 ## SanCloud BeagleBone Enhanced
 * New Jan 2016 video Video: https://www.youtube.com/watch?v=i2IRmjN_fJU
 * Enhanced BeagleBone SBC has 1GB RAM, GbE, sensors
@@ -94,14 +103,24 @@ Newsletter: January 2016
   * We are about a week away from, 4.4.0 lts being released.  (4.4.0-rc8 is still being built for every distro on the farm).. 
   * I just want to ping and remind everyone with my plans. 
   * I'd like to keep "4.1.x" going till the 4.(4+next) lts release... 
-> Robert C. Nelson: 4.1 repo
+* Robert C. Nelson: 4.1 repo
   * https://groups.google.com/d/msg/beagleboard/TMGEWjBLsok/StLZ7lvUmRYJ
   * Just a heads up, the 4.1 branch:
   * https://github.com/beagleboard/linux/tree/4.1
   * Is now based on ti's 4.1.x-ti release. (same thing we did with 3.14.x)
   * http://git.ti.com/gitweb/?p=ti-linux-kernel/ti-linux-kernel.git;a=shortlog;h=refs/heads/ti-linux-4.1.y
+* Robert C. Nelson: 4.4-rt branch opened up
+  * https://groups.google.com/d/msg/beagleboard/9tuyf1_-vz0/cHhWYcPcDAAJ
+  * I just opened up the 4.4 branch on https://github.com/beagleboard/linux/
+  * https://github.com/beagleboard/linux/tree/4.4
+  * It boots just fine on my bbb..
+  * We still recommend everyone use the "4.1" branch..
+  * But there's no reason to not start looking at 4.4
+  * https://github.com/beagleboard/bb.org-overlays/ will support "BOTH" 4.1 & 4.4 branches
 * Docker for debian Wheezy
   * https://groups.google.com/forum/#!category-topic/beagleboard/beaglebone-black/2cnwVEmKqX4
+* Beaglebone Quadcopter!
+  * https://groups.google.com/d/msg/beagleboard/TkwaB8a9NIk/_bgIyRuBHLAJ
 
 
 # events
@@ -120,3 +139,6 @@ Newsletter: January 2016
   > We are IoTalabs and we are a group of internet of things enthusiasts that love hacking together different devices. We’ve been working on many projects (check out our current project http://doteverything.co/index.html ) and we wanted to share our experience making a digitized drawing board!.
   * Guide: http://doteverything.co/blog2.html.
   * Instructables: http://www.instructables.com/id/DIY-Digitized-Drawing-Board/
+* RFID authentication for hackerspace door
+  * http://beagleboard.org/project/rfid-authentication-for-hacker
+  * Chicago hackerspace Pumping Station: One uses BeagleBone Black and RFID to control door access
