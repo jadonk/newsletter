@@ -135,15 +135,6 @@ Mar 31, 2016 at 11:59 PM PT
 Winners announced:
 Apr 2, 2016
 
-## Digitized Drawing Board with Beagle Bone Black #ArtTuesday
-https://blog.adafruit.com/2016/01/19/digitized-drawing-board-with-beagle-bone-black-arttuesday/
-
-Video: https://youtu.be/Adoah9AO_zU
-
-> We are IoTalabs and we are a group of internet of things enthusiasts that love hacking together different devices. We’ve been working on many projects (check out our current project http://doteverything.co/index.html ) and we wanted to share our experience making a digitized drawing board!.
-
-Guide: http://doteverything.co/blog2.html.
-Instructables: http://www.instructables.com/id/DIY-Digitized-Drawing-Board/
 
 
 ## Linux Kernel Developer Workspaces Video: Mark Brown
@@ -168,13 +159,21 @@ http://www.linux.com/news/special-feature/linux-developers/859805-linux-kernel-d
 * TFT displays - http://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2015/11/19/build-fbtft-drviers-for-ti-linux-41-kernel
 
 # events
-* Webinar - http://beagleboard.org/cookbook
-* X15 webinar
-* SE Michigan BeagleBone Users Group - http://bit.ly/beaglemeetup
+* Continue quadcopter build, discuss Penguicon and plan next session
+** http://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/events/227365084/
+** Thursday, January 28, 2016, 7:00 PM, i3 Detroit, 1481 Wordsworth St, Ferndale, MI 
+
+* Taking the BeagleBone Cookbook recipes beyond BeagleBone Black
+** http://www.oreilly.com/pub/e/3639
+** Presented by: Jason Kridner, Duration: Approximately 60 minutes, Cost: Free
+
 
 # featured projects
-* CNC Plasma cutter - http://ow.ly/UYLWY
-* TFT display on 3.8 kernel
-* http://dev.iachieved.it/iachievedit/gauging-wireless-ap-stability-with-a-beaglebone-black/
+* Digitized Drawing Board with Beagle Bone Black #ArtTuesday
+** https://blog.adafruit.com/2016/01/19/digitized-drawing-board-with-beagle-bone-black-arttuesday/
+** Video: https://youtu.be/Adoah9AO_zU
+> We are IoTalabs and we are a group of internet of things enthusiasts that love hacking together different devices. We’ve been working on many projects (check out our current project http://doteverything.co/index.html ) and we wanted to share our experience making a digitized drawing board!.
+** Guide: http://doteverything.co/blog2.html.
+** Instructables: http://www.instructables.com/id/DIY-Digitized-Drawing-Board/
 
 
