@@ -61,12 +61,15 @@ Newsletter: January 2016
 
 
 # hot off the presses
+## BeagleBone on Discovery Channel 
+In case you are watching TV tomorrow night (Friday, January 22nd, 2016) NewsWatch is airing a Consumer Electronics Show 2016 Special featuring BeagleBoard.org, Oculus Rift, drones, interviews and more. The episode airs on the Discovery Channel (7:00-7:30 ET/PT), except on DISH Network, which only airs in ET.
+Of course, you can also watch the segment on Vimeo: https://vimeo.com/151100483 
+
 ## SanCloud BeagleBone Enhanced
-* Video: https://www.youtube.com/watch?v=i2IRmjN_fJU
+* New Jan 2016 video Video: https://www.youtube.com/watch?v=i2IRmjN_fJU
 * Enhanced BeagleBone SBC has 1GB RAM, GbE, sensors
   * Jan 20, 2016 — by Rick Lehrbaum — 109 views
   * http://linuxgizmos.com/beaglebone-black-hacker-sbc-gains-another-offspring/
-  > SanCloud unveiled an enhanced version of the BeagleBone Black SBC, with 2GB RAM, GbE, extra USB ports, barometric and temperature sensors, and 6-axis MEMS.
   > Manchester UK-based SanCloud showed a prototype of a “BeagleBone Enhanced” variant of the BeagleBone Black single board computer, in TI’s booth at CES earlier this month.
   > A crowdfunding campaign for the BeagleBone Enhanced will be launched soon, according to Murphy. In the mean time, neither pricing nor first shipment dates have been disclosed. Additional details will eventually emerge at the SanCloud website.
 * BeagleBone Enhanced at CES
@@ -74,23 +77,39 @@ Newsletter: January 2016
 * SanCloud BeagleBoneEnhanced
   http://www.sancloud.co.uk/?p=249
 
-
 # articles
+* Using Appropriate Kernel Interfaces
+  * http://www.hy-research.com/beagle_userland.html
+  * Hunyue Yau of H-Y Research
+  > One of the values of Linux on the BeagleBoards is being able to leverage existing Linux software. However, an alarming tread on support lists, tutorials, and projects is devaluating Linux possibly without even users being aware of it. Let's briefly look at some common problems.
 * Linux Kernel Developer Workspaces Video: Mark Brown
   * http://www.linux.com/news/special-feature/linux-developers/859805-linux-kernel-developer-workspaces-video-mark-brown
+  * great to see Mark uses BeagleBone Black as his portable testing lab
 
 # community topics
-* Robert C Nelson to rebase on 4.4 stable [TODO: reference]
+* Robert C. Nelson: 4.4-lts plans (4.1-lts not going away)
+  * https://groups.google.com/d/msg/beagleboard/T3lx6CQ4cXY/0q9z5C-8CQAJ
+  > We are about a week away from, 4.4.0 lts being released.  (4.4.0-rc8 is still being built for every distro on the farm).. 
+  > I just want to ping and remind everyone with my plans. 
+  > I'd like to keep "4.1.x" going till the 4.(4+next) lts release... 
+> Robert C. Nelson: 4.1 repo
+  * https://groups.google.com/d/msg/beagleboard/TMGEWjBLsok/StLZ7lvUmRYJ
+  > Just a heads up, the 4.1 branch:
+  > https://github.com/beagleboard/linux/tree/4.1
+  > Is now based on ti's 4.1.x-ti release. (same thing we did with 3.14.x)
+  > http://git.ti.com/gitweb/?p=ti-linux-kernel/ti-linux-kernel.git;a=shortlog;h=refs/heads/ti-linux-4.1.y
+* Docker for debian Wheezy
+  * https://groups.google.com/forum/#!category-topic/beagleboard/beaglebone-black/2cnwVEmKqX4
+
 
 # events
-* Continue quadcopter build, discuss Penguicon and plan next session
+* Southeast Michigan (USA) BeagleBone User Group
+  * Continue quadcopter build, discuss Penguicon and plan next session
   * http://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/events/227365084/
   * Thursday, January 28, 2016, 7:00 PM, i3 Detroit, 1481 Wordsworth St, Ferndale, MI 
-
 * Taking the BeagleBone Cookbook recipes beyond BeagleBone Black
   * http://www.oreilly.com/pub/e/3639
   * Presented by: Jason Kridner, Duration: Approximately 60 minutes, Cost: Free
-
 
 # featured projects
 * Digitized Drawing Board with Beagle Bone Black #ArtTuesday
