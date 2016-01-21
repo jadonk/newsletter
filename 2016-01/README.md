@@ -1,38 +1,4 @@
 
-## BeagleBone Blue
-Additional details to be announced in February. Production planned for May.
-http://beagleboard.org/blue
-> BeagleBone Blue is the affordable and complete educational robotics controller built around the popular BeagleBone open hardware computer. With complete robotics education curriculum, barriers to learning and growing are completely eliminated.
-
-> Processor: TI AM3358 1-GHz ARM® Cortex-8
-512MB DDR3 RAM
-4GB 8-bit on-board flash storage
-2×32-bit 200-MHz programmable real-time units (PRUs)
-On-board flash programmed with Linux distribution
-Connectivity and sensors
-Battery: 2-cell LiPo support with balancing, 6-16V charger input
-Wireless: 802.11bgn, Bluetooth 4.0 and BLE
-Motor control: 8 6V servo out, 4 DC motor out, 4 quad enc in
-Sensors: 9 axis IMU, barometer
-Connectivity: HighSpeed USB 2.0 client and host
-Other easy connect interfaces: GPS, DSM2 radio, UARTs, SPI, I2C, analog, buttons, LEDs
-Software Compatibility
-Debian, Ubuntu Snappy, ...
-ROS, Ardupilot, Machinekit, ...
-Graphical programming, Cloud9 IDE on Node.js
-plus much more
-Register your interest
-
-
-BeagleBone Blue Introduction at CES
-Tom Bewley of UCSD shares a brief introduction to BeagleBone Blue.
-https://www.youtube.com/watch?v=T15D7U2BOf4
-
-Quick BeagleBoard.org Overview
-Jason Kridner gives a rapid introduction to BeagleBoard.org.
-https://vimeo.com/151100483
-
-
 ## SanCloud BeagleBone Enhanced
 Video: https://www.youtube.com/watch?v=i2IRmjN_fJU
 
@@ -137,43 +103,67 @@ Apr 2, 2016
 
 
 
-## Linux Kernel Developer Workspaces Video: Mark Brown
-http://www.linux.com/news/special-feature/linux-developers/859805-linux-kernel-developer-workspaces-video-mark-brown
 
 =================================================
 # from the foundation
-* The Internet of Drones?
+## BeagleBone Blue
+Additional details to be announced in February. Production planned for May.
+http://beagleboard.org/blue
+> BeagleBone Blue is the affordable and complete educational robotics controller built around the popular BeagleBone open hardware computer. With complete robotics education curriculum, barriers to learning and growing are completely eliminated.
+
+> Processor: TI AM3358 1-GHz ARM® Cortex-8
+512MB DDR3 RAM
+4GB 8-bit on-board flash storage
+2×32-bit 200-MHz programmable real-time units (PRUs)
+On-board flash programmed with Linux distribution
+Connectivity and sensors
+Battery: 2-cell LiPo support with balancing, 6-16V charger input
+Wireless: 802.11bgn, Bluetooth 4.0 and BLE
+Motor control: 8 6V servo out, 4 DC motor out, 4 quad enc in
+Sensors: 9 axis IMU, barometer
+Connectivity: HighSpeed USB 2.0 client and host
+Other easy connect interfaces: GPS, DSM2 radio, UARTs, SPI, I2C, analog, buttons, LEDs
+Software Compatibility
+Debian, Ubuntu Snappy, ...
+ROS, Ardupilot, Machinekit, ...
+Graphical programming, Cloud9 IDE on Node.js
+plus much more
+Register your interest
+
+
+BeagleBone Blue Introduction at CES
+Tom Bewley of UCSD shares a brief introduction to BeagleBone Blue.
+https://www.youtube.com/watch?v=T15D7U2BOf4
+
+Quick BeagleBoard.org Overview
+Jason Kridner gives a rapid introduction to BeagleBoard.org.
+https://vimeo.com/151100483
+
 
 # hot off the presses
-* The BeagleBone Black Primer - http://www.amazon.com/gp/product/0789753863
+* 
 
 # articles
-* SanCloud BeagleBoard Enhanced - http://beagleboard.org/blog/2015-11-23-beaglebone-enhanced/
-* MIMO Baby Monitor -  https://gist.github.com/jadonk/f2323348eb7706889f88
-* Music Tech Challenge - http://beagleboard.org/blog/2015-11-23-musictech-challenge/
-* http://iotdesign.embedded-computing.com/articles/beagleboard-x15-keeps-easy-things-easy-makes-hard-things-possible-for-iot-maker-pros/
+* Linux Kernel Developer Workspaces Video: Mark Brown
+  * http://www.linux.com/news/special-feature/linux-developers/859805-linux-kernel-developer-workspaces-video-mark-brown
 
 # community topics
-* OpenCL support on BeagleBoard-X15 - https://groups.google.com/d/msg/beagleboard-x15/4j91MoUBKO4/EnXP0zqeCAAJ
-* SPI DMA enabled - http://beagleboard.org/Community/Forums?place=msg%2Fbeagleboard%2F_22bW7vMkW0%2F16mBP2faAQAJ
-* TFT displays - http://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2015/11/19/build-fbtft-drviers-for-ti-linux-41-kernel
+* Robert C Nelson to rebase on 4.4 stable [TODO: reference]
 
 # events
 * Continue quadcopter build, discuss Penguicon and plan next session
-** http://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/events/227365084/
-** Thursday, January 28, 2016, 7:00 PM, i3 Detroit, 1481 Wordsworth St, Ferndale, MI 
+  * http://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/events/227365084/
+  * Thursday, January 28, 2016, 7:00 PM, i3 Detroit, 1481 Wordsworth St, Ferndale, MI 
 
 * Taking the BeagleBone Cookbook recipes beyond BeagleBone Black
-** http://www.oreilly.com/pub/e/3639
-** Presented by: Jason Kridner, Duration: Approximately 60 minutes, Cost: Free
+  * http://www.oreilly.com/pub/e/3639
+  * Presented by: Jason Kridner, Duration: Approximately 60 minutes, Cost: Free
 
 
 # featured projects
 * Digitized Drawing Board with Beagle Bone Black #ArtTuesday
-** https://blog.adafruit.com/2016/01/19/digitized-drawing-board-with-beagle-bone-black-arttuesday/
-** Video: https://youtu.be/Adoah9AO_zU
-> We are IoTalabs and we are a group of internet of things enthusiasts that love hacking together different devices. We’ve been working on many projects (check out our current project http://doteverything.co/index.html ) and we wanted to share our experience making a digitized drawing board!.
-** Guide: http://doteverything.co/blog2.html.
-** Instructables: http://www.instructables.com/id/DIY-Digitized-Drawing-Board/
-
-
+  * https://blog.adafruit.com/2016/01/19/digitized-drawing-board-with-beagle-bone-black-arttuesday/
+  * Video: https://youtu.be/Adoah9AO_zU
+  > We are IoTalabs and we are a group of internet of things enthusiasts that love hacking together different devices. We’ve been working on many projects (check out our current project http://doteverything.co/index.html ) and we wanted to share our experience making a digitized drawing board!.
+  * Guide: http://doteverything.co/blog2.html.
+  * Instructables: http://www.instructables.com/id/DIY-Digitized-Drawing-Board/
