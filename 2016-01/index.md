@@ -68,7 +68,7 @@ community topics:
 Projects:
 - title: Digitized Drawing Board with Beagle Bone Black
    link: https://blog.adafruit.com/2016/01/19/digitized-drawing-board-with-beagle-bone-black-arttuesday/
-   body: "We are IoTalabs and we are a group of internet of things enthusiasts that love hacking together different devices. We’ve been working on many projects and we wanted to share our experience making a digitized drawing board: http://doteverything.co/blog2.html.
+   body: IoTalabs is a group of IoT enthusiasts that have shared their experience of making a digitized drawing board: http://doteverything.co/blog2.html
    image:
 - title: RFID authentication for hackerspace door
    link: http://beagleboard.org/project/rfid-authentication-for-hacker
