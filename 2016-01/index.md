@@ -11,15 +11,12 @@ feature:
  body:  [AWS IoT contest on Hackster.io](ttps://www.hackster.io/challenges/AWSIoTMegaContest) will end on Jan 31, 2016 at 11:59 PM PT.  Contestants were given a choice of development kits including the [BeagleBone Green and Grove IoT Starter Kit by Seeedstudio](http://www.seeedstudio.com/wiki/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS).
  
 events:
- - title: 
-   date: Dec 1, 2015
-   link: http://beagleboard.org/cookbook
- - title: SE Michigan BeagleBone Users Group - Drone Building Continues
-   date: Dec 17, 2015
-   link: http://bit.ly/beaglemeetup
- - title: Consumer Electronics Show
-   date: Jan 6-9, 2016
-   link: http://beagleboard.org/show/ces
+ - title: Webinar "Taking the BeagleBone Cookbook recipes beyond BeagleBone Black"
+   date: Thu, Jan 28, 2016
+   link: http://www.oreilly.com/pub/e/3639
+ - title: SE Michigan BeagleBone Users Group - Continue quadcopter build
+   date: Thu, Jan 28, 2016
+   link: http://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/events/227365084/
 In the news:
 - title: SanCloud BeagleBone Enhanced at CES
    link: http://www.sancloud.co.uk/?p=253
@@ -32,18 +29,6 @@ In the news:
 - title: Hackaday coverage of 32C3 talk: "Beyond Your Cable Modem"
    link: http://hackaday.com/2015/12/29/32c3-beyond-your-cable-modem/
    body: "To get the modem’s firmware in the first place, at minute 42 of the talk, Alexander shows briefly how he pulled the flash chip off the device and read it into his computer using a BeagleBone Black"
-   image:
-- title: 
-   link: 
-   body: 
-   image:
-- title: 
-   link: 
-   body: 
-   image:
-- title: 
-   link: 
-   body: 
    image:
 
 Articles:
@@ -80,7 +65,14 @@ community topics:
    link: https://groups.google.com/d/msg/beagleboard/TkwaB8a9NIk/_bgIyRuBHLAJ
    body: 
    image:
-
-
+Projects:
+- title: Digitized Drawing Board with Beagle Bone Black
+   link: https://blog.adafruit.com/2016/01/19/digitized-drawing-board-with-beagle-bone-black-arttuesday/
+   body: "We are IoTalabs and we are a group of internet of things enthusiasts that love hacking together different devices. We’ve been working on many projects and we wanted to share our experience making a digitized drawing board: http://doteverything.co/blog2.html.
+   image:
+- title: RFID authentication for hackerspace door
+   link: http://beagleboard.org/project/rfid-authentication-for-hacker
+   body: Chicago hackerspace Pumping Station: One uses BeagleBone Black and RFID to control door access
+   image:
  
 ---
