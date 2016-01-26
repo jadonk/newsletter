@@ -28,8 +28,7 @@ articles:
    image: http://beagleboard.org/static/images/TODO.png
  - title: BeagleBone Enhanced demo video
    link: https://www.youtube.com/watch?v=i2IRmjN_fJU
-   body: <p>Quick demonstration of the <a href="http://www.sancloud.co.uk/?cat=6">SanCloud BeagleBone</a> Enhanced working with WiFi, accelerometer and BoneScript.
-</p>
+   body: <p>Quick demonstration of the <a href="http://www.sancloud.co.uk/?cat=6">SanCloud BeagleBone</a> Enhanced working with WiFi, accelerometer and BoneScript.</p>
    image: http://beagleboard.org/static/images/BeagleEnhanced.jpg
  - title: AWS IoT Mega Contest in the final stretch
    link: https://www.hackster.io/challenges/AWSIoTMegaContest
