@@ -12,9 +12,6 @@ events:
  - title: SE Michigan BeagleBone Users Group - Continue quadcopter build, discuss Penguicon
    date: Thursday, Jan. 28, 7:00pm ET
    link: http://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/events/227365084/
- - title: Consumer Electronics Show
-   date: Jan 6-9, 2016
-   link: http://beagleboard.org/show/ces
 book:
  title: BeagleBone Black Cookbook
  link: https://www.packtpub.com/hardware-and-creative/beaglebone-black-cookbook
