@@ -1,6 +1,6 @@
 ---
 layout: november_layout
-title: November Dog Dish
+title: January Dog Dish
 link: http://beagleboard.org/newsletter/2015-11
 feature:
  title: BeagleBoard-X15, new BeagleBone clone and CES
