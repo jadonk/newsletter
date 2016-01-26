@@ -1,7 +1,7 @@
 ---
 layout: november_layout
-title: November Dog Dish
-link: http://beagleboard.org/newsletter/2015-11
+title: January 2016 Dog Dish
+link: http://beagleboard.org/newsletter/2016-1
 feature:
  title: BeagleBone Blue announced at CES
   body: <p>BeagleBone Blue is the affordable and complete educational robotics controller built around the popular BeagleBone open hardware computer.  With complete robotics education curriculum, barriers to learning and growing are completely eliminated.</p>
