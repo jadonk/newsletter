@@ -16,9 +16,9 @@ events:
    date: Jan 6-9, 2016
    link: http://beagleboard.org/show/ces
 book:
- title: The BeagleBone Black Primer
- link: http://www.amazon.com/gp/product/0789753863
- body: <p>Great introduction to the world of Beagle all the way to software defined radio, computer vision and car monitoring</p>
+ title: BeagleBone Black Cookbook
+ link: https://www.packtpub.com/hardware-and-creative/beaglebone-black-cookbook
+ body: <p>Over 60 recipes and solutions for inventors, makers, and budding engineers to create projects using the BeagleBone Black</p>
  image: http://beagleboard.org/static/images/bbb_primer.jpg
 articles:
  - title: BeagleBoard-X15 and IoT Interview
