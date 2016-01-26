@@ -1,25 +1,22 @@
 ---
 layout: november_layout
-title: November Dog Dish
-link: http://beagleboard.org/newsletter/2015-11
+title: January Dog Dish
+link: http://beagleboard.org/newsletter/2016-01
 feature:
- title: BeagleBoard-X15, new BeagleBone clone and CES
- body: <p>This is a busy time of year. At BeagleBoard.org, we are working frantically to get BeagleBoard-X15 past FCC and into production, but that isn't all we are up to. From easy to possible, we're working to make sure innovation is available to everyone, which always means open source hardware. Check out the Music Tech Challenge, lots of cool projects below and more, but make sure not to miss meeting us at CES to see how we are accelerating open innovation moving forward.</p> 
+ title: BeagleBone Blue announced at CES
+ body: <p>BeagleBone Blue is the affordable and complete educational robotics controller built around the popular BeagleBone open hardware computer.  With complete robotics education curriculum, barriers to learning and growing are completely eliminated.<img src="http://beagleboard.org/static/images/beaglebonebluecountercard.png" /></p>
 events:
- - title: BeagleBone Cookbook Webinar Series
-   date: Dec 1, 2015
-   link: http://beagleboard.org/cookbook
- - title: SE Michigan BeagleBone Users Group - Drone Building Continues
-   date: Dec 17, 2015
-   link: http://bit.ly/beaglemeetup
- - title: Consumer Electronics Show
-   date: Jan 6-9, 2016
-   link: http://beagleboard.org/show/ces
+ - title: Taking the BeagleBone Cookbook recipes beyond BeagleBone Black
+   date: Thursday, Jan. 28, 1:00pm PT
+   link: http://www.oreilly.com/pub/e/3639
+ - title: SE Michigan BeagleBone Users Group - Continue quadcopter build, discuss Penguicon
+   date: Thursday, Jan. 28, 7:00pm ET
+   link: http://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/events/227365084/
 book:
- title: The BeagleBone Black Primer
- link: http://www.amazon.com/gp/product/0789753863
- body: <p>Great introduction to the world of Beagle all the way to software defined radio, computer vision and car monitoring</p>
- image: http://beagleboard.org/static/images/bbb_primer.jpg
+ title: BeagleBone Black Cookbook
+ link: https://www.packtpub.com/hardware-and-creative/beaglebone-black-cookbook
+ body: <p>Over 60 recipes and solutions for inventors, makers, and budding engineers to create projects using the BeagleBone Black</p>
+ image: https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/2929OS_BeagleBone%20Black%20Cookbook.jpg
 articles:
  - title: BeagleBoard-X15 and IoT Interview
    link: http://iotdesign.embedded-computing.com/articles/beagleboard-x15-keeps-easy-things-easy-makes-hard-things-possible-for-iot-maker-pros/
