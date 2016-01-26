@@ -12,9 +12,6 @@ events:
  - title: SE Michigan BeagleBone Users Group - Continue quadcopter build, discuss Penguicon
    date: Thursday, Jan. 28, 7:00 PM ET
    link: http://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/events/227365084/
- - title: NONE
-   date: NONE
-   link: NONE
 book:
  title: The BeagleBone Black Primer
  link: http://www.amazon.com/gp/product/0789753863
