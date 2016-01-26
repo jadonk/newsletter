@@ -19,7 +19,7 @@ book:
  title: BeagleBone Black Cookbook
  link: https://www.packtpub.com/hardware-and-creative/beaglebone-black-cookbook
  body: <p>Over 60 recipes and solutions for inventors, makers, and budding engineers to create projects using the BeagleBone Black</p>
- image: http://beagleboard.org/static/images/bbb_primer.jpg
+ image: https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/2929OS_BeagleBone%20Black%20Cookbook.jpg
 articles:
  - title: BeagleBoard-X15 and IoT Interview
    link: http://iotdesign.embedded-computing.com/articles/beagleboard-x15-keeps-easy-things-easy-makes-hard-things-possible-for-iot-maker-pros/
