@@ -16,12 +16,12 @@ book:
  title: BeagleBone Black Cookbook
  link: https://www.packtpub.com/hardware-and-creative/beaglebone-black-cookbook
  body: <p>Over 60 recipes and solutions for inventors, makers, and budding engineers to create projects using the BeagleBone Black</p>
- image: https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/2929OS_BeagleBone%20Black%20Cookbook.jpg
+ image: http://beagleboard.org/static/images/TODO.png
 articles:
  - title: SeeedStudio BeagleBone Green IoT contest kicks off
    link: https://www.hackster.io/challenges/beaglebonegreen
    body: <p>Seeed will send the winners to Maker Faire Shenzhen.  Deadline to submit your project idea is: Feb 22.  Project build deadline will then be: Mar 31</p>
-   image: https://hackster.imgix.net/uploads/image/file/88977/V2xYtZgj_400x400.png?w=400&h=300&fit=max&s=7f93930435d8a4c330f59958a9d10e8c
+   image: http://beagleboard.org/static/images/bbg_bullet.png
  - title: SanCloud BeagleBoard Enhanced
    link: http://beagleboard.org/blog/2015-11-23-beaglebone-enhanced
    body: <p>SanCloud is joining the BeagleBoard.org logo licensing family and enhancing the open hardware BeagleBone Black design you love with more features than you thought possible! The SanCloud BeagleBone Enhanced is an ultra-powered embedded computer that adds 1GB DDR3, Gigabit Ethernet, sensors, SPI flash and more and can <em>(still)</em> fit in a mint tin.</p>
