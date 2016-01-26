@@ -13,10 +13,10 @@ events:
    date: Thursday, January 28, 2016, 7:00 PM
    link: http://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/events/227365084/
 book:
- title: NEW BOOK?
- link: http://LINK
- body: <p>BOOK?</p>
- image: http://beagleboard.org/static/images/TODO.jpg
+ - title: NEW BOOK?
+   link: http://LINK
+   body: <p>BOOK?</p>
+   image: http://beagleboard.org/static/images/TODO.jpg
 articles:
  - title: SeeedStudio BeagleBone Green IoT contest kicks off
    link: https://www.hackster.io/challenges/beaglebonegreen
