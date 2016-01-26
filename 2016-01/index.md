@@ -6,15 +6,15 @@ feature:
  title: BeagleBone Blue announced at CES
  body: <p>BeagleBone Blue is the affordable and complete educational robotics controller built around the popular BeagleBone open hardware computer.  With complete robotics education curriculum, barriers to learning and growing are completely eliminated.</p>
 events:
- - title: BeagleBone Cookbook Webinar Series
-   date: Dec 1, 2015
-   link: http://beagleboard.org/cookbook
- - title: SE Michigan BeagleBone Users Group - Drone Building Continues
-   date: Dec 17, 2015
-   link: http://bit.ly/beaglemeetup
- - title: Consumer Electronics Show
-   date: Jan 6-9, 2016
-   link: http://beagleboard.org/show/ces
+ - title: Taking the BeagleBone Cookbook recipes beyond BeagleBone Black
+   date: Thursday, Jan. 28, 2016 1:00pm PT
+   link: http://www.oreilly.com/pub/e/3639
+ - title: SE Michigan BeagleBone Users Group - Continue quadcopter build, discuss Penguicon
+   date: Thursday, Jan. 28, 7:00 PM ET
+   link: http://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/events/227365084/
+ - title: NONE
+   date: NONE
+   link: NONE
 book:
  title: The BeagleBone Black Primer
  link: http://www.amazon.com/gp/product/0789753863
