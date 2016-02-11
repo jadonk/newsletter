@@ -2,7 +2,10 @@ Newsletter: January 2016
 
 # from the foundation
 
-* Google Summer of Code [http://beagleboard.org/blog/2015-02-09-time-for-gsoc/]
+* Google Summer of Code
+  * http://beagleboard.org/blog/2015-02-09-time-for-gsoc/
+  * https://groups.google.com/forum/#!forum/beagleboard-gsoc
+  * http://elinux.org/BeagleBoard/GSoC/Ideas
   * We'll be meeting up on http://bit.ly/bbgsocchat (#beagle-gsoc) every Wednesday at noon US Eastern time (http://bit.ly/bbgsocmeet), which is 5PM GMT until March 8th when it switches to 4PM GMT.
   * Google starts accepting applications for potential mentoring organizations on today, February 9th. BeagleBoard.org is going to send in an application. Your help is needed to make that application as strong as it can be!
   * Sign up on the mailing list: http://bit.ly/bbgsocml
