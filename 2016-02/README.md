@@ -1,4 +1,4 @@
-Newsletter: January 2016
+Newsletter: February 2016
 
 # from the foundation
 
