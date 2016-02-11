@@ -3,21 +3,8 @@ Newsletter: February 2016
 # from the foundation
 
 * Google Summer of Code
-  * http://beagleboard.org/blog/2015-02-09-time-for-gsoc/
   * https://groups.google.com/forum/#!forum/beagleboard-gsoc
   * http://elinux.org/BeagleBoard/GSoC/Ideas
-  * We'll be meeting up on http://bit.ly/bbgsocchat (#beagle-gsoc) every Wednesday at noon US Eastern time (http://bit.ly/bbgsocmeet), which is 5PM GMT until March 8th when it switches to 4PM GMT.
-  * Google starts accepting applications for potential mentoring organizations on today, February 9th. BeagleBoard.org is going to send in an application. Your help is needed to make that application as strong as it can be!
-  * Sign up on the mailing list: http://bit.ly/bbgsocml
-  * Join the eLinux wiki and review/update the ideas page: http://bit.ly/bbgsocideas
-  * Prospective mentors: update your info on the ideas page (change something so I know you are alive or I'll remove you)
-  * Prospective students: contact prospective mentors NOW and start looking for simple tasks to prove your ability to handle a project
-  * Need some motivation and inspiration? Check out some of the cool projects that have been executed under BeagleBoard.org's mentorship under the Google Summer of Code in previous years. I've grouped them by some of the typical focus areas where BeagleBoard.org seeks to improve the status of open source software.
-   * Improving initial experience for novice developers
-   * Linux kernel support for embedded devices and interfaces
-   * ARM processor support in open source operating systems and libraries
-   * Heterogeneous co-processor support in open source operating systems and libraries
-   * Linux userspace support of embedded devices and interfaces in high-level languages
 
 * more details about BeagleBone Blue?
 
