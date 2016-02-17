@@ -56,3 +56,7 @@ Newsletter: February 2016
   * browser-based IDE (all compiling done on the board) with an in-broswer oscilloscope.
   * paper with some more info and performance metrics: http://www.eecs.qmul.ac.uk/~andrewm/mcpherson_aes2015.pdf
   * code and hardware designs: http://bela.io/code
+
+* Project Therion
+  * http://rocketry.mit.edu/2016/01/project-therion/
+  * MIT Rocket Team: https://oshpark.com/shared_projects/KINV9I9S
