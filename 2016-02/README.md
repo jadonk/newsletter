@@ -27,6 +27,10 @@ Newsletter: February 2016
   * https://gitter.im/mirkix/BBBMINI
 * Copter diagram
   * http://copter.ardupilot.com/wp-content/uploads/sites/2/2012/12/QuadHookUp800B.jpg
+* "IoT using Beaglebone" to 50+ participants at local(Pune, India)
+  * FOSS annual event - Gnunify ( http://gnunify.in/ ).
+  * Details about talk are here: http://gnunify.in/event/126/128
+  * Photos: https://www.facebook.com/gnunify/posts/10153883240482246  (First 4 photos only)
 
 # events
 * Southeast Michigan (USA) BeagleBone User Group
