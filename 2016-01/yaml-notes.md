@@ -29,7 +29,9 @@ articles:
  - title: SeeedStudio BeagleBone Green IoT Contest kicks off
    body: "[BeagleBone Green contest on Hackster.io](https://www.hackster.io/challenges/beaglebonegreen) will send the winners to Maker Faire Shenzhen.  Deadline to submit your project idea is: Feb 22, 2016 at 11:59 PM PT.  Project build deadline will then be: Mar 31, 2016 at 11:59 PM PT."
  - title: Amazon Web Services IoT contest in final stretch
+   link:
    body: "[AWS IoT contest on Hackster.io](ttps://www.hackster.io/challenges/AWSIoTMegaContest) will end on Jan 31, 2016 at 11:59 PM PT.  Contestants were given a choice of development kits including the [BeagleBone Green and Grove IoT Starter Kit by Seeedstudio](http://www.seeedstudio.com/wiki/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS)."
+   image:
  - title: Using Appropriate Kernel Interfaces
    link: http://www.hy-research.com/beagle_userland.html
    body: 'Hunyue Yau of H-Y Research wrote: "One of the values of Linux on the BeagleBoards is being able to leverage existing Linux software. However, an alarming tread on support lists, tutorials, and projects is devaluating Linux possibly without even users being aware of it. Let's briefly look at some common problems."'
