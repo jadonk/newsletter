@@ -1,6 +1,10 @@
-Newsletter: January 2016
+Newsletter: February 2016
 
 # from the foundation
+
+* Google Summer of Code
+  * https://groups.google.com/forum/#!forum/beagleboard-gsoc
+  * http://elinux.org/BeagleBoard/GSoC/Ideas
 
 * more details about BeagleBone Blue?
 
@@ -23,6 +27,10 @@ Newsletter: January 2016
   * https://gitter.im/mirkix/BBBMINI
 * Copter diagram
   * http://copter.ardupilot.com/wp-content/uploads/sites/2/2012/12/QuadHookUp800B.jpg
+* "IoT using Beaglebone" to 50+ participants at local(Pune, India)
+  * FOSS annual event - Gnunify ( http://gnunify.in/ ).
+  * Details about talk are here: http://gnunify.in/event/126/128
+  * Photos: https://www.facebook.com/gnunify/posts/10153883240482246  (First 4 photos only)
 
 # events
 * Southeast Michigan (USA) BeagleBone User Group
@@ -41,3 +49,18 @@ Newsletter: January 2016
   * Open hardware Test Automation Controller.
   * ARM device running Debian to automate tests on 4 to 8 devices, initially aimed at LAVA support for Linaro engineers.
   * Power distribution server, serial console server, network switch and optional GPIO extensions with simple telnet control interfaces. 
+
+* Bela: The embedded platform for ultra-low latency audio
+  * http://bela.io
+  * BeagleBone Black cape with stereo audio in/out, 8 channels each of 16-bit, DC-coupled analog I/O, and 16 GPIO pins
+  * uses Xenomai Linux to run audio and sensor code at nearly bare metal priority, which means that you can use buffer sizes as small as 2 audio samples and achieve latencies under 1ms
+  * "best of both worlds: the connectivity of a Linux machine with the timing precision of a microcontroller"
+  * Augmented Instruments Laboratory, part of the Centre for Digital Music at Queen Mary University of London
+  * open-source project designed for creating self-contained musical instruments and interactive audio systems. It's got a
+  * browser-based IDE (all compiling done on the board) with an in-broswer oscilloscope.
+  * paper with some more info and performance metrics: http://www.eecs.qmul.ac.uk/~andrewm/mcpherson_aes2015.pdf
+  * code and hardware designs: http://bela.io/code
+
+* Project Therion
+  * http://rocketry.mit.edu/2016/01/project-therion/
+  * MIT Rocket Team: https://oshpark.com/shared_projects/KINV9I9S
