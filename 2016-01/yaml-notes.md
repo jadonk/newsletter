@@ -17,22 +17,22 @@ articles:
    link: http://www.sancloud.co.uk/?p=253
    body: 
    image:
- - title: Time Magazine: This New Gadget Could Prevent Another Volkswagen Scandal
+ - title: Time Magazine\: This New Gadget Could Prevent Another Volkswagen Scandal
    link: https://blog.adafruit.com/2015/12/01/this-new-gadget-could-prevent-another-volkswagen-scandal-time/
    body: Adafruit spots BeagleBone Black and GPS-tracker that has barometric pressure reading and humidity
    image:
- - title: Hackaday coverage of 32C3 talk: "Beyond Your Cable Modem"
+ - title: Hackaday coverage of 32C3 talk\: "Beyond Your Cable Modem"
    link: http://hackaday.com/2015/12/29/32c3-beyond-your-cable-modem/
    body: "To get the modem’s firmware in the first place, at minute 42 of the talk, Alexander shows briefly how he pulled the flash chip off the device and read it into his computer using a BeagleBone Black"
    image:
 articles:
  - title: SeeedStudio BeagleBone Green IoT Contest kicks off
-   body: [BeagleBone Green contest on Hackster.io](https://www.hackster.io/challenges/beaglebonegreen) will send the winners to Maker Faire Shenzhen.  Deadline to submit your project idea is: Feb 22, 2016 at 11:59 PM PT.  Project build deadline will then be: Mar 31, 2016 at 11:59 PM PT.
+   body: "[BeagleBone Green contest on Hackster.io](https://www.hackster.io/challenges/beaglebonegreen) will send the winners to Maker Faire Shenzhen.  Deadline to submit your project idea is: Feb 22, 2016 at 11:59 PM PT.  Project build deadline will then be: Mar 31, 2016 at 11:59 PM PT."
  - title: Amazon Web Services IoT contest in final stretch
-   body:  [AWS IoT contest on Hackster.io](ttps://www.hackster.io/challenges/AWSIoTMegaContest) will end on Jan 31, 2016 at 11:59 PM PT.  Contestants were given a choice of development kits including the [BeagleBone Green and Grove IoT Starter Kit by Seeedstudio](http://www.seeedstudio.com/wiki/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS).
+   body: "[AWS IoT contest on Hackster.io](ttps://www.hackster.io/challenges/AWSIoTMegaContest) will end on Jan 31, 2016 at 11:59 PM PT.  Contestants were given a choice of development kits including the [BeagleBone Green and Grove IoT Starter Kit by Seeedstudio](http://www.seeedstudio.com/wiki/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS)."
  - title: Using Appropriate Kernel Interfaces
    link: http://www.hy-research.com/beagle_userland.html
-   body: Hunyue Yau of H-Y Research wrote: "One of the values of Linux on the BeagleBoards is being able to leverage existing Linux software. However, an alarming tread on support lists, tutorials, and projects is devaluating Linux possibly without even users being aware of it. Let's briefly look at some common problems."
+   body: 'Hunyue Yau of H-Y Research wrote: "One of the values of Linux on the BeagleBoards is being able to leverage existing Linux software. However, an alarming tread on support lists, tutorials, and projects is devaluating Linux possibly without even users being aware of it. Let's briefly look at some common problems."'
    image:
  - title: BeagleBone patchset for mainline Linux kernel
    link: http://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2015/12/05/mainline-linux-kernel-on-beaglebone-black
