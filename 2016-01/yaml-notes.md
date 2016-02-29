@@ -36,9 +36,9 @@ articles:
    image:
  - title: BeagleBone patchset for mainline Linux kernel
    link: http://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2015/12/05/mainline-linux-kernel-on-beaglebone-black
-   body: Drew Fustini wrote: "After my last post Build fbtft drivers for Linux 4.4 on BeagleBone Black, I was curious what patches are needed to run mainline Linux kernel on BeagleBone Black. Here's what I've found so far."
+   body: 'Drew Fustini wrote: "After my last post Build fbtft drivers for Linux 4.4 on BeagleBone Black, I was curious what patches are needed to run mainline Linux kernel on BeagleBone Black. Here's what I've found so far."'
    image:
- - title: Linux Kernel Developer Workspaces Video: Mark Brown
+ - title: "Linux Kernel Developer Workspaces Video: Mark Brown"
    link: http://www.linux.com/news/special-feature/linux-developers/859805-linux-kernel-developer-workspaces-video-mark-brown
    body: great to see Mark uses BeagleBone Black as his portable testing lab
    image:
