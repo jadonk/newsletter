@@ -16,7 +16,10 @@ Newsletter: February 2016
   * Also include the Arrow model?
 
 # hot off the presses
-
+* BeagleBone Home Automation Blueprints
+  * https://www.packtpub.com/hardware-and-creative/beaglebone-home-automation-blueprints 
+  * Rodolfo Giometti
+  * static/images/bb-home-automation-book-2016.jpg
 
 # articles
 * NOTE: all links should be to http://beagleboard.org/blog
@@ -38,4 +41,5 @@ Newsletter: February 2016
 
 # featured projects
 * NOTE: all links should be to http://beagleboard.org/projects
+
 
