@@ -6,7 +6,7 @@ feature:
  title: BeagleBone Blue announced at CES
  body: <p>[BeagleBone Blue](http://beagleboard.org/blue) is the affordable and complete educational robotics controller built around the popular BeagleBone open hardware computer. With complete robotics education curriculum, barriers to learning and growing are completely eliminated.  Additional details to be announced in February. Production planned for May.</p><p>Jason Kridner gave an [overview to NewsWatch](https://vimeo.com/151100483)</p><p>Tom Bewley of UCSD also shared a [brief introduction to BeagleBone Blue](https://www.youtube.com/watch?v=T15D7U2BOf4)</p>
 events:
- - title: Webinar "Taking the BeagleBone Cookbook recipes beyond BeagleBone Black"
+ - title: 'Webinar "Taking the BeagleBone Cookbook recipes beyond BeagleBone Black"'
    date: Thu, Jan 28, 2016
    link: http://www.oreilly.com/pub/e/3639
  - title: SE Michigan BeagleBone Users Group - Continue quadcopter build
