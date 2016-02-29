@@ -17,11 +17,11 @@ articles:
    link: http://www.sancloud.co.uk/?p=253
    body: 
    image:
- - title: Time Magazine\: This New Gadget Could Prevent Another Volkswagen Scandal
+ - title: "Time Magazine: This New Gadget Could Prevent Another Volkswagen Scandal"
    link: https://blog.adafruit.com/2015/12/01/this-new-gadget-could-prevent-another-volkswagen-scandal-time/
    body: Adafruit spots BeagleBone Black and GPS-tracker that has barometric pressure reading and humidity
    image:
- - title: Hackaday coverage of 32C3 talk\: "Beyond Your Cable Modem"
+ - title: 'Hackaday coverage of 32C3 talk: "Beyond Your Cable Modem"'
    link: http://hackaday.com/2015/12/29/32c3-beyond-your-cable-modem/
    body: "To get the modem’s firmware in the first place, at minute 42 of the talk, Alexander shows briefly how he pulled the flash chip off the device and read it into his computer using a BeagleBone Black"
    image:
