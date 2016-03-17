@@ -37,6 +37,10 @@ Newsletter: February 2016
   * https://www.packtpub.com/hardware-and-creative/beaglebone-home-automation-blueprints 
   * Rodolfo Giometti
   * static/images/bb-home-automation-book-2016.jpg
+* Bad to the Bone: Crafting Electronic Systems with BeagleBone Black, Second Edition 
+  * (Synthesis Lectures on Digital Circuits and Systems) 2nd Edition
+  * http://www.amazon.com/Bad-Bone-Electronic-BeagleBone-Synthesis/dp/1627055118/ref=sr_1_3?s=books&ie=UTF8&qid=1458251594&sr=1-3
+  * by Steven Barrett (Author), Jason Kridner (Author)
 
 # articles
 * NOTE: all links should be to http://beagleboard.org/blog
