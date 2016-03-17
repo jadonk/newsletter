@@ -26,7 +26,7 @@ Newsletter: February 2016
      * https://www.hackster.io/leela-driver-6b1382/sucurity-480f3d?ref=challenge&ref_id=25&offset=3
    * Detector de incêndio Florestal Inteligente
      * https://www.hackster.io/Argel/detector-de-incendio-florestal-inteligente-f90c0a?ref=challenge&ref_id=25&offset=2
-    * This system was designed as a faster way to detect fires outbreaks avoiding irreversible damage to the environment and the resident famile
+     * This system was designed as a faster way to detect fires outbreaks avoiding irreversible damage to the environment and the resident famile
 
 * New: BeagleBone Black Industrial by element14: Temperature range from -20°C to 85°C
   * https://www.element14.com/community/docs/DOC-78671/l/element14-beaglebone-black-industrial-4g
