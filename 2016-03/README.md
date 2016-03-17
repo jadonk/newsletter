@@ -4,15 +4,29 @@ Newsletter: February 2016
 
 * Google Summer of Code
   * BeagleBoard/GSoC/Ideas - eLinux.org
-   * http://elinux.org/BeagleBoard/GSoC/Ideas
+    * http://elinux.org/BeagleBoard/GSoC/Ideas
   * Google Summer of Code: BeagleBoard.org Foundation
-   * https://summerofcode.withgoogle.com/organizations/4817552005922816/
+    * https://summerofcode.withgoogle.com/organizations/4817552005922816/
   * Google Summer of Code sponsors open software projects for hardware makers
-   * https://blog.adafruit.com/2016/03/12/google-summer-of-code-sponsors-open-software-projects-for-hardware-makers/ 
+    * https://blog.adafruit.com/2016/03/12/google-summer-of-code-sponsors-open-software-projects-for-hardware-makers/ 
 
 * BeagleBone Blue: UPDATE?
 
-* BeagleBone Green Hackster.io Contest: UPDATE?
+* BeagleBone Green Hackster.io Contest:
+  * Submissions close in 15 days
+  * Ends on Mar 31, 2016 at 11:59 PM PT
+  * https://www.hackster.io/challenges/beaglebonegreen
+  * Projects:
+   * https://www.hackster.io/challenges/beaglebonegreen/projects
+   * Swarm Bots: Assembly and Co-operative Transport [No BeagleBone??]
+    * https://www.hackster.io/team-hermes/swarm-bots-assembly-and-co-operative-transport-fedbe0?ref=challenge&ref_id=25&offset=0  
+   * PCB through hole plating tester [No BeagleBone??]
+    * https://www.hackster.io/manojroy123/pcb-through-hole-plating-tester-b7bf7e?ref=challenge&ref_id=25&offset=1
+   * sucurity [No BeagleBone??]
+    * https://www.hackster.io/leela-driver-6b1382/sucurity-480f3d?ref=challenge&ref_id=25&offset=3
+   * Detector de incêndio Florestal Inteligente
+    * https://www.hackster.io/Argel/detector-de-incendio-florestal-inteligente-f90c0a?ref=challenge&ref_id=25&offset=2
+    * This system was designed as a faster way to detect fires outbreaks avoiding irreversible damage to the environment and the resident famile
 
 * New: BeagleBone Black Industrial by element14: Temperature range from -20°C to 85°C
   * https://www.element14.com/community/docs/DOC-78671/l/element14-beaglebone-black-industrial-4g
