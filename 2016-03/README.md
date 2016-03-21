@@ -53,10 +53,11 @@ Newsletter: February 2016
 * NOTE: all links should be to http://beagleboard.org/blog
 
 * SanCloud BeagleBone Enhanced
-  *  2 months left
+  * 2 months left
   * https://www.indiegogo.com/projects/sancloud-beaglebone-enhanced#/
   * https://www.youtube.com/watch?v=ZvurT3nCl1g
-  * READ MORE: http://beagleboard.org/XXXX
+  * update: https://www.indiegogo.com/projects/sancloud-beaglebone-enhanced#/updates
+  * READ MORE: http://beagleboard.org/enhanced
 
 
 * KiwiSDR: Wide-band SDR + GPS cape for the BeagleBone Black
