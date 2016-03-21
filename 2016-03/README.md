@@ -46,7 +46,8 @@ Newsletter: February 2016
 * NOTE: all links should be to http://beagleboard.org/blog
 * Beefed up BeagleBone Black clone launches on Indiegogo
   * http://linuxgizmos.com/beefed-up-beaglebone-black-clone-launches-on-indiegogo/
- 
+* Quest for a Logic Analzyer
+  * http://www.mobilewill.us/2016/03/quest-for-logic-analzyer.html
 * I/O Cape for the BeagleBone Black (BBB-GVS-3)
   * by Doug Gilliland
   * "Easy I/O Connection Cape for the Beaglebone with Analog buffering, GPIO with power/ground and 5V translator."﻿
