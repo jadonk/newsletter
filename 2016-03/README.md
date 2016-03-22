@@ -101,3 +101,5 @@ Newsletter: February 2016
   * https://www.youtube.com/watch?v=eL-ndyN-mGU
   * READ MORE: http://beagleboard.org/XXXX
 
+* Emco Turn 120P Machinekit control panel powered by BeagleBone Black 
+  * http://blog.f1oat.org/2016/03/21/emco-turn-120p-machinekit-control-panel/
