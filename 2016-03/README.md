@@ -20,19 +20,8 @@ Newsletter: February 2016
   * Ends on Mar 31, 2016 at 11:59 PM PT
   * https://www.hackster.io/challenges/beaglebonegreen
   * Projects:
-   * https://www.hackster.io/challenges/beaglebonegreen/projects
-   * Swarm Bots: Assembly and Co-operative Transport [No BeagleBone??]
-     * https://www.hackster.io/team-hermes/swarm-bots-assembly-and-co-operative-transport-fedbe0?ref=challenge&ref_id=25&offset=0  
-   * PCB through hole plating tester [No BeagleBone??]
-     * https://www.hackster.io/manojroy123/pcb-through-hole-plating-tester-b7bf7e?ref=challenge&ref_id=25&offset=1
-   * sucurity [No BeagleBone??]
-     * https://www.hackster.io/leela-driver-6b1382/sucurity-480f3d?ref=challenge&ref_id=25&offset=3
-   * Detector de incêndio Florestal Inteligente
-     * https://www.hackster.io/Argel/detector-de-incendio-florestal-inteligente-f90c0a?ref=challenge&ref_id=25&offset=2
-     * This system was designed as a faster way to detect fires outbreaks avoiding irreversible damage to the environment and the resident famile
+   * https://www.hackster.io/challenges/beaglebonegreen/
   * READ MORE: http://beagleboard.org/XXXX
-
-
 
 # hot off the presses
 
@@ -58,7 +47,6 @@ Newsletter: February 2016
   * https://www.youtube.com/watch?v=ZvurT3nCl1g
   * update: https://www.indiegogo.com/projects/sancloud-beaglebone-enhanced#/updates
   * READ MORE: http://beagleboard.org/enhanced
-
 
 * KiwiSDR: Wide-band SDR + GPS cape for the BeagleBone Black
   * http://www.jks.com/KiwiSDR/
