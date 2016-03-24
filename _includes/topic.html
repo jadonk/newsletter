@@ -4,6 +4,11 @@
                <h6><a href="{{ include.link }}">{{ include.title }}</a></h6>
               </td>
              </tr>
+{% if include.image %}             
+             <tr>
+              <td class="left-text-pad"><a href="{{ include.link }}"><img width="280" src="{{ include.image }}" /></td>
+             </tr>
+{% endif %}
              <tr>
               <td class="left-text-pad">
                {{ include.body }}
