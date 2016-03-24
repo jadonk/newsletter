@@ -926,7 +926,7 @@ body.outlook p {
                      <tr>
                        <td class="left-text-pad">
 {% for event in page.events %}
-{% include event.html title=event.title date=event.date link=event.link %}
+{% include event.html title=event.title date=event.date link=event.link body=event.body %}
 {% endfor %}
                         </td>
                       </tr>
