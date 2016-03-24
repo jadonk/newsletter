@@ -30,7 +30,7 @@ articles:
    link: https://www.hackster.io/challenges/beaglebonegreen
  - title: Amazon Web Services IoT contest in final stretch
    link: https://www.hackster.io/challenges/AWSIoTMegaContest
-   body: "[AWS IoT contest on Hackster.io](ttps://www.hackster.io/challenges/AWSIoTMegaContest) will end on Jan 31, 2016 at 11:59 PM PT.  Contestants were given a choice of development kits including the [BeagleBone Green and Grove IoT Starter Kit by Seeedstudio](http://www.seeedstudio.com/wiki/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS)."
+   body: "[AWS IoT contest on Hackster.io](https://www.hackster.io/challenges/AWSIoTMegaContest) will end on Jan 31, 2016 at 11:59 PM PT.  Contestants were given a choice of development kits including the [BeagleBone Green and Grove IoT Starter Kit by Seeedstudio](http://www.seeedstudio.com/wiki/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS)."
    image:
  - title: Using Appropriate Kernel Interfaces
    link: http://www.hy-research.com/beagle_userland.html
