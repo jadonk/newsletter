@@ -25,11 +25,11 @@ articles:
    link: http://hackaday.com/2015/12/29/32c3-beyond-your-cable-modem/
    body: "To get the modem’s firmware in the first place, at minute 42 of the talk, Alexander shows briefly how he pulled the flash chip off the device and read it into his computer using a BeagleBone Black"
    image:
-articles:
  - title: SeeedStudio BeagleBone Green IoT Contest kicks off
    body: "[BeagleBone Green contest on Hackster.io](https://www.hackster.io/challenges/beaglebonegreen) will send the winners to Maker Faire Shenzhen.  Deadline to submit your project idea is: Feb 22, 2016 at 11:59 PM PT.  Project build deadline will then be: Mar 31, 2016 at 11:59 PM PT."
+   link: https://www.hackster.io/challenges/beaglebonegreen
  - title: Amazon Web Services IoT contest in final stretch
-   link:
+   link: https://www.hackster.io/challenges/AWSIoTMegaContest
    body: "[AWS IoT contest on Hackster.io](ttps://www.hackster.io/challenges/AWSIoTMegaContest) will end on Jan 31, 2016 at 11:59 PM PT.  Contestants were given a choice of development kits including the [BeagleBone Green and Grove IoT Starter Kit by Seeedstudio](http://www.seeedstudio.com/wiki/Beagle_Bone_Green_and_Grove_IoT_Starter_Kit_Powered_by_AWS)."
    image:
  - title: Using Appropriate Kernel Interfaces
@@ -44,7 +44,7 @@ articles:
    link: http://www.linux.com/news/special-feature/linux-developers/859805-linux-kernel-developer-workspaces-video-mark-brown
    body: great to see Mark uses BeagleBone Black as his portable testing lab
    image:
-community topics: 
+topics: 
 - title: Robert C. Nelson: 4.4-lts plans (4.1-lts not going away)
    link: https://groups.google.com/d/msg/beagleboard/T3lx6CQ4cXY/0q9z5C-8CQAJ
    body: 
@@ -74,5 +74,4 @@ projects:
    link: http://beagleboard.org/project/rfid-authentication-for-hacker
    body: Chicago hackerspace Pumping Station: One uses BeagleBone Black and RFID to control door access
    image:
- 
 ---
