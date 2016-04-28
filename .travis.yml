@@ -2,9 +2,9 @@ language: ruby
 rvm:
 - 2.1
 
-before_script: gem install jekyll html-proofer
-script: jekyll build && htmlproof ./_site
+script: bash -ex ./script/cibuild
 
+sudo: false
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
