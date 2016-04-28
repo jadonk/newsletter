@@ -1,8 +1,6 @@
 language: ruby
 rvm:
-  - 2.1
-
-sudo: false
+- 2.1
 
 script: bash -ex ./ci-build.sh
 
