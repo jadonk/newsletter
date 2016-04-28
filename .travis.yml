@@ -5,11 +5,6 @@ rvm:
 before_script: gem install jekyll html-proofer
 script: jekyll build && htmlproof ./_site
 
-# branch whitelist, only for GitHub Pages
-branches:
-  only:
-  - gh-pages
-
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
