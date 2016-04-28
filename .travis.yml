@@ -1,8 +1,9 @@
 language: ruby
 rvm:
-- 2.1
+  - 2.1
 
-script: bash -ex ./script/cibuild
+script:
+  - bash -ex ./ci-build.sh
 
 sudo: false
 env:
