@@ -40,16 +40,15 @@
    * The cape is able to drive 1-4 CNC motor drivers.
    * pre-installed machinekit software and an easy to use setup program.
 
-* TI have just released Code Composer Studio for MacOS
-   * http://processors.wiki.ti.com/index.php/Download_CCS
-
 * Skipping config menu with ./tools/rebuild.sh?
    * https://groups.google.com/forum/#!msg/beagleboard/cNUkhXQmq5s/T5DzSTN3AQAJ
+   * http://beagleboard.org/Community/Forums?place=msg%2Fbeagleboard%2FcNUkhXQmq5s%2FRr0s_KF5AQAJ
    * John Syne
    * >export AUTO_BUILD=1
    * https://groups.google.com/forum/#!msg/beagleboard/cNUkhXQmq5s/T5DzSTN3AQAJ
 
 * Turn BeagleBone into Alexa Client
+  * http://beagleboard.org/Community/Forums?place=msg%2Fbeagleboard%2Fq0Qpb83YybQ%2FSfHCOqolBgAJ
   * Mike Erdahl forked the AlexaPi project and added BeagleBone support
 
 ## Events
@@ -74,7 +73,7 @@
    * A muscle and motion sensor controlled push bike turn and stop signalling system for safe riding at night.
 
 * BeagleFlow - BeagleBone Green Reflow Oven by Tisham Dhar
-   * https://www.hackster.io/whatnick/the-red-light-beaglebone-myo-controlled-bike-lights-6c50d2
+   * https://www.hackster.io/whatnick/beagleflow-beaglebone-green-reflow-oven-1053ef
 
 * Three Story Tall Clock by Josh Levine
    * https://www.hackster.io/bigjosh/three-story-tall-clock-final-entry-5ab263
