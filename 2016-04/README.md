@@ -73,7 +73,7 @@
    * A muscle and motion sensor controlled push bike turn and stop signalling system for safe riding at night.
 
 * BeagleFlow - BeagleBone Green Reflow Oven by Tisham Dhar
-   * https://www.hackster.io/whatnick/the-red-light-beaglebone-myo-controlled-bike-lights-6c50d2
+   * https://www.hackster.io/whatnick/beagleflow-beaglebone-green-reflow-oven-1053ef
 
 * Three Story Tall Clock by Josh Levine
    * https://www.hackster.io/bigjosh/three-story-tall-clock-final-entry-5ab263
