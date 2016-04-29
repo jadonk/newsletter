@@ -40,16 +40,15 @@
    * The cape is able to drive 1-4 CNC motor drivers.
    * pre-installed machinekit software and an easy to use setup program.
 
-* TI have just released Code Composer Studio for MacOS
-   * http://processors.wiki.ti.com/index.php/Download_CCS
-
 * Skipping config menu with ./tools/rebuild.sh?
    * https://groups.google.com/forum/#!msg/beagleboard/cNUkhXQmq5s/T5DzSTN3AQAJ
+   * http://beagleboard.org/Community/Forums?place=msg%2Fbeagleboard%2FcNUkhXQmq5s%2FRr0s_KF5AQAJ
    * John Syne
    * >export AUTO_BUILD=1
    * https://groups.google.com/forum/#!msg/beagleboard/cNUkhXQmq5s/T5DzSTN3AQAJ
 
 * Turn BeagleBone into Alexa Client
+  * http://beagleboard.org/Community/Forums?place=msg%2Fbeagleboard%2Fq0Qpb83YybQ%2FSfHCOqolBgAJ
   * Mike Erdahl forked the AlexaPi project and added BeagleBone support
 
 ## Events
