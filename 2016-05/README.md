@@ -13,6 +13,7 @@
 # events
 * Maker Faire Bay Area
 * SE Michigan BeagleBone Meetup
+* ??? any scheduled talks at MFBA
 
 # featured projects
 * ??? projects at Maker Faire that might be repeated
