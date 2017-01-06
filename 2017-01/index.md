@@ -1,29 +1,29 @@
 ---
 layout: november_layout
-title: November Dog Dish
-link: http://beagleboard.org/newsletter/2015-11
+title: January 2017 Dog Dish
+link: http://beagleboard.org/newsletter/2017-01
 feature:
- title: BeagleBoard-X15, new BeagleBone clone and CES
- body: <p>This is a busy time of year. At BeagleBoard.org, we are working frantically to get BeagleBoard-X15 past FCC and into production, but that isn't all we are up to. From easy to possible, we're working to make sure innovation is available to everyone, which always means open source hardware. Check out the Music Tech Challenge, lots of cool projects below and more, but make sure not to miss meeting us at CES to see how we are accelerating open innovation moving forward.</p> 
+ title: Things to say
+ body: <p>Stuff we did. Stuff in the future.  Stuff we did. Stuff in the future.  Stuff we did. Stuff in the future.  Stuff we did. Stuff in the future.  Stuff we did. Stuff in the future. Stuff we did. Stuff in the future. Stuff we did. Stuff in the future. Stuff we did. Stuff in the future.</p> 
 events:
- - title: BeagleBone Cookbook Webinar Series
-   date: Dec 1, 2015
-   link: http://beagleboard.org/cookbook
- - title: SE Michigan BeagleBone Users Group - Drone Building Continues
-   date: Dec 17, 2015
-   link: http://bit.ly/beaglemeetup
- - title: Consumer Electronics Show
-   date: Jan 6-9, 2016
-   link: http://beagleboard.org/show/ces
+ - title: SE Michigan BeagleBone Meetup 
+   date: Jan 26, 2017
+   link: https://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/events/qvgjvjywcbjc/
+ - title: Embedded Linux Conference 
+   date: Feb 21-23, 2017
+   link: http://events.linuxfoundation.org/events/embedded-linux-conference/attend/register
+ - title: Embedded World
+   date: March 14-16, 2017
+   link: https://www.embedded-world.de/en
 book:
- title: The BeagleBone Black Primer
- link: http://www.amazon.com/gp/product/0789753863
- body: <p>Great introduction to the world of Beagle all the way to software defined radio, computer vision and car monitoring</p>
+ title: The Zen of BeagleBone
+ link: http://www.amazon.com/gp/product/XXXX
+ body: <p>Excellent read. Book of the Year. Excellent read. Book of the Year. Would read again.</p>
  image: http://beagleboard.org/static/images/bbb_primer.jpg
 articles:
- - title: BeagleBoard-X15 and IoT Interview
-   link: http://iotdesign.embedded-computing.com/articles/beagleboard-x15-keeps-easy-things-easy-makes-hard-things-possible-for-iot-maker-pros/
-   body: <p>BeagleBoard-X15 keeps easy things easy, makes hard things possible for IoT Maker Pros.</p>
+ - title: Interview about important stuff
+   link: http://foo.com/foo/bar
+   body: <p>Many important things were said.  Many bothans died to bring us this info</p>
    image: http://beagleboard.org/static/images/x15blockosm.png
  - title: SanCloud BeagleBoard Enhanced
    link: http://beagleboard.org/blog/2015-11-23-beaglebone-enhanced
