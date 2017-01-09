@@ -7,7 +7,9 @@
 * GSoC 2017 timeline?
 
 # hot off the presses
-* TODO: new book?
+* BeagleBone By Example
+  * by Jayakarthigeyan Prabakar
+  * https://www.amazon.com/dp/B01KTN0MPA
 
 # articles
 * Beagle Entertainment System Cartridge Console
