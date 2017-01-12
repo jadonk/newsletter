@@ -24,15 +24,15 @@ articles:
  - title: Beagle Entertainment System Cartridge Console
    link: http://foo.com/foo/bar
    body: <p>Many important things were said.  Many bothans died to bring us this info</p>
-   image: /static/images/drumkit.jpg
+   image: /newsletter/static/images/drumkit.jpg
  - title: Ken Shirriff Demystifies BeagleBone I/O
    link: https://beagleboardfoundation.wordpress.com/2016/08/18/beaglebone-io-pins-inside-the-software-stack-that-makes-them-work/
    body: <p>Ken Shirrif has written a great blog post with the goal of making the the internal operation of the Beaglebone will be less mysterious.</p>
-   image: http://beagleboard.org/static/images/BeagleEnhanced.jpg
+   image: /newsletter/static/images/drumkit.jpg
  - title: Blinking a LED with Rust
    link: http://beagleboard.org/blog/2015-11-23-musictech-challenge/
    body: <p>cool prizes and advance the state of open hardware music.</p>
-   image: http://beagleboard.org/static/images/MusicTech_hp.png
+   image: /newsletter/static/images/drumkit.jpg
 topics:
  - title: U-Boot Cape Manager edition
    link: https://groups.google.com/forum/#!msg/beagleboard/iGvA9I4LdSE/cRcBIuqBFgAJ
@@ -41,17 +41,17 @@ projects:
  - title: PRU PID Motor Speed Controller with Beaglebone Green 
    link: http://beagleboard.org/project/cncplasma/
    body: xxxxxxxxxxxxxxxxxxxxxx
-   image: http://beagleboard.org/static/images/cncplasma-280.jpeg
+   image: /newsletter/static/images/drumkit.jpg
  - title: Beaglebone PRU ADC 
    link: http://beagleboard.org/project/apstability/
    body: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-   image: http://beagleboard.org/static/images/apstability.jpg
+   image: /newsletter/static/images/drumkit.jpg
  - title: Upside Down Challenge 
    link: http://beagleboard.org/project/babymonitor
    body: Eliminate the cloud connection on your MIMO Smart Baby Monitor using a BeagleBone and Bluetooth Low Energy
-   image: http://beagleboard.org/static/images/mimo_connect_1.jpg
+   image: /newsletter/static/images/drumkit.jpg
  - title: Connect BeagleBone Black to Cellular 
    link: http://beagleboard.org/project/bbb-lcd-fbtft-prebuilt/
    body: Use small TFT LCDs displays as Linux framebuffer on BeagleBone Black using pre-built fbtft drivers for Linux 3.8.13-bone50
-   image: http://beagleboard.org/static/images/bbb-lcd-fbtft-prebuilt.jpeg
+   image: /newsletter/static/images/drumkit.jpg
 ---
