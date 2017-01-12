@@ -19,7 +19,7 @@ book:
  title: BeagleBone By Example 
  link: https://www.packtpub.com/hardware-and-creative/beaglebone-example
  body: <p>by Jayakarthigeyan Prabakar. Learn how to build physical computing systems using the BeagleBone Black and Python</p>
- image: /images/beaglebone_by_example.jpg
+ image: /static/images/beaglebone_by_example.jpg
 articles:
  - title: Interview about important stuff
    link: http://foo.com/foo/bar
