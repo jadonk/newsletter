@@ -25,18 +25,14 @@ articles:
    link: https://beagleboardfoundation.wordpress.com/2017/01/05/beagle-entertainment-system-cartridge-console/
    body: <p>Fresh off his PhD dissertation, Andrew Henderson decided turn his Beagle Entertainment System (BES) into a tiny SNES cartridge console!</p>
    image: /newsletter/static/images/2017-jan-snes.jpg
- - title: Ken Shirriff Demystifies BeagleBone I/O
-   link: https://beagleboardfoundation.wordpress.com/2016/08/18/beaglebone-io-pins-inside-the-software-stack-that-makes-them-work/
-   body: <p>Ken Shirrif has written a great blog post with the goal of making the the internal operation of the Beaglebone will be less mysterious.</p>
-   image: /newsletter/static/images/2017-jan-shirrif.gif
+  - title: Google Research PRUDAQ cape
+   link: https://beagleboardfoundation.wordpress.com/2016/07/21/google-research-prudaq-cape/
+   body: <p>PRUDAQ is an open source 40MSPS (megasamples per second) Data Acquisition board for the Beaglebone Black/Green</p>
+   image: /newsletter/static/images/2017-jan-prudaq_bbb.png
  - title: Blinking a LED with Rust
    link: https://beagleboardfoundation.wordpress.com/2016/12/24/blinking-a-led-with-rust/
    body: <p>Rust is a systems programming language that is quickly growing in popularity.  Christopher Woodall chose Rust to develop a drink making robot powered by BeagleBone Green Wireless</p>
    image: /newsletter/static/images/2017-jan-rust.gif
- - title: Google Research PRUDAQ cape
-   link: https://beagleboardfoundation.wordpress.com/2016/07/21/google-research-prudaq-cape/
-   body: <p>PRUDAQ is an open source 40MSPS (megasamples per second) Data Acquisition board for the Beaglebone Black/Green</p>
-   image: /newsletter/static/imagesa/2017-jan-prudaq_bbb.png
 topics:
  - title: U-Boot Cape Manager edition
    link: https://groups.google.com/forum/#!msg/beagleboard/iGvA9I4LdSE/cRcBIuqBFgAJ
