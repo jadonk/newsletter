@@ -43,6 +43,9 @@ topics:
  - title: Linux kernel v4.9.x-ti changes
    link: https://groups.google.com/forum/#!category-topic/beagleboard/wxxXS907OXY
    body: <p>Robert Nelson writes about the latest changes in Linux 4.9 kernels based on the TI branch</p>
+ - title: BeagleBoard X15 graphics acceleration
+   link: https://groups.google.com/d/msg/beagleboard/S5UFHnIc11o/x0MqY6aIBwAJ
+   body: <p>Julien Boulnois got hardware acceleration for desktop graphics on the BeagleBoard X15 </p>
 projects:
  - title: Motor Speed Controller
    link: https://www.hackster.io/Greg-R/pru-pid-motor-speed-controller-with-beaglebone-green-ccb805
