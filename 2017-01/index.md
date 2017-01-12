@@ -25,7 +25,7 @@ articles:
    link: https://beagleboardfoundation.wordpress.com/2017/01/05/beagle-entertainment-system-cartridge-console/
    body: <p>Fresh off his PhD dissertation, Andrew Henderson decided turn his Beagle Entertainment System (BES) into a tiny SNES cartridge console!</p>
    image: /newsletter/static/images/2017-jan-snes.jpg
-  - title: Google Research PRUDAQ cape
+ - title: Google Research PRUDAQ cape
    link: https://beagleboardfoundation.wordpress.com/2016/07/21/google-research-prudaq-cape/
    body: <p>PRUDAQ is an open source 40MSPS (megasamples per second) Data Acquisition board for the Beaglebone Black/Green</p>
    image: /newsletter/static/images/2017-jan-prudaq_bbb.png
