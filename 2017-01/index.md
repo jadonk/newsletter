@@ -34,18 +34,18 @@ articles:
    body: <p>Christopher Woodall chose Rust to develop a drink making robot powered by BeagleBone Green Wireless</p>
    image: /newsletter/static/images/2017-jan-rust.gif
 topics:
- - title: Debian 8.6 released for all boards
+ - title: Debian 8.6 released 
    link: https://groups.google.com/forum/#!category-topic/beagleboard/yCKzPy54a7Q
-   body: <p>Debian 8.6 is now suitable for all boards. This gets all the boards to a common base and will hopefully aide in community support.</p>
+   body: <p>Debian 8.6 is now suitable for all boards. This gets all the boards to a common base and will aide in community support.</p>
+ - title: BeagleBoard X15 graphics
+   link: https://groups.google.com/d/msg/beagleboard/S5UFHnIc11o/x0MqY6aIBwAJ
+   body: <p>Julien Boulnois got hardware acceleration for desktop graphics on the BeagleBoard X15 </p>
  - title: U-Boot Cape Manager edition
    link: https://groups.google.com/forum/#!msg/beagleboard/iGvA9I4LdSE/cRcBIuqBFgAJ
    body: <p>Boot recently gained support for Device Tree Overlays.  Robert Nelson has released a new Debian image with U-Boot Cape Manager for developer testing.</p>
  - title: Linux kernel v4.9.x-ti changes
    link: https://groups.google.com/forum/#!category-topic/beagleboard/wxxXS907OXY
    body: <p>Robert Nelson writes about the latest changes in Linux 4.9 kernels based on the TI branch</p>
- - title: BeagleBoard X15 graphics acceleration
-   link: https://groups.google.com/d/msg/beagleboard/S5UFHnIc11o/x0MqY6aIBwAJ
-   body: <p>Julien Boulnois got hardware acceleration for desktop graphics on the BeagleBoard X15 </p>
 projects:
  - title: Motor Speed Controller
    link: https://www.hackster.io/Greg-R/pru-pid-motor-speed-controller-with-beaglebone-green-ccb805
