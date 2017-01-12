@@ -58,6 +58,6 @@ projects:
    image: /newsletter/static/images/2017-jan-upside-down.jpg
  - title: PRU interface to ADC
    link: https://www.hackster.io/Greg-R/beaglebone-pru-adc-a42a71
-   body: Greg Raven created this PRU interface to ADC using RemoteProc & RPMsg
+   body: Greg Raven created this PRU interface to ADC using RemoteProc and RPMsg
    image: /newsletter/static/images/2017-jan-pru-adc.jpg
 ---
