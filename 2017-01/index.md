@@ -23,15 +23,15 @@ book:
 articles:
  - title: Beagle Entertainment System Cartridge Console
    link: https://beagleboardfoundation.wordpress.com/2017/01/05/beagle-entertainment-system-cartridge-console/
-   body: <p>Fresh off his PhD dissertation, Andrew Henderson decided turn his Beagle Entertainment System (BES) into a tiny SNES cartridge console!</p>
+   body: <p>Andrew Henderson has turned his Beagle Entertainment System into a tiny SNES cartridge console</p>
    image: /newsletter/static/images/2017-jan-snes.jpg
- - title: Google Research PRUDAQ cape
+ - title: Google Research PRUDAQ
    link: https://beagleboardfoundation.wordpress.com/2016/07/21/google-research-prudaq-cape/
-   body: <p>PRUDAQ is an open source 40MSPS (megasamples per second) Data Acquisition board for the Beaglebone Black/Green</p>
+   body: <p>PRUDAQ is an open source 40MSPS (megasamples per second) data acquisition BeagleBone cape</p>
    image: /newsletter/static/images/2017-jan-prudaq_bbb.png
  - title: Blinking a LED with Rust
    link: https://beagleboardfoundation.wordpress.com/2016/12/24/blinking-a-led-with-rust/
-   body: <p>Rust is a systems programming language that is quickly growing in popularity.  Christopher Woodall chose Rust to develop a drink making robot powered by BeagleBone Green Wireless</p>
+   body: <p>Christopher Woodall chose Rust to develop a drink making robot powered by BeagleBone Green Wireless</p>
    image: /newsletter/static/images/2017-jan-rust.gif
 topics:
  - title: U-Boot Cape Manager edition
@@ -44,20 +44,20 @@ topics:
    link: https://groups.google.com/forum/#!msg/beagleboard/iGvA9I4LdSE/cRcBIuqBFgAJ
    body: <p>Boot recently gained support for Device Tree Overlays.  Robert Nelson has released a new Debian image with U-Boot Cape Manager for developer testing.</p>
 projects:
- - title: PRU PID Motor Speed Controller
+ - title: Motor Speed Controller
    link: https://www.hackster.io/Greg-R/pru-pid-motor-speed-controller-with-beaglebone-green-ccb805
-   body: xxxxxx yyyy zzzz
+   body: PRU PID Motor Speed Controller on the BeagleBone Green by Greg Raven
    image: /newsletter/static/images/2017-jan-pru-pid-motor.jpg
- - title: Beaglebone PRU ADC 
+ - title: PRU interface to ADC
    link: https://www.hackster.io/Greg-R/beaglebone-pru-adc-a42a71
-   body: xxxxxx yyyy zzzz
+   body: Greg Raven created this PRU interface to ADC using RemoteProc & RPMsg
    image: /newsletter/static/images/2017-jan-pru-adc.jpg
  - title: Upside Down Challenge 
    link: https://www.hackster.io/command-alkon-dublin-oh/upside-down-challenge-c7dba7
-   body: xxxxxx yyyy zzzz
+   body: Christmas light alphabet wall based on Netflix's "Stranger Things
    image: /newsletter/static/images/2017-jan-upside-down.jpg
- - title: Connect BeagleBone Black to Cellular
+ - title: Connect to Cellular Network
    link: https://www.hackster.io/benstr-hologram/connect-beaglebone-black-to-cellular-0e14c2
-   body: xxxxxx yyyy zzzz
+   body: Unleash your BeagleBone with this USB cellular modem tutorial
    image: /newsletter/static/images/2017-jan-cellular.jpg
 ---
