@@ -1,5 +1,5 @@
 ---
-layout: november_layout
+layout: january2017_layout
 title: January 2017 Dog Dish
 link: http://beagleboard.org/newsletter/2017-01
 feature:
