@@ -3,8 +3,8 @@ layout: january2017_layout
 title: January 2017 Dog Dish
 link: http://beagleboard.org/newsletter/2017-01
 feature:
- title: Things to say
- body: <p>Stuff we did. Stuff in the future.  Stuff we did. Stuff in the future.  Stuff we did. Stuff in the future.  Stuff we did. Stuff in the future.  Stuff we did. Stuff in the future. Stuff we did. Stuff in the future. Stuff we did. Stuff in the future. Stuff we did. Stuff in the future.</p> 
+ title: BeagleBone Black Wireless, Embedded Linux Conference, and GSoC 2017 mentors
+ body: <p>BeagleBone Black Wireless has launched. Find out more [TODO]. Embedded Linux Conference 2017 next month in Portland.  Find out more [TODO]. Google Summer of Code 2017 will kick off soon and we are looking for mentors.  Find out more [TODO].  — Christine Long, Executive Director</p> 
 events:
  - title: SE Michigan BeagleBone Meetup 
    date: Jan 26, 2017
@@ -16,10 +16,10 @@ events:
    date: March 14-16, 2017
    link: https://www.embedded-world.de/en
 book:
- title: The Zen of BeagleBone
- link: http://www.amazon.com/gp/product/XXXX
- body: <p>Excellent read. Book of the Year. Excellent read. Book of the Year. Would read again.</p>
- image: http://beagleboard.org/static/images/bbb_primer.jpg
+ title: BeagleBone By Example 
+ link: https://www.packtpub.com/hardware-and-creative/beaglebone-example
+ body: <p>by Jayakarthigeyan Prabakar. Learn how to build physical computing systems using the BeagleBone Black and Python</p>
+ image: /images/beaglebone_by_example.jpg
 articles:
  - title: Interview about important stuff
    link: http://foo.com/foo/bar
