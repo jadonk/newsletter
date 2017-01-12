@@ -36,8 +36,7 @@ articles:
 topics:
  - title: Debian testing: 2017-01-03 (U-Boot Cape Manager edition)
    link: http://beagleboard.org/Community/Forums?place=topic/beagleboard/iGvA9I4LdSE/discussion
-   body: <p>U-Boot recently gained support for Device Tree Overlays.  Robert Nelson has released a new Debian image with U-Boot Cape Manager for developer testing.
-  </p>
+   body: <p>U-Boot recently gained support for Device Tree Overlays.  Robert Nelson has released a new Debian image with U-Boot Cape Manager for developer testing.</p>
  - title: SPI DMA enabled
    link: http://beagleboard.org/Community/Forums?place=msg%2Fbeagleboard%2F_22bW7vMkW0%2F16mBP2faAQAJ
    body: <p>BeagleBone Linux kernel versions 4.1.12-ti-r27+ and 4.1.12-ti-rt-r27+ now support DMA for SPI transfers over 160 bytes.</p>
