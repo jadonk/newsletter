@@ -54,7 +54,7 @@ projects:
    image: /newsletter/static/images/2017-jan-cellular.jpg
  - title: Upside Down Challenge 
    link: https://www.hackster.io/command-alkon-dublin-oh/upside-down-challenge-c7dba7
-   body: Christmas light alphabet wall based on the series &quote;Stranger Things&quote;
+   body: Christmas light alphabet wall based on the series &quot;Stranger Things&quot;
    image: /newsletter/static/images/2017-jan-upside-down.jpg
  - title: PRU interface to ADC
    link: https://www.hackster.io/Greg-R/beaglebone-pru-adc-a42a71
