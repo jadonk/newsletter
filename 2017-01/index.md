@@ -27,7 +27,7 @@ articles:
    image: http://beagleboard.org/static/images/x15blockosm.png
  - title: SanCloud BeagleBoard Enhanced
    link: http://beagleboard.org/blog/2015-11-23-beaglebone-enhanced
-   body: <p>SanCloud is joining the BeagleBoard.org logo licensing family and enhancing the open hardware BeagleBone Black design you love with more features than you thought possible! The SanCloud BeagleBone Enhanced is an ultra-powered embedded computer that adds 1GB DDR3, Gigabit Ethernet, sensors, SPI flash and more and can <em>(still)</em> fit in a mint tin.</p>
+   body: <p>SanCloud is joining the BeagleBoard.org logo licensing family and enhancing the open hardware </p>
    image: http://beagleboard.org/static/images/BeagleEnhanced.jpg
  - title: Deadline extended for Music Tech Challenge
    link: http://beagleboard.org/blog/2015-11-23-musictech-challenge/
@@ -35,7 +35,7 @@ articles:
    image: http://beagleboard.org/static/images/MusicTech_hp.png
 topics:
  - title: U-Boot Cape Manager edition
-   link: http://beagleboard.org/Community/Forums?place=topic/beagleboard/iGvA9I4LdSE/discussion
+   link: https://groups.google.com/forum/#!category-topic/beagleboard/iGvA9I4LdSE
    body: <p>Boot recently gained support for Device Tree Overlays.  Robert Nelson has released a new Debian image with U-Boot Cape Manager for developer testing.</p>
  - title: SPI DMA enabled
    link: http://beagleboard.org/Community/Forums?place=msg%2Fbeagleboard%2F_22bW7vMkW0%2F16mBP2faAQAJ
