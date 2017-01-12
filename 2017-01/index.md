@@ -48,16 +48,16 @@ projects:
    link: https://www.hackster.io/Greg-R/pru-pid-motor-speed-controller-with-beaglebone-green-ccb805
    body: PRU PID Motor Speed Controller on the BeagleBone Green by Greg Raven
    image: /newsletter/static/images/2017-jan-pru-pid-motor.jpg
- - title: PRU interface to ADC
-   link: https://www.hackster.io/Greg-R/beaglebone-pru-adc-a42a71
-   body: Greg Raven created this PRU interface to ADC using RemoteProc & RPMsg
-   image: /newsletter/static/images/2017-jan-pru-adc.jpg
- - title: Upside Down Challenge 
-   link: https://www.hackster.io/command-alkon-dublin-oh/upside-down-challenge-c7dba7
-   body: Christmas light alphabet wall based on Netflix's "Stranger Things
-   image: /newsletter/static/images/2017-jan-upside-down.jpg
  - title: Connect to Cellular Network
    link: https://www.hackster.io/benstr-hologram/connect-beaglebone-black-to-cellular-0e14c2
    body: Unleash your BeagleBone with this USB cellular modem tutorial
    image: /newsletter/static/images/2017-jan-cellular.jpg
+ - title: Upside Down Challenge 
+   link: https://www.hackster.io/command-alkon-dublin-oh/upside-down-challenge-c7dba7
+   body: Christmas light alphabet wall based on Netflix's "Stranger Things
+   image: /newsletter/static/images/2017-jan-upside-down.jpg
+ - title: PRU interface to ADC
+   link: https://www.hackster.io/Greg-R/beaglebone-pru-adc-a42a71
+   body: Greg Raven created this PRU interface to ADC using RemoteProc & RPMsg
+   image: /newsletter/static/images/2017-jan-pru-adc.jpg
 ---
