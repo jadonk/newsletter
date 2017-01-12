@@ -35,17 +35,8 @@ articles:
    image: http://beagleboard.org/static/images/MusicTech_hp.png
 topics:
  - title: U-Boot Cape Manager edition
-   link: https://groups.google.com/forum/#!category-topic/beagleboard/iGvA9I4LdSE
+   link: https://groups.google.com/forum/#!msg/beagleboard/iGvA9I4LdSE/cRcBIuqBFgAJ
    body: <p>Boot recently gained support for Device Tree Overlays.  Robert Nelson has released a new Debian image with U-Boot Cape Manager for developer testing.</p>
- - title: SPI DMA enabled
-   link: http://beagleboard.org/Community/Forums?place=msg%2Fbeagleboard%2F_22bW7vMkW0%2F16mBP2faAQAJ
-   body: <p>BeagleBone Linux kernel versions 4.1.12-ti-r27+ and 4.1.12-ti-rt-r27+ now support DMA for SPI transfers over 160 bytes.</p>
- - title: How to integrate TFT LCD support
-   link: http://www.element14.com/community/community/designcenter/single-board-computers/next-gen_beaglebone/blog/2015/11/19/build-fbtft-drviers-for-ti-linux-41-kernel
-   body: <p>While this support is now in BeagleBone 4.1 kernels, Drew Fustini explores how he added it before it was enabled by default.</p>
- - title: Kernel Updates 4.4.x-ti
-   link: http://beagleboard.org/Community/Forums?place=msg%2Fbeagleboard%2F0zuP8nkygj4%2FJkyW_myyBwAJ
-   body: Linux kernel version 4.4.x support released for Beagles
 projects:
  - title: Upgrading a CNC plasma cutting machine
    link: http://beagleboard.org/project/cncplasma/
