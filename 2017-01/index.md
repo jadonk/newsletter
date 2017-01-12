@@ -21,14 +21,14 @@ book:
  body: <p>by Jayakarthigeyan Prabakar. Learn how to build physical computing systems using the BeagleBone Black and Python</p>
  image: /newsletter/static/images/beaglebone_by_example.jpg
 articles:
- - title: Beagle Entertainment System Cartridge Console
-   link: https://beagleboardfoundation.wordpress.com/2017/01/05/beagle-entertainment-system-cartridge-console/
-   body: <p>Andrew Henderson has turned his Beagle Entertainment System into a tiny SNES cartridge console</p>
-   image: /newsletter/static/images/2017-jan-snes.jpg
  - title: Google Research PRUDAQ
    link: https://beagleboardfoundation.wordpress.com/2016/07/21/google-research-prudaq-cape/
    body: <p>PRUDAQ is an open source 40MSPS (megasamples per second) data acquisition BeagleBone cape</p>
    image: /newsletter/static/images/2017-jan-prudaq_bbb.png
+ - title: Beagle Entertainment System Cartridge Console
+   link: https://beagleboardfoundation.wordpress.com/2017/01/05/beagle-entertainment-system-cartridge-console/
+   body: <p>Andrew Henderson has turned his Beagle Entertainment System into a tiny SNES cartridge console</p>
+   image: /newsletter/static/images/2017-jan-snes.jpg
  - title: Blinking a LED with Rust
    link: https://beagleboardfoundation.wordpress.com/2016/12/24/blinking-a-led-with-rust/
    body: <p>Christopher Woodall chose Rust to develop a drink making robot powered by BeagleBone Green Wireless</p>
