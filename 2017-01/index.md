@@ -16,10 +16,10 @@ events:
    date: March 14-16, 2017
    link: https://www.embedded-world.de/en
 book:
- - title: BeagleBone By Example 
-   link: https://www.packtpub.com/hardware-and-creative/beaglebone-example
-   body: <p>by Jayakarthigeyan Prabakar. Learn how to build physical computing systems using the BeagleBone Black and Python</p>
-   image: /newsletter/static/images/beaglebone_by_example.jpg
+ title: BeagleBone By Example 
+ link: https://www.packtpub.com/hardware-and-creative/beaglebone-example
+ body: <p>by Jayakarthigeyan Prabakar. Learn how to build physical computing systems using the BeagleBone Black and Python</p>
+ image: /newsletter/static/images/beaglebone_by_example.jpg
 articles:
  - title: Google Research PRUDAQ
    link: https://beagleboardfoundation.wordpress.com/2016/07/21/google-research-prudaq-cape/
