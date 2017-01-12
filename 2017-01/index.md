@@ -37,21 +37,27 @@ topics:
  - title: U-Boot Cape Manager edition
    link: https://groups.google.com/forum/#!msg/beagleboard/iGvA9I4LdSE/cRcBIuqBFgAJ
    body: <p>Boot recently gained support for Device Tree Overlays.  Robert Nelson has released a new Debian image with U-Boot Cape Manager for developer testing.</p>
+ - title: U-Boot Cape Manager edition
+   link: https://groups.google.com/forum/#!msg/beagleboard/iGvA9I4LdSE/cRcBIuqBFgAJ
+   body: <p>Boot recently gained support for Device Tree Overlays.  Robert Nelson has released a new Debian image with U-Boot Cape Manager for developer testing.</p>
+ - title: U-Boot Cape Manager edition
+   link: https://groups.google.com/forum/#!msg/beagleboard/iGvA9I4LdSE/cRcBIuqBFgAJ
+   body: <p>Boot recently gained support for Device Tree Overlays.  Robert Nelson has released a new Debian image with U-Boot Cape Manager for developer testing.</p>
 projects:
- - title: PRU PID Motor Speed Controller with Beaglebone Green 
-   link: http://beagleboard.org/project/cncplasma/
-   body: xxxxxxxxxxxxxxxxxxxxxx
+ - title: PRU PID Motor Speed Controller
+   link: https://www.hackster.io/Greg-R/pru-pid-motor-speed-controller-with-beaglebone-green-ccb805
+   body: xxxxxx yyyy zzzz
    image: /newsletter/static/images/drumkit.jpg
  - title: Beaglebone PRU ADC 
-   link: http://beagleboard.org/project/apstability/
-   body: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   link: https://www.hackster.io/Greg-R/beaglebone-pru-adc-a42a71
+   body: xxxxxx yyyy zzzz
    image: /newsletter/static/images/drumkit.jpg
  - title: Upside Down Challenge 
-   link: http://beagleboard.org/project/babymonitor
-   body: Eliminate the cloud connection on your MIMO Smart Baby Monitor using a BeagleBone and Bluetooth Low Energy
+   link: https://www.hackster.io/command-alkon-dublin-oh/upside-down-challenge-c7dba7
+   body: xxxxxx yyyy zzzz
    image: /newsletter/static/images/drumkit.jpg
- - title: Connect BeagleBone Black to Cellular 
-   link: http://beagleboard.org/project/bbb-lcd-fbtft-prebuilt/
-   body: Use small TFT LCDs displays as Linux framebuffer on BeagleBone Black using pre-built fbtft drivers for Linux 3.8.13-bone50
+ - title: Connect BeagleBone Black to Cellular
+   link: https://www.hackster.io/benstr-hologram/connect-beaglebone-black-to-cellular-0e14c2
+   body: xxxxxx yyyy zzzz
    image: /newsletter/static/images/drumkit.jpg
 ---
