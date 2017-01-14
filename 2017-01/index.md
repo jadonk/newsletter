@@ -4,7 +4,7 @@ title: January 2017 Dog Dish
 link: http://beagleboard.org/newsletter/2017-01
 feature:
  title: BeagleBone Black Wireless, Embedded Linux Conference, and GSoC 2017 mentors
- body: <p>We debuted the BeagleBone Black Wireless last Fall at Maker Faire New York and is available for purchase through our distributors. This is our first board to use the Octavo System-in-Package (SiP) and was designed in EAGLE. The Black Wireless is manufactured by our partner GHI Electronics in Michigan (USA)</p><p><em><strong>—Christine Long</strong>, Executive Director</em></p> 
+ body: <p>We debuted the <a href="http://beagleboard.org/blog/2016-09-26-meet-beaglebone-black-wireless/">BeagleBone Black Wireless</a> last Fall at Maker Faire New York and is available for purchase through our distributors. This is our first board to use the Octavo System-in-Package (SiP) and was designed in EAGLE. The Black Wireless is manufactured by our partner GHI Electronics in Michigan (USA)</p><p><em><strong>—Christine Long</strong>, Executive Director</em></p> 
 events:
  - title: SE Michigan BeagleBone Meetup 
    date: Jan 26, 2017
