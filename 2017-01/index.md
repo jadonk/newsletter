@@ -4,7 +4,7 @@ title: January 2017 Dog Dish
 link: http://beagleboard.org/newsletter/2017-01
 feature:
  title: BeagleBone Black Wireless, Embedded Linux Conference, and GSoC 2017 mentors
- body: <p>BeagleBone Black Wireless has launched. Find out more [TODO]. Embedded Linux Conference 2017 next month in Portland.  Find out more [TODO]. Google Summer of Code 2017 will kick off soon and we are looking for mentors.  Find out more [TODO].</p><p><em><strong>—Christine Long</strong>, Executive Director</em></p> 
+ body: <p>test test .test test .test test .test test .test test .test test .test test .test test .test test .test test .test test .test test .test test .test test .test test .test test .test test .</p><p><em><strong>—Christine Long</strong>, Executive Director</em></p> 
 events:
  - title: SE Michigan BeagleBone Meetup 
    date: Jan 26, 2017
