@@ -4,7 +4,7 @@ title: January 2017 Dog Dish
 link: http://beagleboard.org/newsletter/2017-01
 feature:
  title: BeagleBone Black Wireless, Embedded Linux Conference, and GSoC 2017 mentors
- body: <p> We debuted the BeagleBone Black Wireless last Fall at Maker Faire New York and is available for purchase through our distributors. This is our first board to use the Octavo System-in-Package (SiP) and was designed in EAGLE. The Black Wireless is manufactured by our partner GHI Electronics in Michigan (USA).  Embedded Linux Conference 2017 is next month in Portland: February 21-23. Jason Kridner will give a talk on <em>Educational Robotics Critical for the Future of Linux</em>. Drew Fustini will talk about <em>Google Summer of Code and BeagleBoard.org</em>. The planning for Google Summer of Code (GSoC) 2017 is now underway. We are looking for experienced individuals who are interested in acting as student mentors. Please check out our wiki page for details.  -Christine Long, Executive Director</p><p><em><strong>—Christine Long</strong>, Executive Director</em></p> 
+ body: <p>We debuted the BeagleBone Black Wireless last Fall at Maker Faire New York and is available for purchase through our distributors. This is our first board to use the Octavo System-in-Package (SiP) and was designed in EAGLE. The Black Wireless is manufactured by our partner GHI Electronics in Michigan (USA) <em><strong>—Christine Long</strong>, Executive Director</em></p> 
 events:
  - title: SE Michigan BeagleBone Meetup 
    date: Jan 26, 2017
