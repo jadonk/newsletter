@@ -19,7 +19,7 @@ book:
  title: Mastering Embedded Linux Programming
  link: https://www.packtpub.com/networking-and-servers/mastering-embedded-linux-programming
  body: <p>by Chris Simmonds.  Harness the power of Linux to create versatile and robust embedded solutions</p>
- image: /newsletter/static/images/simmonds_book.jpg
+ image: /newsletter/static/images/simmonds-book.jpg
 articles:
  - title: Google Research PRUDAQ
    link: https://beagleboardfoundation.wordpress.com/2016/07/21/google-research-prudaq-cape/
