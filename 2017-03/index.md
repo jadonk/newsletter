@@ -21,10 +21,10 @@ book:
  body: <p>by Chris Simmonds.  Harness the power of Linux to create versatile and robust embedded solutions</p>
  image: /newsletter/static/images/simmonds-book.jpg
 articles:
- - title: Google Research PRUDAQ
-   link: https://beagleboardfoundation.wordpress.com/2016/07/21/google-research-prudaq-cape/
-   body: <p>PRUDAQ is an open source 40MSPS (megasamples per second) data acquisition BeagleBone cape</p>
-   image: /newsletter/static/images/2017-jan-prudaq_bbb.png
+ - title: Apply for Google Summer of Code
+   link: https://beagleboardfoundation.wordpress.com/2017/03/21/apply-for-google-summer-of-code/
+   body: <p>Students can now apply to work with the BeagleBoard.org Foundation for Google Summer of Code</p>
+   image: /newsletter/static/images/gsoc.png
  - title: Beagle Entertainment System Cartridge Console
    link: https://beagleboardfoundation.wordpress.com/2017/01/05/beagle-entertainment-system-cartridge-console/
    body: <p>Andrew Henderson has turned his Beagle Entertainment System into a tiny SNES cartridge console</p>
