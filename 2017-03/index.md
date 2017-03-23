@@ -56,8 +56,8 @@ projects:
    link: https://beagleboardfoundation.wordpress.com/2017/03/13/using-the-roborio-with-the-beaglebone/ 
    body: Alek Mabry made this tutorial for using the BeagleBone with the roboRIO for FIRST Robotics Competition (FRC)
    image: /newsletter/static/images/roborio.png
- - title: PRU interface to ADC
-   link: https://www.hackster.io/Greg-R/beaglebone-pru-adc-a42a71
-   body: Greg Raven created this PRU interface to ADC using RemoteProc and RPMsg
-   image: /newsletter/static/images/2017-jan-pru-adc.jpg
+ - title: FPGA cape for BeagleBone Black
+   link: https://beagleboardfoundation.wordpress.com/2017/02/24/fpga-cape-for-beaglebone-black/
+   body: Jim Kleiner designed this minimalist hand solderable FPGA cape for the BeagleBone Black
+   image: /newsletter/static/images/fpga-cape.png
 ---
