@@ -4,7 +4,7 @@ title: Spring 2017 Dog Dish
 link: https://beagleboard.org/newsletter/2017-01
 feature:
  title: BeagleBone Blue. Robots. Fast.
- body: <p>We were excited to launch our newest BeagleBone last week at Embedded World: <a href="http://beagleboard.org/blue/">BeagleBone Blue</a> is a complete, Linux-enabled robotics computer. Community-supported and fully open-source, the real-time performance, flexible networking and rich set of robotics-oriented peripherals make building mobile robots quick and affordable.</p> <p>BeagleBone Blue is available from <a href="https://www.arrow.com/en/products/bbblue/beagleboardorg">Arrow</a>, <a href="https://www.element14.com/community/docs/DOC-84044">Element14</a> and <a href="http://www.mouser.com/new/beagleboardorg/beaglebone-blue/">Mouser</a>.</p>  <p>The planning for <a href="https://beagleboard.org/gsoc">Google Summer of Code <em>(GSoC)</em></a> 2017 is now underway.  We are looking for experienced individuals who are interested in acting as student mentors.  Please check out <a href="http://elinux.org/BeagleBoard/GSoC/Ideas">our wiki page</a> for details.</p><p><em><strong>&mdash;Christine Long</strong>, Executive Director</em></p>
+ body: <p>We were excited to launch our newest BeagleBone last week at Embedded World</p>
 events:
  - title: SE Michigan BeagleBone Meetup 
    date: March 23, 2017
