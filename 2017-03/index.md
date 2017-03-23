@@ -31,7 +31,7 @@ articles:
    body: <p>Jon Hoffman developed a Swift library to interact the BeagleBone's I/O pins, and he used the library to create BuddyBot, the 1st robot programmed in Swift.</p>
    image: /newsletter/static/images/buddybot.jpg
 topics:
- - title: New BeagleBone Debian images
+ - title: New Debian 8.7 images
    link: https://groups.google.com/d/msg/beagleboard/i0KdHEzyFR4/LGk5U0hyBwAJ
    body: <p>Debian 8.7 (Jessie) 2017-03-19 images are now <a href="https://beagleboard.org/latest-images">published</a>. Windows and Mac users no longer need to install drivers for USB networking.</p>
  - title: BoneScript 0.6.1 released
