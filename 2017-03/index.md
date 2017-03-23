@@ -47,7 +47,7 @@ projects:
  - title: ArduPilot on BeagleBone Blue
    link: https://github.com/mirkix/ardupilotblue
    body: Mirko Denecke describes how to use BeagleBone Blue with ArduPilot
-   image: /newsletter/static/images/ardupilot-blue.jpg
+   image: /newsletter/static/images/ardupilot-blue.png
  - title: EduMIP ROS
    link: http://dscl.lcsr.jhu.edu/ME530707_2017_EduMIP_ROS
    body: Using Robot Operating System (ROS) with an EduMIP balancing robot
