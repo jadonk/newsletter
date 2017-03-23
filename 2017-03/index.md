@@ -4,17 +4,14 @@ title: Spring 2017 Dog Dish
 link: https://beagleboard.org/newsletter/2017-01
 feature:
  title: BeagleBone Blue launch at Embedded World
- body: <p>We debuted the <a href="http://beagleboard.org/blog/2016-09-26-meet-beaglebone-black-wireless/">BeagleBone Black Wireless</a> last Fall at Maker Faire New York, and it is available for purchase through <a href="https://beagleboard.org/black-wireless">our distributors</a>. This is our first board to use the <a href="http://octavosystems.com/octavo_products/osd335x/">Octavo System-in-Package (SiP)</a> and was <a href="https://github.com/beagleboard/beaglebone-black-wireless">designed in EAGLE</a>.  The Black Wireless is manufactured by our <a href="https://beagleboard.org/logo">partner</a> <a href="https://www.ghielectronics.com/">GHI Electronics</a> in Michigan (USA)</p><p>The <a href="http://events.linuxfoundation.org/events/embedded-linux-conference">Embedded Linux Conference 2017</a> is next month in Portland. Jason Kridner will give a talk on <a href="https://openiotelcna2017.sched.com/event/9Itr/educational-robotics-critical-for-the-future-of-linux-jason-kridner-texas-instruments">Educational Robotics Critical for the Future of Linux</a>. Drew Fustini will talk about <a href="http://events.linuxfoundation.org/events/openiot-summit/program/schedule">Google Summer of Code and BeagleBoard.org</a></p><p>The planning for <a href="https://beagleboard.org/gsoc">Google Summer of Code <em>(GSoC)</em></a> 2017 is now underway.  We are looking for experienced individuals who are interested in acting as student mentors.  Please check out <a href="http://elinux.org/BeagleBoard/GSoC/Ideas">our wiki page</a> for details.</p><p><em><strong>—Christine Long</strong>, Executive Director</em></p>
+ body: <p>We launched the <a href="http://beagleboard.org/blue/">BeagleBone Blue</a> last week at Embedded World and it is available from <a href="https://beagleboard.org/blue">our distributors</a>.</p> <p>The planning for <a href="https://beagleboard.org/gsoc">Google Summer of Code <em>(GSoC)</em></a> 2017 is now underway.  We are looking for experienced individuals who are interested in acting as student mentors.  Please check out <a href="http://elinux.org/BeagleBoard/GSoC/Ideas">our wiki page</a> for details.</p><p><em><strong>&mdash;Christine Long</strong>, Executive Director</em></p>
 events:
  - title: SE Michigan BeagleBone Meetup 
-   date: Jan 26, 2017
-   link: https://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/events/qvgjvjywcbjc/
- - title: Embedded Linux Conference 
-   date: Feb 21-23, 2017
-   link: http://events.linuxfoundation.org/events/embedded-linux-conference/attend/register
- - title: Embedded World
-   date: March 14-16, 2017
-   link: https://www.embedded-world.de/en
+   date: March 23, 2017
+   link: https://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/
+ - title: Midwest RepRap Fest
+   date: March 25-26, 2017
+   link: https://www.eventbrite.com/e/2017-midwest-reprap-festival-mrrf2017-aka-mrrf-tickets-28382784673
 book:
  title: Mastering Embedded Linux Programming
  link: https://www.packtpub.com/networking-and-servers/mastering-embedded-linux-programming
