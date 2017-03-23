@@ -4,7 +4,7 @@ title: Spring 2017 Dog Dish
 link: https://beagleboard.org/newsletter/2017-01
 feature:
  title: BeagleBone Blue launch at Embedded World
- body: <p>We launched the <a href="http://beagleboard.org/blue/">BeagleBone Blue</a> last week at Embedded World and it is available from <a href="https://beagleboard.org/blue">our distributors</a>.</p> <p>The planning for <a href="https://beagleboard.org/gsoc">Google Summer of Code <em>(GSoC)</em></a> 2017 is now underway.  We are looking for experienced individuals who are interested in acting as student mentors.  Please check out <a href="http://elinux.org/BeagleBoard/GSoC/Ideas">our wiki page</a> for details.</p><p><em><strong>&mdash;Christine Long</strong>, Executive Director</em></p>
+ body: <p>We were excited to launch our newest BeagleBone last week at Embedded World. <a href="http://beagleboard.org/blue/">BeagleBone Blue</a> is a complete, Linux-enabled robotics computer. Community-supported and fully open-source, the real-time performance, flexible networking and rich set of robotics-oriented peripherals make building mobile robots quick and affordable. <p>BeagleBone Blue is available from Arrow, Element14 and Mouser.</p>  <p>The planning for <a href="https://beagleboard.org/gsoc">Google Summer of Code <em>(GSoC)</em></a> 2017 is now underway.  We are looking for experienced individuals who are interested in acting as student mentors.  Please check out <a href="http://elinux.org/BeagleBoard/GSoC/Ideas">our wiki page</a> for details.</p><p><em><strong>&mdash;Christine Long</strong>, Executive Director</em></p>
 events:
  - title: SE Michigan BeagleBone Meetup 
    date: March 23, 2017
@@ -22,9 +22,9 @@ articles:
    link: https://beagleboardfoundation.wordpress.com/2017/03/21/apply-for-google-summer-of-code/
    body: <p>Students can now apply to work with the BeagleBoard.org Foundation for Google Summer of Code</p>
    image: /newsletter/static/images/gsoc.png
- - title: Beagle Entertainment System Cartridge Console
-   link: https://beagleboardfoundation.wordpress.com/2017/01/05/beagle-entertainment-system-cartridge-console/
-   body: <p>Andrew Henderson has turned his Beagle Entertainment System into a tiny SNES cartridge console</p>
+ - title: BeagleBone Blue at Embedded World
+   link: https://beagleboardfoundation.wordpress.com/2017/03/18/beaglebone-blue-at-embedded-world/
+   body: <p>console</p>
    image: /newsletter/static/images/2017-jan-snes.jpg
  - title: Blinking a LED with Rust
    link: https://beagleboardfoundation.wordpress.com/2016/12/24/blinking-a-led-with-rust/
