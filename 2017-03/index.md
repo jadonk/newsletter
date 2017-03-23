@@ -40,7 +40,7 @@ topics:
  - title: root login change
    link: https://groups.google.com/d/msg/beagleboard/COYibTw6R98/q-Rk9o-IAQAJ
    body: <p>Jason Kridner explains the recent change to disable ssh for root by default.</p>
- - title: Why is pinmux-helper needed? 
+ - title: Why is pinmux-helper needed?
    link: https://groups.google.com/d/msg/beagleboard/StNUBzdk-yY/J5UzsjTCBAAJ
    body: <p>Charles Steinkuehler describes the role of the pinmux helper driver.</p>
 projects:
@@ -48,14 +48,14 @@ projects:
    link: https://github.com/mirkix/ardupilotblue
    body: Mirko Denecke describes how to use BeagleBone Blue with ArduPilot
    image: /newsletter/static/images/ardupilot-blue.jpg
+ - title: EduMIP ROS
+   link: http://dscl.lcsr.jhu.edu/ME530707_2017_EduMIP_ROS
+   body: Using Robot Operating System (ROS) with an EduMIP balancing robot
+   image: /newsletter/static/images/ros-logo.png
  - title: Using the roboRIO with the BeagleBone
    link: https://beagleboardfoundation.wordpress.com/2017/03/13/using-the-roborio-with-the-beaglebone/ 
    body: Alek Mabry made this tutorial for using the BeagleBone with the roboRIO for FIRST Robotics Competition (FRC)
    image: /newsletter/static/images/roborio.png
- - title: Upside Down Challenge 
-   link: https://www.hackster.io/command-alkon-dublin-oh/upside-down-challenge-c7dba7
-   body: Christmas light alphabet wall based on the series &quot;Stranger Things&quot;
-   image: /newsletter/static/images/2017-jan-upside-down.jpg
  - title: PRU interface to ADC
    link: https://www.hackster.io/Greg-R/beaglebone-pru-adc-a42a71
    body: Greg Raven created this PRU interface to ADC using RemoteProc and RPMsg
