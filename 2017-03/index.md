@@ -4,7 +4,7 @@ title: Spring 2017 Dog Dish
 link: https://beagleboard.org/newsletter/2017-01
 feature:
  title: BeagleBone Blue. Robots. Fast.
- body: <p>We were excited to launch our newest BeagleBone last week at Embedded World. We were excited to launch our newest BeagleBone last week at Embedded World</p>
+ body: <p>We were excited to launch our newest BeagleBone last week at Embedded World: <a href="http://beagleboard.org/blue/">BeagleBone Blue</a> is a complete, Linux-enabled robotics computer.</p>
 events:
  - title: SE Michigan BeagleBone Meetup 
    date: March 23, 2017
