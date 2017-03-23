@@ -24,8 +24,8 @@ articles:
    image: /newsletter/static/images/gsoc.png
  - title: BeagleBone Blue at Embedded World
    link: https://beagleboardfoundation.wordpress.com/2017/03/18/beaglebone-blue-at-embedded-world/
-   body: <p>console</p>
-   image: /newsletter/static/images/2017-jan-snes.jpg
+   body: <p>ARMDevices.net video of the new BeagleBone Blue with Jason Kridner in our BeagleBoard.org Foundation booth at Embedded World</p>
+   image: /newsletter/static/images/beaglebone-blue.jpg
  - title: Blinking a LED with Rust
    link: https://beagleboardfoundation.wordpress.com/2016/12/24/blinking-a-led-with-rust/
    body: <p>Christopher Woodall chose Rust to develop a drink making robot powered by BeagleBone Green Wireless</p>
