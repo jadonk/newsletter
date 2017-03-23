@@ -3,7 +3,7 @@ layout: january2017_layout
 title: Spring 2017 Dog Dish
 link: https://beagleboard.org/newsletter/2017-03
 feature:
- title: BeagleBone Blue. Robots. Fast
+ title: BeagleBone Blue. Robots. Fast.
  body: <p>We were excited to launch a new BeagleBone last week at Embedded World&#58; <strong><a href="http://beagleboard.org/blue/">BeagleBone Blue</a></strong> is a complete, Linux-enabled robotics computer. Community-supported and fully open-source, the real-time performance, flexible networking and rich set of robotics-oriented peripherals make building mobile robots quick and affordable.</p> <p><a href="http://beagleboard.org/blue/"><img src="/newsletter/static/images/beaglebone-blue-small.jpg" alt="photo of BeagleBone Blue"></a></p> <p>Learn more about the BeagleBone Blue in a <a href="https://www.youtube.com/watch?v=GxmjygZlnJw">quick board tour by Jason Kridner</a>. Schematics, PCB layout and Bill of Materials for the BeagleBone Blue are available on <a href="https://github.com/beagleboard/beaglebone-blue/">GitHub</a>.</p> <p>BeagleBone Blue is available from <a href="https://www.arrow.com/en/products/bbblue/beagleboardorg">Arrow</a>, <a href="https://www.element14.com/community/docs/DOC-84044">Element14</a> and <a href="http://www.mouser.com/new/beagleboardorg/beaglebone-blue/">Mouser</a>. Compatible accessories such as robot chassis and cable assemblies are listed on the <a href="https://github.com/beagleboard/beaglebone-blue/wiki/Accessories">BeagleBone Blue wiki</a>. <p><em><strong>&mdash;Christine Long</strong>, Executive Director</em></p>
 events:
  - title: SE Michigan BeagleBone Meetup 
@@ -44,10 +44,10 @@ topics:
    link: https://groups.google.com/d/msg/beagleboard/StNUBzdk-yY/J5UzsjTCBAAJ
    body: <p>Charles Steinkuehler describes the role of the pinmux helper driver.</p>
 projects:
- - title: Motor Speed Controller
-   link: https://www.hackster.io/Greg-R/pru-pid-motor-speed-controller-with-beaglebone-green-ccb805
-   body: PRU PID Motor Speed Controller on the BeagleBone Green by Greg Raven
-   image: /newsletter/static/images/2017-jan-pru-pid-motor.jpg
+ - title: ArduPilot on BeagleBone Blue
+   link: https://github.com/mirkix/ardupilotblue
+   body: Mirko Denecke describes how to use BeagleBone Blue with ArduPilot
+   image: /newsletter/static/images/ardupilot-blue.jpg
  - title: Connect to Cellular Network
    link: https://www.hackster.io/benstr-hologram/connect-beaglebone-black-to-cellular-0e14c2
    body: Unleash your BeagleBone with this USB cellular modem tutorial
