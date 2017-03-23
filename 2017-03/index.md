@@ -48,14 +48,14 @@ projects:
    link: https://github.com/mirkix/ardupilotblue
    body: Mirko Denecke describes how to use BeagleBone Blue with ArduPilot
    image: /newsletter/static/images/ardupilot-blue.png
- - title: EduMIP ROS
-   link: http://dscl.lcsr.jhu.edu/ME530707_2017_EduMIP_ROS
-   body: Using Robot Operating System (ROS) with an EduMIP balancing robot
-   image: /newsletter/static/images/edumip-small.jpg
  - title: Using the roboRIO with the BeagleBone
    link: https://beagleboardfoundation.wordpress.com/2017/03/13/using-the-roborio-with-the-beaglebone/ 
    body: Alek Mabry made this tutorial for using the BeagleBone with the roboRIO for FIRST Robotics Competition (FRC)
    image: /newsletter/static/images/roborio.png
+ - title: EduMIP ROS
+   link: http://dscl.lcsr.jhu.edu/ME530707_2017_EduMIP_ROS
+   body: Using Robot Operating System (ROS) with an EduMIP balancing robot
+   image: /newsletter/static/images/edumip-small.jpg
  - title: FPGA cape for BeagleBone Black
    link: https://beagleboardfoundation.wordpress.com/2017/02/24/fpga-cape-for-beaglebone-black/
    body: Jim Kleiner designed this minimalist hand solderable FPGA cape for the BeagleBone Black
