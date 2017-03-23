@@ -48,10 +48,10 @@ projects:
    link: https://github.com/mirkix/ardupilotblue
    body: Mirko Denecke describes how to use BeagleBone Blue with ArduPilot
    image: /newsletter/static/images/ardupilot-blue.jpg
- - title: Connect to Cellular Network
-   link: https://www.hackster.io/benstr-hologram/connect-beaglebone-black-to-cellular-0e14c2
-   body: Unleash your BeagleBone with this USB cellular modem tutorial
-   image: /newsletter/static/images/2017-jan-cellular.jpg
+ - title: Using the roboRIO with the BeagleBone
+   link: https://beagleboardfoundation.wordpress.com/2017/03/13/using-the-roborio-with-the-beaglebone/ 
+   body: Alek Mabry made this tutorial for using the BeagleBone with the roboRIO for FIRST Robotics Competition (FRC)
+   image: /newsletter/static/images/roborio.png
  - title: Upside Down Challenge 
    link: https://www.hackster.io/command-alkon-dublin-oh/upside-down-challenge-c7dba7
    body: Christmas light alphabet wall based on the series &quot;Stranger Things&quot;
