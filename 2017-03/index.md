@@ -47,7 +47,7 @@ projects:
  - title: ArduPilot on BeagleBone Blue
    link: https://github.com/mirkix/ardupilotblue
    body: Mirko Denecke describes how to use BeagleBone Blue with ArduPilot
-   image: /newsletter/static/images/ardupilot-blue.jpg
+   image: /newsletter/static/images/ardupilot-blue.png
  - title: Using the roboRIO with the BeagleBone
    link: https://beagleboardfoundation.wordpress.com/2017/03/13/using-the-roborio-with-the-beaglebone/ 
    body: Alek Mabry made this tutorial for using the BeagleBone with the roboRIO for FIRST Robotics Competition (FRC)
