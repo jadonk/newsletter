@@ -52,7 +52,7 @@ projects:
    link: https://beagleboardfoundation.wordpress.com/2017/03/13/using-the-roborio-with-the-beaglebone/ 
    body: Alek Mabry made this tutorial for using the BeagleBone with the roboRIO for FIRST Robotics Competition (FRC)
    image: /newsletter/static/images/roborio.png
- - title: Running EduMIP as a ROS Node
+ - title: Running the EduMIP as a ROS Node
    link: http://dscl.lcsr.jhu.edu/ME530707_2017_EduMIP_ROS
    body: Using Robot Operating System (ROS) with an EduMIP balancing robot
    image: /newsletter/static/images/edumip.png
