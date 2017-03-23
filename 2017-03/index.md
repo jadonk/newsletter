@@ -55,7 +55,7 @@ projects:
  - title: EduMIP ROS
    link: http://dscl.lcsr.jhu.edu/ME530707_2017_EduMIP_ROS
    body: Using Robot Operating System (ROS) with an EduMIP balancing robot
-   image: /newsletter/static/images/edumip-small.jpg
+   image: /newsletter/static/images/edumip.png
  - title: FPGA cape for BeagleBone Black
    link: https://beagleboardfoundation.wordpress.com/2017/02/24/fpga-cape-for-beaglebone-black/
    body: Jim Kleiner designed this minimalist hand solderable FPGA cape for the BeagleBone Black
