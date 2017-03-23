@@ -24,11 +24,11 @@ articles:
    image: /newsletter/static/images/gsoc.png
  - title: BeagleBone Blue at Embedded World
    link: https://beagleboardfoundation.wordpress.com/2017/03/18/beaglebone-blue-at-embedded-world/
-   body: <p>ARMDevices.net video of the new BeagleBone Blue with Jason Kridner in our BeagleBoard.org Foundation booth at Embedded World</p>
+   body: <p>ARMDevices.net interviewed Jason Kridner and recorded BeagleBone Blue demos in our Embedded World booth.</p>
    image: /newsletter/static/images/beaglemav.jpg
- - title: BeagleBone robotics with Swift
-   link: https://beagleboardfoundation.wordpress.com/2016/12/24/blinking-a-led-with-rust/
-   body: <p>Jon Hoffman created a Swift library for interacting with the GPIO, PWM and Analog pins on the BeagleBone Black. Jon used SwiftyBones to develop BuddyBot, the first robot programmed in the Swift.</p>
+ - title: BeagleBone robotics with Swift 
+   link: https://beagleboardfoundation.wordpress.com/2017/02/17/buddybot-first-robot-programmed-in-swift/
+   body: <p>Jon Hoffman developed a Swift library to interact the BeagleBone's I/O pins, and he used the library to create BuddyBot, the 1st robot programmed in Swift.</p>
    image: /newsletter/static/images/buddybot.jpg
 topics:
  - title: New BeagleBone Debian images
