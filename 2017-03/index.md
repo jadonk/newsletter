@@ -20,7 +20,7 @@ book:
 articles:
  - title: Apply now for Google Summer of Code 2017
    link: https://beagleboardfoundation.wordpress.com/2017/03/21/apply-for-google-summer-of-code/
-   body: <p>BeagleBoard.org is a mentoring organization for Google Summer of Code 2017. Student can apply until April 3rd.</p>
+   body: <p>BeagleBoard.org is a mentoring organization for Google Summer of Code 2017. The deadline for students to apply is April 3rd.</p>
    image: /newsletter/static/images/gsoc.png
  - title: BeagleBone Blue at Embedded World
    link: https://beagleboardfoundation.wordpress.com/2017/03/18/beaglebone-blue-at-embedded-world/
