@@ -3,6 +3,13 @@
   * https://beagleboardfoundation.wordpress.com/2017/05/30/google-summer-of-code-project-videos/
 * FLIR Lepton BeagleBone Blue challenge
   * https://lepton.flir.com/beaglebone-blue-challenge/
+* BeagleBone Blue EduMIP Robot
+  * https://www.youtube.com/watch?v=BIMb8D5RdGA
+  * EduMIP BeagleBone Blues Roaming Around
+  * https://www.youtube.com/watch?v=Owe0o0ynUbY
+* BeagleBone & PRU - TechTalk #038
+  * https://youtu.be/B1DssoXzUXw 
+
 
 
 # hot off the presses
