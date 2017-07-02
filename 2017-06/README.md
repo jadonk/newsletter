@@ -30,6 +30,11 @@
   * https://beagleboardfoundation.wordpress.com/2017/04/05/beaglemav-3d-printed-hexacopter/
 * True Color 3D Printing with BeagleBone and MachineKit
   * https://beagleboardfoundation.wordpress.com/2017/03/29/true-color-3d-printing-with-beaglebone-and-machinekit/
+* diy-VT100 meets BeagleBone Black
+  * https://beagleboardfoundation.wordpress.com/2017/07/02/diy-vt100-meets-beaglebone-black/
+* Laser PCBs with LDGraphy by Henner Zeller
+  * https://beagleboardfoundation.wordpress.com/2017/07/02/laser-pcbs-with-ldgraphy/
+
  
 # community topics
 * [beagleboard] CCSV6 for MacOS
