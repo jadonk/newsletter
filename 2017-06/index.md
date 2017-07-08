@@ -49,12 +49,12 @@ topics:
 projects:
  - title: BeagleMAV 3D-printed Hexacopter
    link: https://beagleboardfoundation.wordpress.com/2017/04/05/beaglemav-3d-printed-hexacopter/
-   body: BeagleMAV is a 3D-printed hexacopter that derives its extremely low weight of 500 grams 
+   body: BeagleMAV derives its extremely low weight of 500 grams from its unique monocoque structure that was designed iteratively with modal finite element analysis.
    image: https://beagleboardfoundation.files.wordpress.com/2017/04/ucsd_dronelab_platforms_beaglemav_1.jpg
- - title: Using the roboRIO with the BeagleBone
-   link: https://beagleboardfoundation.wordpress.com/2017/03/13/using-the-roborio-with-the-beaglebone/ 
-   body: Alek Mabry made this tutorial for using the BeagleBone with the roboRIO for FIRST Robotics Competition (FRC)
-   image: https://beagleboard.github.io/newsletter/static/images/roborio.png
+ - title: True Color 3D Printing with BeagleBone and MachineKit
+   link: https://beagleboardfoundation.wordpress.com/2017/03/29/true-color-3d-printing-with-beaglebone-and-machinekit/
+   body: Full color Arcus 3D printer by Daren Schwenke at Midwest RepRap Fest is powered by MachineKit on a BeagleBone Black.
+   image: https://i1.wp.com/beagleboardfoundation.files.wordpress.com/2017/03/colormixing.jpg?w=720
  - title: Running the EduMIP as a ROS Node
    link: http://dscl.lcsr.jhu.edu/ME530707_2017_EduMIP_ROS
    body: Using Robot Operating System (ROS) with an EduMIP balancing robot
