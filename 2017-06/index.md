@@ -40,12 +40,12 @@ topics:
  - title: BeagleBone Blue EduMIP Balancing Robot Assembly
    link: https://groups.google.com/forum/#!category-topic/beagleboard/OYq_5NDuN1I
    body: <p>Mark Yoder posted a video showing how to assemble the BeagleBone Blue EduMIP balancing robot.</p>
- - title: root login change
-   link: https://groups.google.com/d/msg/beagleboard/COYibTw6R98/q-Rk9o-IAQAJ
-   body: <p>Jason Kridner explains the recent change to disable ssh for root by default.</p>
- - title: Why is pinmux-helper needed?
-   link: https://groups.google.com/d/msg/beagleboard/StNUBzdk-yY/J5UzsjTCBAAJ
-   body: <p>Charles Steinkuehler describes the role of the pinmux helper driver.</p>
+ - title: Automated Irrigation with BeagleBone Green Wireless
+   link: https://groups.google.com/forum/#!category-topic/beagleboard/2hvY9uzh6hc
+   body: <p>Greg Raven posts about his irrigation control system using HTML5, WebSockets, and Ecmascript 6</p>
+ - title: ROS node support for BeagleBoard Blue
+   link: https://groups.google.com/forum/#!category-topic/beagleboard/A551h74hbS0
+   body: <p>Jeff Albrecht posts about his robotic project using ROS</p>
 projects:
  - title: BeagleMAV 3D-printed Hexacopter
    link: https://beagleboardfoundation.wordpress.com/2017/04/05/beaglemav-3d-printed-hexacopter/
