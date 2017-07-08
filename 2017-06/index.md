@@ -53,14 +53,14 @@ projects:
    image: https://beagleboardfoundation.files.wordpress.com/2017/04/ucsd_dronelab_platforms_beaglemav_1.jpg
  - title: True Color 3D Printing with BeagleBone and MachineKit
    link: https://beagleboardfoundation.wordpress.com/2017/03/29/true-color-3d-printing-with-beaglebone-and-machinekit/
-   body: Full color Arcus 3D printer by Daren Schwenke at Midwest RepRap Fest is powered by MachineKit on a BeagleBone Black.
+   body: Full color Arcus 3D printer by Daren Schwenke is powered by MachineKit on a BeagleBone Black.
    image: https://i1.wp.com/beagleboardfoundation.files.wordpress.com/2017/03/colormixing.jpg?w=720
- - title: Running the EduMIP as a ROS Node
-   link: http://dscl.lcsr.jhu.edu/ME530707_2017_EduMIP_ROS
-   body: Using Robot Operating System (ROS) with an EduMIP balancing robot
-   image: https://beagleboard.github.io/newsletter/static/images/edumip.png
- - title: FPGA cape for BeagleBone Black
-   link: https://beagleboardfoundation.wordpress.com/2017/02/24/fpga-cape-for-beaglebone-black/
-   body: Jim Kleiner designed this minimalist hand solderable FPGA cape for the BeagleBone Black
-   image: https://beagleboard.github.io/newsletter/static/images/fpga-cape.png
+ - title: diy-VT100 meets BeagleBone Black
+   link: https://beagleboardfoundation.wordpress.com/2017/07/02/diy-vt100-meets-beaglebone-black/
+   body: Kuldeep Singh Dhaka has designed a small VT100 terminal that you can carry in your hands and connect to any hardware that provide serial interface.
+   image: https://beagleboardfoundation.files.wordpress.com/2017/07/screenshot-from-2017-07-02-12-37-21.png?w=720
+ - title: Laser PCBs with LDGraphy
+   link: https://beagleboardfoundation.wordpress.com/2017/07/02/laser-pcbs-with-ldgraphy/
+   body: Henner Zeller created this simple laser direct lithography device for PCB manufacturing.
+   image: https://beagleboardfoundation.files.wordpress.com/2017/07/sample-case.jpg?w=720
 ---
