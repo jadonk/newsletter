@@ -37,9 +37,9 @@ topics:
  - title: U-Boot Overlays are now enabled by default
    link: https://groups.google.com/forum/#!category-topic/beagleboard/1ahosuHBUTo
    body: <p>Robert Nelson announces that <a href="http://elinux.org/Beagleboard:BeagleBoneBlack_Debian#Debian_Image_Testing_Snapshots">Debian test images</a> now have <a href="http://elinux.org/Beagleboard:BeagleBoneBlack_Debian#U-Boot_Overlays">U-Boot Overlays</a> enabled by default</p>
- - title: BeagleBone Blue EduMIP Balancing Robot Assembly Video
-   link: https://groups.google.com/d/msg/beagleboard/w8WwgPxDMgI/LgUIDYFJCgAJ
-   body: <p>Jason Kridner announced BoneScript is back under active development.</p>
+ - title: BeagleBone Blue EduMIP Balancing Robot Assembly
+   link: https://groups.google.com/forum/#!category-topic/beagleboard/OYq_5NDuN1I
+   body: <p>Mark Yoder posted a video showing how to assemble the BeagleBone Blue EduMIP balancing robot.</p>
  - title: root login change
    link: https://groups.google.com/d/msg/beagleboard/COYibTw6R98/q-Rk9o-IAQAJ
    body: <p>Jason Kridner explains the recent change to disable ssh for root by default.</p>
