@@ -19,7 +19,7 @@ book:
  title: BeagleBone Robotic Projects - 2nd Edition
  link: https://www.packtpub.com/hardware-and-creative/beaglebone-robotic-projects-second-edition
  body: <p>by Dr. Richard Grimmett. Exciting new capabilities to enable even easier DIY robotics with BeagleBone Blue.</p>
- image: https://www.packtpub.com/sites/default/files/7234-low.png
+ image: https://pdp7.github.io/newsletter/static/images/bbrp-2nd-book.png
 articles:
  - title: Apply now for Google Summer of Code 2017
    link: https://beagleboardfoundation.wordpress.com/2017/03/21/apply-for-google-summer-of-code/
