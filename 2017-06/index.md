@@ -7,13 +7,13 @@ feature:
  body: <p>We were excited to launch a new BeagleBone last week at Embedded World&#58; <strong><a href="https://beagleboard.org/blue/">BeagleBone Blue</a></strong> is a complete, Linux-enabled robotics computer. Community-supported and fully open-source, the real-time performance, flexible networking and rich set of robotics-oriented peripherals make building mobile robots quick and affordable.</p> <p><a href="https://beagleboard.org/blue/"><img src="https://beagleboard.github.io/newsletter/static/images/beaglebone-blue-small.jpg" alt="photo of BeagleBone Blue"></a></p> <p>Learn more about the BeagleBone Blue in a <a href="https://www.youtube.com/watch?v=GxmjygZlnJw">quick board tour by Jason Kridner</a>. Schematics, PCB layout and Bill of Materials for the BeagleBone Blue are available on <a href="https://github.com/beagleboard/beaglebone-blue/">GitHub</a>.</p> <p>BeagleBone Blue is available from <a href="https://www.arrow.com/en/products/bbblue/beagleboardorg">Arrow</a>, <a href="https://www.element14.com/community/docs/DOC-84044">Element14</a> and <a href="http://www.mouser.com/new/beagleboardorg/beaglebone-blue/">Mouser</a>. Compatible accessories such as robot chassis and cable assemblies are listed on the <a href="https://github.com/beagleboard/beaglebone-blue/wiki/Accessories">BeagleBone Blue wiki</a>. <p><em><strong>&mdash;Christine Long</strong>, Executive Director</em></p>
 events:
  - title: SE Michigan BeagleBone Meetup 
-   date: July 27, 2017
+   date: July 27
    link: https://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/
  - title: Maker Faire Detroit
-   date: July 29-30, 2017
+   date: July 29-30
    link: http://detroit.makerfaire.com/
  - title: Maker Faire New York
-   date: September 23-24, 2017
+   date: September 23-24
    link: http://makerfaire.com/new-york/
 book:
  title: BeagleBone Robotic Projects - 2nd Edition
