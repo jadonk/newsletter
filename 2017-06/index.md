@@ -21,14 +21,14 @@ book:
  body: <p>by Dr. Richard Grimmett. Exciting new capabilities to enable even easier DIY robotics with BeagleBone Blue.</p>
  image: https://pdp7.github.io/newsletter/static/images/bbrp-2nd-book.png
 articles:
- - title: Apply now for Google Summer of Code 2017
-   link: https://beagleboardfoundation.wordpress.com/2017/03/21/apply-for-google-summer-of-code/
-   body: <p>BeagleBoard.org is a mentoring organization for Google Summer of Code 2017. The deadline for students to apply is April 3rd.</p>
+ - title: Google Summer of Code 2017 update 
+   link: https://beagleboardfoundation.wordpress.com/2017/05/30/google-summer-of-code-project-videos/
+   body: <p>Watch the introduction videos from our Google Summer of Code 2017 students</p>
    image: https://beagleboard.github.io/newsletter/static/images/gsoc.png
- - title: BeagleBone Blue at Embedded World
+ - title: FLIR Lepton BeagleBone Blue challenge 
    link: https://beagleboardfoundation.wordpress.com/2017/03/18/beaglebone-blue-at-embedded-world/
-   body: <p>ARMDevices.net interviewed Jason Kridner and recorded BeagleBone Blue demos in our Embedded World booth.</p>
-   image: https://beagleboard.github.io/newsletter/static/images/beaglemav.jpg
+   body: <p>FLIR has launched a design challenge for the FLIR Lepton 3 thermal camera and BeagleBone Blue. Submit your project idea for the FLIR challenge by July 21st. The top 5 ideas will receive a BeagleBone Blue and FLIR Lepton 3</p>
+   image: https://beagleboardfoundation.files.wordpress.com/2017/06/lepton.png?w=720
  - title: BeagleBone robotics with Swift 
    link: https://beagleboardfoundation.wordpress.com/2017/02/17/buddybot-first-robot-programmed-in-swift/
    body: <p>Jon Hoffman developed a Swift library to interact the BeagleBone's I/O pins, and he used the library to create BuddyBot, the 1st robot programmed in Swift.</p>
