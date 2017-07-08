@@ -26,13 +26,13 @@ articles:
    body: <p>Watch the introduction videos from our Google Summer of Code 2017 students</p>
    image: https://beagleboard.github.io/newsletter/static/images/gsoc.png
  - title: FLIR Lepton BeagleBone Blue challenge 
-   link: https://beagleboardfoundation.wordpress.com/2017/03/18/beaglebone-blue-at-embedded-world/
+   link: https://beagleboardfoundation.wordpress.com/2017/06/27/beaglebone-blue-challenge-with-flir-lepton/
    body: <p>FLIR has launched a design challenge for the FLIR Lepton 3 thermal camera and BeagleBone Blue. Submit your project idea for the FLIR challenge by July 21st. The top 5 ideas will receive a BeagleBone Blue and FLIR Lepton 3</p>
    image: https://beagleboardfoundation.files.wordpress.com/2017/06/lepton.png?w=720
- - title: BeagleBone robotics with Swift 
-   link: https://beagleboardfoundation.wordpress.com/2017/02/17/buddybot-first-robot-programmed-in-swift/
-   body: <p>Jon Hoffman developed a Swift library to interact the BeagleBone's I/O pins, and he used the library to create BuddyBot, the 1st robot programmed in Swift.</p>
-   image: https://beagleboard.github.io/newsletter/static/images/buddybot.jpg
+ - title: Music-Loving BeagleBone Blue
+   link: https://beagleboardfoundation.wordpress.com/2017/06/16/music-loving-beaglebone/
+   body: <p>BeagleBone Blue Electro-Mechanical Glockenspiel consists of eight servo motors each with a mallet stick attached to them.</p>
+   image: https://beagleboardfoundation.files.wordpress.com/2017/06/bbblue-feat_bright-1.png
 topics:
  - title: New Debian 8.7 images
    link: https://groups.google.com/d/msg/beagleboard/i0KdHEzyFR4/LGk5U0hyBwAJ
@@ -47,10 +47,10 @@ topics:
    link: https://groups.google.com/d/msg/beagleboard/StNUBzdk-yY/J5UzsjTCBAAJ
    body: <p>Charles Steinkuehler describes the role of the pinmux helper driver.</p>
 projects:
- - title: ArduPilot on BeagleBone Blue
-   link: https://github.com/mirkix/ardupilotblue
-   body: Mirko Denecke describes how to use BeagleBone Blue with ArduPilot
-   image: https://beagleboard.github.io/newsletter/static/images/ardupilot-blue.png
+ - title: BeagleMAV 3D-printed Hexacopter
+   link: https://beagleboardfoundation.wordpress.com/2017/04/05/beaglemav-3d-printed-hexacopter/
+   body: BeagleMAV is a 3D-printed hexacopter that derives its extremely low weight of 500 grams 
+   image: https://beagleboardfoundation.files.wordpress.com/2017/04/ucsd_dronelab_platforms_beaglemav_1.jpg
  - title: Using the roboRIO with the BeagleBone
    link: https://beagleboardfoundation.wordpress.com/2017/03/13/using-the-roborio-with-the-beaglebone/ 
    body: Alek Mabry made this tutorial for using the BeagleBone with the roboRIO for FIRST Robotics Competition (FRC)
