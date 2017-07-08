@@ -7,16 +7,19 @@ feature:
  body: <p>We were excited to launch a new BeagleBone last week at Embedded World&#58; <strong><a href="https://beagleboard.org/blue/">BeagleBone Blue</a></strong> is a complete, Linux-enabled robotics computer. Community-supported and fully open-source, the real-time performance, flexible networking and rich set of robotics-oriented peripherals make building mobile robots quick and affordable.</p> <p><a href="https://beagleboard.org/blue/"><img src="https://beagleboard.github.io/newsletter/static/images/beaglebone-blue-small.jpg" alt="photo of BeagleBone Blue"></a></p> <p>Learn more about the BeagleBone Blue in a <a href="https://www.youtube.com/watch?v=GxmjygZlnJw">quick board tour by Jason Kridner</a>. Schematics, PCB layout and Bill of Materials for the BeagleBone Blue are available on <a href="https://github.com/beagleboard/beaglebone-blue/">GitHub</a>.</p> <p>BeagleBone Blue is available from <a href="https://www.arrow.com/en/products/bbblue/beagleboardorg">Arrow</a>, <a href="https://www.element14.com/community/docs/DOC-84044">Element14</a> and <a href="http://www.mouser.com/new/beagleboardorg/beaglebone-blue/">Mouser</a>. Compatible accessories such as robot chassis and cable assemblies are listed on the <a href="https://github.com/beagleboard/beaglebone-blue/wiki/Accessories">BeagleBone Blue wiki</a>. <p><em><strong>&mdash;Christine Long</strong>, Executive Director</em></p>
 events:
  - title: SE Michigan BeagleBone Meetup 
-   date: March 23, 2017
+   date: July 27, 2017
    link: https://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/
- - title: Midwest RepRap Fest
-   date: March 25-26, 2017
-   link: https://www.eventbrite.com/e/2017-midwest-reprap-festival-mrrf2017-aka-mrrf-tickets-28382784673
+ - title: Maker Faire Detroit
+   date: July 29-30, 2017
+   link: http://detroit.makerfaire.com/
+ - title: Maker Faire New York
+   date: September 23-24, 2017
+   link: http://makerfaire.com/new-york/
 book:
- title: Mastering Embedded Linux Programming
- link: https://www.packtpub.com/networking-and-servers/mastering-embedded-linux-programming
- body: <p>by Chris Simmonds.  Harness the power of Linux to create versatile and robust embedded solutions</p>
- image: https://beagleboard.github.io/newsletter/static/images/simmonds-book.jpg
+ title: BeagleBone Robotic Projects - 2nd Edition
+ link: https://www.packtpub.com/hardware-and-creative/beaglebone-robotic-projects-second-edition
+ body: <p>by Dr. Richard Grimmett. Exciting new capabilities to enable even easier DIY robotics with BeagleBone Blue.</p>
+ image: https://www.packtpub.com/sites/default/files/7234-low.png
 articles:
  - title: Apply now for Google Summer of Code 2017
    link: https://beagleboardfoundation.wordpress.com/2017/03/21/apply-for-google-summer-of-code/
