@@ -34,10 +34,10 @@ articles:
    body: <p>BeagleBone Blue Electro-Mechanical Glockenspiel consists of eight servo motors each with a mallet stick attached to them.</p>
    image: https://beagleboardfoundation.files.wordpress.com/2017/06/bbblue-feat_bright-1.png
 topics:
- - title: New Debian 8.7 images
-   link: https://groups.google.com/d/msg/beagleboard/i0KdHEzyFR4/LGk5U0hyBwAJ
-   body: <p>Debian 8.7 (Jessie) 2017-03-19 images are now <a href="https://beagleboard.org/latest-images">published</a>. Windows and Mac users no longer need to install drivers for USB networking.</p>
- - title: BoneScript 0.6.1 released
+ - title: U-Boot Overlays are now enabled by default
+   link: https://groups.google.com/forum/#!category-topic/beagleboard/1ahosuHBUTo
+   body: <p>Robert Nelson announces that <a href="http://elinux.org/Beagleboard:BeagleBoneBlack_Debian#Debian_Image_Testing_Snapshots">Debian test images</a> now have <a href="http://elinux.org/Beagleboard:BeagleBoneBlack_Debian#U-Boot_Overlays">U-Boot Overlays</a> enabled by default</p>
+ - title: BeagleBone Blue EduMIP Balancing Robot Assembly Video
    link: https://groups.google.com/d/msg/beagleboard/w8WwgPxDMgI/LgUIDYFJCgAJ
    body: <p>Jason Kridner announced BoneScript is back under active development.</p>
  - title: root login change
