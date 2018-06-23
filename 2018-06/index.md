@@ -47,7 +47,7 @@ projects:
    image: 
  - title: Indoor-Outdoor Temperature Sensors
    link: http://bbb.io/+f38c6c
-   body: "Houston weather changes drastically from day to day and I need an easy way to tell what the outdoor temperature is each day."
+   body: Houston weather changes drastically from day to day and I need an easy way to tell what the outdoor temperature is each day.
    image: https://hackster.imgix.net/uploads/attachments/478322/img_f9ea184ab329-1_BjZfVKRwNl.jpeg?auto=compress%2Cformat&w=900&h=675&fit=min
  - title: diy-VT100 meets BeagleBone Black
    link: https://beagleboardfoundation.wordpress.com/2017/07/02/diy-vt100-meets-beaglebone-black/
