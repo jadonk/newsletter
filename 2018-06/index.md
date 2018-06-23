@@ -6,20 +6,14 @@ feature:
  title: BeagleBone Blue. Robots. Fast.
  body: <p>The newest and smallest addition to the BeagleBone family, the <strong><a href="https://beagleboard.org/pocket">PocketBeagle</a></strong>, has been demonstrated by our own Jason Kridner in a <a href="https://www.arrow.com/en/research-and-events/videos/pocketbeagle-maker-fair">Maker Faire Reveal</a>. Implementing the new <a href="https://www.mouser.com/new/octavo-systems/octavo-systems-osd335-sip/">Octavo Systems OSD3358-SM</a> 21x21mm system-in-package with 512MB DDR3 integrated RAM, this pup gives you much bark for your buck. The PocketBeagle is a low cost, open-source development board for educational and professional purposes. Running Linux images customized specifically for BeagleBone and utilizing the web-based <a href="https://aws.amazon.com/cloud9/">Cloud9 IDE</a>, programmers of all skill levels have much to benefit from the extensive included <a href="https://beagleboard.org/Support/BoneScript">library</a> and comprehensive <a href="https://github.com/beagleboard/pocketbeagle/wiki">wiki</a>.</p><img src="http://beagleboard.org/static/images/PocketBeagle-size-compare-small.jpg" alt="Photo of Pocket Beagle."/><p>Additional information including <a href="https://github.com/beagleboard/pocketbeagle/blob/master/PocketBeagle_sch.pdf">schematics</a> and <a href="https://github.com/beagleboard/pocketbeagle/blob/master/PocketBeagle_BOM.csv">bill of materials</a> are available on <a href="https://github.com/beagleboard/pocketbeagle">GitHub</a>. The PocketBeagle is available from <a href="https://www.arrow.com/en/products/pocketbeagle/beagleboardorg">Arrow</a>, <a href="https://www.digikey.com/en/product-highlight/b/beagleboard/pocketbeagle-board?utm_source=online&utm_medium=vanity&utm_campaign=pocketbeagle">Digi-Key</a>, <a href="https://www.newark.com/beagleboard/bb-pocket/silicon-manufacturer-octave-systems/dp/45AC6372">Element14</a>, and <a href="https://www.mouser.com/new/beagleboardorg/pocketbeagle/">Mouser</a>. Additional components called <a href="https://github.com/beagleboard/pocketbeagle/wiki/Click-boards%E2%84%A2">Click Boards</a> give the PocketBeagle even more functionality, from GPS to lightning sensors. We're excited to provide yet another accessible resource to our community to realize their ideas and potential.</p><p><em><strong>—Christine Long</strong>, Executive Director</em></p>
 events:
- - title: SE Michigan BeagleBone Meetup 
+ - title: SE Michigan BeagleBone Meetup (OLD)
    date: July 27
    link: https://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/
- - title: Maker Faire Detroit
-   date: July 29-30
-   link: http://detroit.makerfaire.com/
- - title: Maker Faire New York
-   date: September 23-24
-   link: http://makerfaire.com/new-york/
 book:
- title: BeagleBone Robotic Projects - 2nd Edition
- link: https://www.packtpub.com/hardware-and-creative/beaglebone-robotic-projects-second-edition
- body: <p>by Dr. Richard Grimmett. Exciting new capabilities to enable even easier DIY robotics with BeagleBone Blue.</p>
- image: https://pdp7.github.io/newsletter/static/images/bbrp-2nd-book.png
+ title: Using Yocto Project with BeagleBone Black
+ link: http://a.co/21XaqMk
+ body: <p>by Jaime Vaughn. Starting with a basic introduction to Yocto Project's build system, this book will take you through the setup and deployment steps for Yocto Project. You will develop an understanding of BitBake, learn how to create a basic recipe, and explore the different types of Yocto Project recipe elements.</p>
+ image: https://images-na.ssl-images-amazon.com/images/I/51FqwWP97PL._SX258_BO1,204,203,200_.jpg
 articles:
  - title: Google Summer of Code 2017 update 
    link: https://beagleboardfoundation.wordpress.com/2017/05/30/google-summer-of-code-project-videos/
