@@ -53,4 +53,8 @@ projects:
    link: http://bbb.io/+0425b6
    body: PocketBeagle® can become your personal Amazon Alexa assistant. Follow these instructions and this tiny BeagleBone will do more than fetch!
    image: https://hackster.imgix.net/uploads/attachments/473215/pb_alexa_9ndugbqywy_nKTEQMSO4g.jpg%3Fauto%3Dcompress%252Cformat?auto=compress%2Cformat&w=900&h=675&fit=min
+ - title: PocketBeagle Alexa
+   link: http://bbb.io/+1fa14b
+   body: There is a new puppy in the family! PocketPilot is a smaller version of the BBBmini Flight Controller.
+   image: https://hackster.imgix.net/uploads/attachments/412163/image.png?auto=compress%2Cformat&w=900&h=675&fit=min
 ---
