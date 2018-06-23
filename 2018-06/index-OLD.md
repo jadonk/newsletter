@@ -42,7 +42,7 @@ topics:
    body: <p>Fred Kerr shares his library of work in Javascript, great for beginners!</p>
 projects:
  - title: Plant Babysitter
-   link:  http://bbb.io/+a85198
+   link: http://bbb.io/+a85198
    body: Never kill a plant again with this hands-free plant babysitter that quenches your plant's thirst so you don't have to!
    image: https://hackster.imgix.net/uploads/attachments/477751/screen_shot_2018-05-01_at_10_27_20_am_tb57YyuGQ0.png?auto=compress%2Cformat&w=900&h=675&fit=min
  - title: Indoor-Outdoor Temperature Sensors
