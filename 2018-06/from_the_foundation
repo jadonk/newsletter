@@ -1,7 +1,0 @@
-Is That A Beagle in Your Pocket?
-
-The newest and smallest addition to the BeagleBone family, the PocketBeagle, has been demonstrated by our own Jason Kridner in a Maker Faire Reveal. Implementing the new Octavo Systems OSD3358-SM 21x21mm system-in-package with 512MB DDR3 integrated RAM, this pup gives you much bark for your buck. The PocketBeagle is a low cost, open-source development board for educational and professional purposes. Running Linux images customized specifically for BeagleBone and utilizing the web-based Cloud9 IDE, programmers of all skill levels have much to benefit from the extensive included library and comprehensive wiki.
-
-Additional information including schematics and bill of materials are available on GitHub. The PocketBeagle is available from Arrow, Digi-Key, Element14, and Mouser. Additional components called Click Boards give the PocketBeagle even more functionality, from GPS to lightning sensors. We're excited to provide yet another accessible resource to our community to realize their ideas and potential.
-
-—Christine Long, Executive Director
