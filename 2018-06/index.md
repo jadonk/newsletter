@@ -44,11 +44,11 @@ projects:
  - title: Plant Babysitter
    link: http://bbb.io/+a85198
    body: Never kill a plant again with this hands-free plant babysitter that quenches your plant's thirst so you don't have to!
-   image: https://hackster.imgix.net/uploads/attachments/477751/screen_shot_2018-05-01_at_10_27_20_am_tb57YyuGQ0.png?auto=compress%2Cformat&w=900&h=675&fit=min
- - title: True Color 3D Printing with BeagleBone and MachineKit
-   link: https://beagleboardfoundation.wordpress.com/2017/03/29/true-color-3d-printing-with-beaglebone-and-machinekit/
-   body: Full color Arcus 3D printer by Daren Schwenke is powered by MachineKit on a BeagleBone Black.
-   image: https://i1.wp.com/beagleboardfoundation.files.wordpress.com/2017/03/colormixing.jpg?w=720
+   image: 
+ - title: Indoor-Outdoor Temperature Sensors
+   link: http://bbb.io/+f38c6c
+   body: "Houston weather changes drastically from day to day and I need an easy way to tell what the outdoor temperature is each day."
+   image: https://hackster.imgix.net/uploads/attachments/478322/img_f9ea184ab329-1_BjZfVKRwNl.jpeg?auto=compress%2Cformat&w=900&h=675&fit=min
  - title: diy-VT100 meets BeagleBone Black
    link: https://beagleboardfoundation.wordpress.com/2017/07/02/diy-vt100-meets-beaglebone-black/
    body: Kuldeep Singh Dhaka has designed a small VT100 terminal that you can carry in your hands and connect to any hardware that provide serial interface.
