@@ -41,10 +41,10 @@ topics:
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/bonescript/PAl7OeX48X4
    body: <p>Fred Kerr shares his library of work in Javascript, great for beginners!</p>
 projects:
- - title: BeagleMAV 3D-printed Hexacopter
-   link: https://beagleboardfoundation.wordpress.com/2017/04/05/beaglemav-3d-printed-hexacopter/
-   body: BeagleMAV derives its extremely low weight of 500 grams from its unique monocoque structure that was designed iteratively with modal finite element analysis.
-   image: https://beagleboardfoundation.files.wordpress.com/2017/04/ucsd_dronelab_platforms_beaglemav_1.jpg
+ - title: Plant Babysitter
+   link: http://bbb.io/+a85198
+   body: Never kill a plant again with this hands-free plant babysitter that quenches your plant's thirst so you don't have to!
+   image: https://hackster.imgix.net/uploads/attachments/477751/screen_shot_2018-05-01_at_10_27_20_am_tb57YyuGQ0.png?auto=compress%2Cformat&w=900&h=675&fit=min
  - title: True Color 3D Printing with BeagleBone and MachineKit
    link: https://beagleboardfoundation.wordpress.com/2017/03/29/true-color-3d-printing-with-beaglebone-and-machinekit/
    body: Full color Arcus 3D printer by Daren Schwenke is powered by MachineKit on a BeagleBone Black.
