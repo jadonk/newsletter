@@ -34,7 +34,7 @@ topics:
  - title: BoneScript 0.6.4-beta3 Release
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/software/wg7B4k1HjkQ
    body: <p>Vaishnav Ma announced the new BoneScript beta release, with installation instructions.</p>
- - title: How to extend the RAM of BeagleBone Green ?
+ - title: How to extend the RAM of BeagleBone Green
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/8AIablPjljU
    body: <p>A community discussion on RAM extension.</p>
  - title: New to Bonescript, Javascript, node.js, etc.

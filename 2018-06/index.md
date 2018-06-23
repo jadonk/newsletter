@@ -28,18 +28,18 @@ articles:
    body: <p>"Much has been made of the complexities of the Linux device tree configuration mechanism–it is both a savior and a curse."</p>
    image: https://jkridner.files.wordpress.com/2018/01/simplegaming_bb.png?w=1920&h=768&crop=1
 topics:
- - title: U-Boot Overlays are now enabled by default
-   link: https://groups.google.com/forum/#!category-topic/beagleboard/1ahosuHBUTo
-   body: <p>Robert Nelson announces that <a href="http://elinux.org/Beagleboard:BeagleBoneBlack_Debian#Debian_Image_Testing_Snapshots">Debian test images</a> now have <a href="http://elinux.org/Beagleboard:BeagleBoneBlack_Debian#U-Boot_Overlays">U-Boot Overlays</a> enabled by default</p>
- - title: BeagleBone Blue EduMIP Balancing Robot Assembly
-   link: https://groups.google.com/forum/#!category-topic/beagleboard/OYq_5NDuN1I
-   body: <p>Mark Yoder posted a video showing how to assemble the BeagleBone Blue EduMIP balancing robot.</p>
- - title: Automated Irrigation with BeagleBone Green Wireless
-   link: https://groups.google.com/forum/#!category-topic/beagleboard/2hvY9uzh6hc
-   body: <p>Greg Raven posts about his irrigation control system using HTML5, WebSockets, and Ecmascript 6</p>
- - title: ROS node support for BeagleBoard Blue
-   link: https://groups.google.com/forum/#!category-topic/beagleboard/A551h74hbS0
-   body: <p>Jeff Albrecht posts about his robotic project using ROS</p>
+ - title: Car Hacking with a PocketBeagle
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/pocketbeagle/zmg4A7S3NJY
+   body: <p>"In our latest experiment, we replaced our processor board with the PocketBeagle and now we have an awesome Linux based car tinkering platform!"</p>
+ - title: BoneScript 0.6.4-beta3 Release
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/software/wg7B4k1HjkQ
+   body: <p>Vaishnav Ma announced the new BoneScript beta release, with installation instructions.</p>
+ - title: How to extend the RAM of BeagleBone Green
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/8AIablPjljU
+   body: <p>A community discussion on RAM extension.</p>
+ - title: New to Bonescript, Javascript, node.js, etc.
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/bonescript/PAl7OeX48X4
+   body: <p>Fred Kerr shares his library of work in Javascript, great for beginners!</p>
 projects:
  - title: BeagleMAV 3D-printed Hexacopter
    link: https://beagleboardfoundation.wordpress.com/2017/04/05/beaglemav-3d-printed-hexacopter/
