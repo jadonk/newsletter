@@ -44,17 +44,17 @@ projects:
  - title: Plant Babysitter
    link: http://bbb.io/+a85198
    body: Never kill a plant again with this hands-free plant babysitter that quenches your plant's thirst so you don't have to!
-   image: 
+   image: https://hackster.imgix.net/uploads/attachments/477751/screen_shot_2018-05-01_at_10_27_20_am_tb57YyuGQ0.png?auto=compress%2Cformat&w=900&h=675&fit=min
  - title: Indoor-Outdoor Temperature Sensors
    link: http://bbb.io/+f38c6c
    body: Houston weather changes drastically from day to day and I need an easy way to tell what the outdoor temperature is each day.
    image: https://hackster.imgix.net/uploads/attachments/478322/img_f9ea184ab329-1_BjZfVKRwNl.jpeg?auto=compress%2Cformat&w=900&h=675&fit=min
- - title: diy-VT100 meets BeagleBone Black
-   link: https://beagleboardfoundation.wordpress.com/2017/07/02/diy-vt100-meets-beaglebone-black/
-   body: Kuldeep Singh Dhaka has designed a small VT100 terminal that you can carry in your hands and connect to any hardware that provide serial interface.
-   image: https://beagleboardfoundation.files.wordpress.com/2017/07/screenshot-from-2017-07-02-12-37-21.png?w=720
- - title: Laser PCBs with LDGraphy
-   link: https://beagleboardfoundation.wordpress.com/2017/07/02/laser-pcbs-with-ldgraphy/
-   body: Henner Zeller created this simple laser direct lithography device for PCB manufacturing.
-   image: https://beagleboardfoundation.files.wordpress.com/2017/07/sample-case.jpg?w=720
+ - title: PocketBeagle Alexa
+   link: http://bbb.io/+0425b6
+   body: PocketBeagle® can become your personal Amazon Alexa assistant. Follow these instructions and this tiny BeagleBone will do more than fetch!
+   image: https://hackster.imgix.net/uploads/attachments/473215/pb_alexa_9ndugbqywy_nKTEQMSO4g.jpg%3Fauto%3Dcompress%252Cformat?auto=compress%2Cformat&w=900&h=675&fit=min
+ - title: PocketPilot: An Autopilot Based on the $25 PocketBeagle®
+   link: http://bbb.io/+1fa14b
+   body: There is a new puppy in the family! PocketPilot is a smaller version of the BBBmini Flight Controller.
+   image: https://hackster.imgix.net/uploads/attachments/412163/image.png?auto=compress%2Cformat&w=900&h=675&fit=min
 ---
