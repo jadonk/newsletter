@@ -16,7 +16,7 @@ book:
  title: Using Yocto Project with BeagleBone Black
  link: http://a.co/21XaqMk
  body: <p>by Jaime Vaughn. Starting with a basic introduction to Yocto Project's build system, this book will take you through the setup and deployment steps for Yocto Project. You will develop an understanding of BitBake, learn how to create a basic recipe, and explore the different types of Yocto Project recipe elements.</p>
- image: https://images-na.ssl-images-amazon.com/images/I/51FqwWP97PL._SX258_BO1,204,203,200_.jpg
+ image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-06_0000.jpg
 articles:
  - title: Embedded Apprentice Linux Engineer (E-ALE) 
    link: https://beagleboardfoundation.wordpress.com/2018/02/28/embedded-apprentice-linux-engineer-e-ale/
@@ -25,11 +25,11 @@ articles:
  - title: Ken Shirriff goes hands-on with the PocketBeagle
    link: https://beagleboardfoundation.wordpress.com/2018/02/04/ken-shirrif-goes-hands-on-with-the-pocketbeagle/
    body: <p>"This article discusses my experience trying out different features of the PocketBeagle, along with some technical details."</p>
-   image: https://beagleboardfoundation.files.wordpress.com/2018/02/pocketbeagle.jpg?w=768&h=492&crop=1
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-06_0001.jpg
  - title: Building a device tree overlay for your new PocketCape design
    link: https://jkridner.wordpress.com/2018/01/17/building-a-device-tree-overlay-for-your-new-pocketcape-design/
    body: <p>"Much has been made of the complexities of the Linux device tree configuration mechanism–it is both a savior and a curse."</p>
-   image: https://jkridner.files.wordpress.com/2018/01/simplegaming_bb.png?w=1920&h=768&crop=1
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-06_0002.png
 topics:
  - title: Car Hacking with a PocketBeagle
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/pocketbeagle/zmg4A7S3NJY
@@ -55,9 +55,9 @@ projects:
  - title: PocketBeagle Alexa
    link: http://bbb.io/+0425b6
    body: PocketBeagle® can become your personal Amazon Alexa assistant. Follow these instructions and this tiny BeagleBone will do more than fetch!
-   image: https://hackster.imgix.net/uploads/attachments/473215/pb_alexa_9ndugbqywy_nKTEQMSO4g.jpg%3Fauto%3Dcompress%252Cformat?auto=compress%2Cformat&w=900&h=675&fit=min
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-06_0003.jpg
  - title: PocketPilot - An Autopilot Based on the $25 PocketBeagle®
    link: http://bbb.io/+1fa14b
    body: There is a new puppy in the family! PocketPilot is a smaller version of the BBBmini Flight Controller.
-   image: https://hackster.imgix.net/uploads/attachments/412163/image.png?auto=compress%2Cformat&w=900&h=675&fit=min
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-06_0004.png
 ---

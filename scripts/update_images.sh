@@ -1,7 +1,7 @@
 #!/usr/bin/env perl
 $extension = '.orig';
 $index = 0;
-$host = 'https://jadonk.github.io/newsletter/';
+$host = 'https://beagleboard.github.io/newsletter/';
 $prefix = 'static/images/newsletter-2018-06_';
 LINE: while (<>) {
     if ($ARGV ne $oldargv) {
@@ -18,10 +18,7 @@ LINE: while (<>) {
     }
     if (m/^\s*image:\s*(\S+)\s*$/) {
         $linkext = $oldlink = $1;
-        #$linkext =~ m#/[a-zA-Z\.]\.([a-zA-Z]+)[^/]*$#;
-        #$linkext =~ m/\/[a-zA-Z_\.]*\.([a-zA-Z]+)[^\/a-zA-Z\.]*/;
-        #$linkext =~ m/\/[\w\.]*\.(\w+)\W+/m;
-        if ($linkext =~ m/\/[\w\.]*\.(\w+)([^\w\/\.]|$)/) {
+        if ($linkext =~ m/\/[\w\.\,]*\.(\w+)([^\w\/\.]|$)/) {
             $linkext = $1;
             print STDOUT ("Image found: $oldlink\n");
             $imagename = sprintf("$prefix%04d.$linkext", $index);
