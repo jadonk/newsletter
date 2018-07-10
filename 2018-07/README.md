@@ -1,4 +1,3 @@
-### OLD ###
 # from the foundation
 * PocketBeagle
     * https://beagleboard.org/pocket
@@ -29,7 +28,15 @@
 * Image of PocketBeagle
     * http://beagleboard.org/static/images/PocketBeagle-size-compare-small.jpg
 
-# events
+# events # OLD
+* SE Michigan BeagleBone Meetup
+  * XXXXXXXX
+  * Ferndale, Michigan
+  * https://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/
+* Maker Faire Detroit
+  * XXXXXX
+* Maker Faire New York
+  * XXXXXX
 
 # hot off the presses
 * Using Yocto Project with BeagleBone Black
