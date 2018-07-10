@@ -1,0 +1,571 @@
+<!-- Template Design by Noah McGivern -->
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Main css -->
+    <style>
+        .birthday {
+            background-image: url("confetti.gif");
+            background-size: 50%;
+            -webkit-box-shadow: inset 0px 0px 10px 0px #DE9C24;
+            -moz-box-shadow: inset 0px 0px 10px 0px #DE9C24;
+            box-shadow: inset 0px 0px 10px 0px #DE9C24;
+            border-radius: 0.5em;
+        }
+
+        .birthday-text {
+            text-align: center;
+            color: #ff0000;
+            background-image: -webkit-linear-gradient(270deg, #ff0000, #ffa500);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: hue 10s infinite linear;
+        }
+
+        @keyframes hue {
+            from {
+                filter: hue-rotate(0deg);
+            }
+            to {
+                filter: hue-rotate(-360deg);
+            }
+        }
+
+        .bg-blue {
+            background-color: #3E619D;
+        }
+
+        .bg-gray {
+            background-color: lightgray;
+        }
+
+        .bg-orange {
+            background-color: #DE9C24;
+        }
+
+        body {
+            min-width: 400px;
+        }
+
+        .card-image-top {
+            width: 75%;
+            height: auto;
+
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .card-link {
+            color: #DE9C24;
+        }
+
+        .fa {
+            color: white;
+        }
+
+        .fa-more {
+            color: lightgray;
+        }
+
+        .fa-times {
+            color: black;
+        }
+
+        .font-shadow {
+            text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6)
+        }
+
+        .hover-link {
+            transition: transform 0.25s;
+        }
+
+        .hover-link:hover {
+            color: #3E619D;
+            transform: scale(1.15);
+        }
+
+        .img-boris {
+            width: 200px;
+            height: auto;
+        }
+
+        .img-fit {
+            max-width: 100%;
+        }
+
+        .jumbotron-img {
+            height: 200px;
+            width: auto;
+        }
+
+        .no-underline:hover {
+            text-decoration: none;
+        }
+
+        .shadow-down {
+            -webkit-box-shadow: 0px 7px 10px 0px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: 0px 7px 10px 0px rgba(0, 0, 0, 0.6);
+            box-shadow: 0px 7px 10px 0px rgba(0, 0, 0, 0.6);
+            overflow: visible;
+        }
+
+        .shadow-h {
+            -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.6);
+            box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.6);
+        }
+
+        .shadow-up {
+            -webkit-box-shadow: 0px -7px 10px 0px rgba(0, 0, 0, 0.4);
+            -moz-box-shadow: 0px -7px 10px 0px rgba(0, 0, 0, 0.4);
+            box-shadow: 0px -7px 10px 0px rgba(0, 0, 0, 0.4);
+        }
+
+        .text-black {
+            color: #000000;
+        }
+
+        .text-blue {
+            color: #3E619D;
+        }
+
+        .text-orange {
+            color: #DE9C24;
+        }
+
+        .text-white {
+            color: #FFFFFF;
+        }
+    </style>
+
+    <!-- Bootstrap 4 -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <title>10 Years of BeagleBoard!</title>
+    <link rel="icon" href="https://beagleboard.org/static/beagle.ico" type="image/x-icon">
+</head>
+
+<body>
+    <!-- Header -->
+    <header id="page_header" class="shadow-down">
+        <nav class="navbar bg-orange text-center text-white">
+            <a href="https://beagleboard.org/" class="navbar-brand">
+                <img src="beagle-logo.png" alt="BeagleBoard">
+            </a>
+            <h1 class="">
+                <a href="https://beagleboard.org/newsletter/2018-06/" class="no-underline text-white">{{ page.title }}</a>
+            </h1>
+        </nav>
+    </header>
+
+    <!-- Body -->
+    <div id="container_body" class="container shadow-h">
+        <div class="row" id="row_main">
+            <!-- From the Foundation -->
+            <div class="col-12" id="col_foundation">
+                <div class="row mt-3">
+                    <div class="col-12">
+                        <div class="jumbotron">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-6">
+                                        <h3 class="display-4 font-shadow font-weight-bold text-orange">From The Foundation.</h3>
+                                    </div>
+                                    <div class="col-6 text-center">
+                                        <img src="christinelong.jpg" class="img-thumbnail float-md-right float-sm-center font-shadow">
+                                    </div>
+                                    <div class="col-12 mt-3">
+                                        <p class="lead font-weight-bold text-center">{{ page.feature.title }}</p>
+                                        <p>{{ page.feature.body }}</p>
+                                    </div>
+                                    <div class="col-12">
+                                        <blockquote class="blockquote">
+                                            <footer class="blockquote-footer text-right">
+                                                Christine Long, Executive Director
+                                            </footer>
+                                        </blockquote>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Articles -->
+            <div class="col-md-6 col-sm-12" id="col_articles">
+                <!-- Article Section -->
+                <div class="row mt-2" id="row_articles">
+                    <div class="col-12 text-center">
+                        <div class="page-header bg-gray rounded">
+                            <h3>Articles.</h3>
+                        </div>
+                    </div>
+
+                    {% for article in page.articles %}
+                    <div class="col-12 mb-3">
+                        <div class="card">
+                            <img src="{{ article.image }}" class="card-image-top" alt="">
+                            <div class="card-header mt-1">
+                                <h4 class="card-title">{{ article.title }}</h4>
+                            </div>
+                            <div class="card-body">
+                                <p class="card-text">{{ article.body }}</p>
+                            </div>
+                            <div class="card-footer">
+                                <a href="{{ article.link }}" class="card-link">Read More
+                                    <i class="fa fa-arrow-right fa-more"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Misc. Articles -->
+            <div class="col-md-6 col-sm-12" id="col_aside">
+                <!-- Book Section -->
+                <div class="row mt-2" id="row_book">
+                    <div class="col-12 text-center">
+                        <div class="page-header bg-gray rounded">
+                            <h3>Hot Off The Presses.</h3>
+                        </div>
+                    </div>
+
+                    <div class="col-12 mb-3">
+                        <div class="card">
+                            <img src="{{ page.book.image }}" class="card-image-top" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title mt-1">
+                                    <a href="{{ page.book.link }}" class="text-orange">{{ page.book.title }}</a>
+                                </h4>
+                                <p class="card-text">{{ page.book.body }}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Event Section -->
+                <div class="row mt-2" id="row_events">
+                    <div class="col-12 text-center">
+                        <div class="page-header bg-gray rounded">
+                            <h3>Events.</h3>
+                        </div>
+                    </div>
+
+                    {% for event in page.events %}
+                    <div class="col-12 mb-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="card-title mt-1">{{ event.title }}</h4>
+                                <h6 class="card-subtitle mb-2 text-muted">{{ event.date }}</h6>
+                                <a href="{{ event.link }}" class="card-link">Event Info
+                                    <i class="fa fa-arrow-right fa-more"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    {% endfor %}
+                </div>
+
+                <!-- Community Topic Section -->
+                <div class="row mt-2" id="row_topics">
+                    <div class="col-12 text-center">
+                        <div class="page-header bg-gray rounded">
+                            <h3>Community Topics.</h3>
+                        </div>
+                    </div>
+
+                    {% for topic in page.topics %}
+                    <div class="col-12 mb-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="card-title mt-1">{{ topic.title }}</h4>
+                                <p class="card-text">{{ topic.body }}</p>
+                                <a href="{{ topic.link }}" class="card-link">Read More
+                                    <i class="fa fa-arrow-right fa-more"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Projects -->
+            <div class="col-12 mb-5" id="col_projects">
+                <!-- Projects Section -->
+                <div class="row" id="row_projects">
+                    <div class="col-12 text-center">
+                        <div class="page-header bg-gray rounded">
+                            <h3>Featured Projects.</h3>
+                        </div>
+                    </div>
+
+                    {% for project in page.projects %}
+                    <div class="col-md-4 col-sm-12 mb-2">
+                        <div class="card">
+                            <div class="thumbnail pb-3">
+                                <img src="{{ project.image }}" class="img-fit" alt="">
+                                <h4 class="mx-3 mt-2">{{ project.title }}</h4>
+                                <p class="mx-3">{{ project.body }}</p>
+                                <a href="{{ project.link }}" class="mx-3 no-underline text-orange">More Details
+                                    <i class="fa fa-arrow-right fa-more"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer id="page_footer" class="bg-orange shadow-up">
+        <div class="container pt-5 text-white text-center" id="container_footer">
+            <div class="row" id="row_footer">
+                <!-- Social Media -->
+                <div class="col-12 text-center" id="col_social">
+                    <ul class="list-inline">
+                        <li class="list-inline-item mx-3">
+                            <a href="https://facebook.com/beagleboard">
+                                <i class="fa fa-facebook fa-3x hover-link"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item mx-3">
+                            <a href="http://twitter.com/beagleboardorg">
+                                <i class="fa fa-twitter fa-3x hover-link"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item mx-3">
+                            <a href="http://plus.google.com/+beagleboard">
+                                <i class="fa fa-google-plus fa-3x hover-link"></i>
+                            </a>
+                        </li>
+                        <li class="list-inline-item mx-3">
+                            <a href="https://www.linkedin.com/groups/1474607">
+                                <i class="fa fa-linkedin fa-3x hover-link"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Resources -->
+                <div class="col-md-6 col-sm-12" id="col_resources">
+                    <ul class="list-unstyled">
+                        <li class="list-item">
+                            <h3>Resources</h3>
+                        </li>
+                        <li class="list-item">
+                            <a href="https://github.com/beagleboard">GitHub
+                                <i class="fa fa-arrow-right"></i>
+                            </a>
+                        </li>
+                        <li class="list-item">
+                            <a href="https://beagleboard.org/project">Projects
+                                <i class="fa fa-arrow-right"></i>
+                            </a>
+                        </li>
+                        <li class="list-item">
+                            <a href="https://hackaday.io/list/3562-beaglebone-projects">Hackaday.io
+                                <i class="fa fa-arrow-right"></i>
+                            </a>
+                        </li>
+                        <li class="list-item">
+                            <a href="https://www.hackster.io/beagleboard">Hackster.io
+                                <i class="fa fa-arrow-right"></i>
+                            </a>
+                        </li>
+                        <li class="list-item">
+                            <a href="https://upverter.com/Beagle/">Upverter
+                                <i class="fa fa-arrow-right"></i>
+                            </a>
+                        </li>
+                        <li class="list-item">
+                            <a href="https://beagleboard.org/cape">BeagleBone Capes
+                                <i class="fa fa-arrow-right"></i>
+                            </a>
+                        </li>
+                        <li class="list-item">
+                            <a href="https://beagleboard.org/Support/BoneScript">BoneScript Library
+                                <i class="fa fa-arrow-right"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Logo -->
+                <div class="col-md-6 col-sm-12 mb-2" id="col_logo">
+                    <img src="boris-bone.png" class="img-fluid img-boris" alt="Boris Bone">
+                </div>
+
+                <!-- Buffer -->
+                <div class="col-md-2 col-sm-0"></div>
+
+                <!-- Legal -->
+                <div class="col-md-8 col-sm-12 mb-2" id="col_legal">
+                    <small class="text-center">
+                        <a href="https://beagleboard.org/about">BeagleBoard.org Foundation</a> is a US-based non-profit corporation supported by the open source
+                        developer community, Texas Instruments and others. All trademarks are the property of their respective
+                        owners.
+                    </small>
+                </div>
+
+                <!-- Buffer -->
+                <div class="col-md-2 col-sm-0"></div>
+
+                <!-- Footer Links -->
+                <div class="col-12" id="col_links">
+                    <ul class="list-inline">
+                        <li class="list-inline-item">
+                            <a href="https://beagleboard.org/terms/">Terms</a>
+                        </li>
+                        <li class="list-inline-item">|</li>
+                        <li class="list-inline-item">
+                            <a href="http://beagleboard.org/privacy/">Privacy</a>
+                        </li>
+                        <li class="list-inline-item">|</li>
+                        <li class="list-inline-item">
+                            <a href="#modal_subscribe" data-toggle="modal">Subscribe</a>
+                            <!--a href="http://beagleboard.org/newsletter-subscribe/">Subscribe</a-->
+                        </li>
+                        <li class="list-inline-item">|</li>
+                        <li class="list-inline-item">
+                            <a href="#modal_unsubscribe" data-toggle="modal">Unsubscribe</a>
+                            <!--a href="http://beagleboard.us3.list-manage.com/unsubscribe?u=6e7c2131525b7b1b74c71e2cb&id=85ff84625f">Unsubscribe</a-->
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Modal -->
+    <section>
+        <!-- Subscribe -->
+        <div class="modal fade" id="modal_subscribe" role="dialog" tabindex="-1">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Subscribe</h4>
+                        <button type="button" class="close" data-dismiss="modal">
+                            <i class="fa fa-times"></i>
+                        </button>
+                    </div>
+
+                    <div class="modal-body">
+                        <form action="" method="post">
+                            <div class="form-group">
+                                <input type="email" name="EMAIL" value class="form-control" placeholder="Email Address">
+                            </div>
+
+                            <label for="interests_start">Interests</label>
+                            <div class="form-check" id="interests_start">
+                                <input type="checkbox" name="group[13753][1]" value="1" class="form-check-input" id="interests_1">
+                                <label class="form-check-label" for="interests_1">Newsletter (monthly)</label>
+                            </div>
+
+                            <div class="form-check">
+                                <input type="checkbox" name="group[13753][2]" value="2" class="form-check-input" id="interests_2">
+                                <label class="form-check-label" for="interests_2">Education (including BeagleBone Blue)</label>
+                            </div>
+
+                            <div class="form-check">
+                                <input type="checkbox" name="group[13753][4]" value="4" class="form-check-input" id="interests_3">
+                                <label class="form-check-label" for="interests_3">Blog Posts</label>
+                            </div>
+
+                            <div class="form-check">
+                                <input type="checkbox" name="group[13753][8]" value="8" class="form-check-input" id="interests_4">
+                                <label class="form-check-label" for="interests_4">Product Announcements</label>
+                            </div>
+
+                            <div class="form-check">
+                                <input type="checkbox" name="group[13753][128]" value="128" class="form-check-input" id="interests_5">
+                                <label class="form-check-label" for="interests_5">BeagleBoard-X15</label>
+                            </div>
+
+                            <label class="mt-3" for="role_start">Role</label>
+                            <div class="form-check" id="role_start">
+                                <input type="checkbox" name="group[13757][16]" value="16" class="form-check-input" id="role_1">
+                                <label class="form-check-label" for="role_1">Educator</label>
+                            </div>
+
+                            <div class="form-check">
+                                <input type="checkbox" name="group[13757][32]" value="32" class="form-check-input" id="role_2">
+                                <label class="form-check-label" for="role_2">Professional</label>
+                            </div>
+
+                            <div class="form-check">
+                                <input type="checkbox" name="group[13757][64]" value="64" class="form-check-input" id="role_3">
+                                <label class="form-check-label" for="role_3">Student</label>
+                            </div>
+
+                            <div class="form-group mt-3">
+                                <label for="email_format">Email Format</label>
+                                <select name="EMAILTYPE" class="form-control" id="email_format">
+                                    <option value="html">HTML</option>
+                                    <option value="text">Text</option>
+                                </select>
+                            </div>
+
+                            <button type="submit" class="btn">Subscribe!</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Unsubscribe -->
+        <div class="modal fade" id="modal_unsubscribe" role="dialog" tabindex="-1">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Unsubscribe</h4>
+                        <button type="button" class="close" data-dismiss="modal">
+                            <i class="fa fa-times"></i>
+                        </button>
+                    </div>
+
+                    <div class="modal-body">
+                        <p>We're sorry to see you go!</p>
+                        <p>Enter your email address to unsubscribe from this list.</p>
+                        <form action="" method="post">
+                            <input type="hidden" name="u" value="6e7c2131525b7b1b74c71e2cb">
+                            <input type="hidden" name="id" value="85ff84625f">
+
+                            <div class="form-group">
+                                <input type="email" name="EMAIL" value class="form-control" placeholder="Email Address">
+                            </div>
+
+                            <button type="submit" class="btn">Unsubscribe</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Scripts for Bootstrap-->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

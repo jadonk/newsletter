@@ -1,5 +1,5 @@
 ---
-layout: january2017_layout
+layout: july2018_layout
 title: Summer 2018 Dog Dish
 link: https://beagleboard.org/newsletter/2018-06
 feature:
