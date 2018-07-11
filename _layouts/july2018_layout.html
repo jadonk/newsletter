@@ -71,6 +71,10 @@
             color: black;
         }
 
+        .fit {
+            max-width: 100%;
+        }
+
         .font-shadow {
             text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6)
         }
@@ -87,10 +91,6 @@
         .img-boris {
             width: 200px;
             height: auto;
-        }
-
-        .img-fit {
-            max-width: 100%;
         }
 
         .jumbotron-img {
@@ -144,7 +144,7 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-    <title>10 Years of BeagleBoard!</title>
+    <title>{{ page.feature.title }} - BeagleBoard.org</title>
     <link rel="icon" href="https://beagleboard.org/static/beagle.ico" type="image/x-icon">
 </head>
 
@@ -172,7 +172,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-6">
-                                        <h3 class="display-4 font-shadow font-weight-bold text-orange">From The Foundation.</h3>
+                                        <h3 class="display-4 fit font-shadow font-weight-bold text-orange">From The Foundation.</h3>
                                     </div>
                                     <div class="col-6 text-center">
                                         <img src="images/christinelong.jpg" class="img-thumbnail float-md-right float-sm-center font-shadow">
@@ -313,7 +313,7 @@
                     <div class="col-md-4 col-sm-12 mb-2">
                         <div class="card">
                             <div class="thumbnail pb-3">
-                                <img src="{{ project.image }}" class="img-fit" alt="">
+                                <img src="{{ project.image }}" class="fit" alt="">
                                 <h4 class="mx-3 mt-2">{{ project.title }}</h4>
                                 <p class="mx-3">{{ project.body }}</p>
                                 <a href="{{ project.link }}" class="mx-3 no-underline text-orange">More Details
