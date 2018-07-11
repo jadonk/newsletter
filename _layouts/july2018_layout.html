@@ -222,7 +222,6 @@
                             </div>
                         </div>
                     </div>
-
                     {% endfor %}
                 </div>
             </div>
@@ -264,13 +263,14 @@
                             <div class="card-body">
                                 <h4 class="card-title mt-1">{{ event.title }}</h4>
                                 <h6 class="card-subtitle mb-2 text-muted">{{ event.date }}</h6>
-                                <a href="{{ event.link }}" class="card-link text-right">Event Info
-                                    <i class="fa fa-arrow-right fa-more"></i>
-                                </a>
+                                <div class="card-footer text-right">
+                                    <a href="{{ event.link }}" class="card-link">Event Info
+                                        <i class="fa fa-arrow-right fa-more"></i>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
-
                     {% endfor %}
                 </div>
 
@@ -288,13 +288,14 @@
                             <div class="card-body">
                                 <h4 class="card-title mt-1">{{ topic.title }}</h4>
                                 <p class="card-text">{{ topic.body }}</p>
-                                <a href="{{ topic.link }}" class="card-link text-right">Read More
-                                    <i class="fa fa-arrow-right fa-more"></i>
-                                </a>
+                                <div class="card-footer text-right">
+                                    <a href="{{ topic.link }}" class="card-link">Read More
+                                        <i class="fa fa-arrow-right fa-more"></i>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
-
                     {% endfor %}
                 </div>
             </div>
@@ -316,13 +317,14 @@
                                 <img src="{{ project.image }}" class="fit" alt="">
                                 <h4 class="mx-3 mt-2">{{ project.title }}</h4>
                                 <p class="mx-3">{{ project.body }}</p>
-                                <a href="{{ project.link }}" class="mx-3 no-underline text-orange text-right">More Details
-                                    <i class="fa fa-arrow-right fa-more"></i>
-                                </a>
+                                <div class="card-footer text-right">
+                                    <a href="{{ project.link }}" class="mx-3 no-underline text-orange">More Details
+                                        <i class="fa fa-arrow-right fa-more"></i>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
-
                     {% endfor %}
                 </div>
             </div>
