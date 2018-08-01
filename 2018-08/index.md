@@ -4,16 +4,16 @@ title: 10 Years of BeagleBone
 link: https://beagleboard.org/newsletter/2018-08
 feature:
  title: Celebrating 10 Years of Open Source Collaboration
- body: <p>It is so exciting to be in our tenth year of BeagleBoard.org® and we want to celebrate you, our community. Over the next 10 months, we’ll be <strong>highlighting memorable BeagleBoard.org® based projects.</strong> Please nominate a project using any BeagleBoard.org® hardware developed any time in the last 10 years to be featured in our newsletter. It can be your own project or someone else’s that has been memorable for you. <a href="#">Send us a link to a project</a> and tell us why you find it special. We can’t wait to hear from you! We are also celebrating the success and continuing efforts of BeagleBoard.org® to provide education in the use of open-source software and hardware in embedded computing. In fact, BeagleBoard.org® was announced in 2008 at a joint Educator and Developer Conference and embraced by a wider community. To celebrate and thank our educational members, starting this month we will be launching a new section of our newsletter <strong>spotlighting an influential instructor and their story.</strong> If you are an educator, we’d love to hear your BeagleBoard® story! <a href="#">Contact us for more information.</a> We hope you’ll enjoy celebrating 10 years of BeagleBoard.org® with us!</p>
+ body: It is so exciting to be in our tenth year of BeagleBoard.org® and we want to celebrate you, our community. Over the next 10 months, we’ll be <strong>highlighting memorable BeagleBoard.org® based projects.</strong> Please nominate a project using any BeagleBoard.org® hardware developed any time in the last 10 years to be featured in our newsletter. It can be your own project or someone else’s that has been memorable for you. <a href="#">Send us a link to a project</a> and tell us why you find it special. We can’t wait to hear from you! We are also celebrating the success and continuing efforts of BeagleBoard.org® to provide education in the use of open-source software and hardware in embedded computing. In fact, BeagleBoard.org® was announced in 2008 at a joint Educator and Developer Conference and embraced by a wider community. To celebrate and thank our educational members, starting this month we will be launching a new section of our newsletter <strong>spotlighting an influential instructor and their story.</strong> If you are an educator, we’d love to hear your BeagleBoard® story! <a href="#">Contact us for more information.</a> We hope you’ll enjoy celebrating 10 years of BeagleBoard.org® with us!
 events:
  - title: MakerFaire New York City
    date: September 22-23, 2018
    link: https://calendly.com/jkridner
 book:
- title: Using Yocto Project with BeagleBone Black
- link: http://a.co/21XaqMk
- body: <p>by Jaime Vaughn. Starting with a basic introduction to Yocto Project's build system, this book will take you through the setup and deployment steps for Yocto Project. You will develop an understanding of BitBake, learn how to create a basic recipe, and explore the different types of Yocto Project recipe elements.</p>
- image: https://images-na.ssl-images-amazon.com/images/I/51FqwWP97PL._SX258_BO1,204,203,200_.jpg
+ title: BeagleBone Cookbook: Software and Hardware Problems and Solutions
+ link: http://shop.oreilly.com/product/0636920033899.do
+ body: By Jason Kridner and Mark Yoder. Whether you are new to BeagleBone® or want to explore more of its capabilities, this cookbook provides scores of recipes for connecting and talking to the physical world.
+ image: https://covers.oreillystatic.com/images/0636920033899/lrg.jpg
 articles:
  - title: Embedded Apprentice Linux Engineer (E-ALE) 
    link: https://beagleboardfoundation.wordpress.com/2018/02/28/embedded-apprentice-linux-engineer-e-ale/
