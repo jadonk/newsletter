@@ -10,7 +10,7 @@ events:
    date: September 22-23, 2018
    link: https://calendly.com/jkridner
 book:
- title: BeagleBone Cookbook Software and Hardware Problems and Solutions
+ title: BeagleBone Cookbook - Software and Hardware Problems and Solutions
  link: http://shop.oreilly.com/product/0636920033899.do
  body: <p>By Jason Kridner and Mark Yoder. Whether you are new to BeagleBone® or want to explore more of its capabilities, this cookbook provides scores of recipes for connecting and talking to the physical world.</p>
  image: https://covers.oreillystatic.com/images/0636920033899/lrg.jpg
@@ -24,7 +24,7 @@ topics:
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/pocketbeagle/zmg4A7S3NJY
    body: <p>"In our latest experiment, we replaced our processor board with the PocketBeagle and now we have an awesome Linux based car tinkering platform!"</p>
 projects:
- - title: Plant Babysitter
+ - title: 10 Year Anniversary Classic Project - BeagleStache
    link: http://bbb.io/+a85198
    body: Never kill a plant again with this hands-free plant babysitter that quenches your plant's thirst so you don't have to!
    image: https://hackster.imgix.net/uploads/attachments/477751/screen_shot_2018-05-01_at_10_27_20_am_tb57YyuGQ0.png?auto=compress%2Cformat&w=900&h=675&fit=min

@@ -24,7 +24,7 @@ topics:
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/pocketbeagle/zmg4A7S3NJY
    body: <p>"In our latest experiment, we replaced our processor board with the PocketBeagle and now we have an awesome Linux based car tinkering platform!"</p>
 projects:
- - title: 10 Year Anniversary Classic Project: BeagleStache
+ - title: 10 Year Anniversary Classic Project - BeagleStache
    link: http://bbb.io/+a241e1
    body: Long before popular phone apps put features on faces, this application for BeagleBone® Black built on an OpenCV face detection sample, added a black mustache on the faces detected. Later enhanced to upload the picture to Twitter, it continues to be a classic favorite project.
    image: https://hackster.imgix.net/uploads/attachments/362101/34c4d75b18ad001d621c853fb33a7ecc.png?auto=compress%2Cformat&w=680&h=510&fit=max
