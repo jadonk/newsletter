@@ -1,11 +1,11 @@
-# from the foundation
-* PocketBeagle ! Example link
+# from the foundation ### The links included aren't real links (I can't see the address they point to :/ ) ###
+* Example link
     * https://beagleboard.org/pocket
 
 # events
 * MakerFaire New York City
     * September 22-23, 2018
-    * https://calendly.com/jkridner
+    * https://calendly.com/jkridner ### Maybe a link to the actual event and include this in the body? ###
 
 # hot off the presses
 * BeagleBone Cookbook: Software and Hardware Problems and Solutions
@@ -15,7 +15,7 @@
     * https://covers.oreillystatic.com/images/0636920033899/lrg.jpg
 
 # articles
-* Embedded Apprentice Linux Engineer (E-ALE)
+* BeagleBoard.org Co-Founder honored as 2018 top Embedded Innovator
     * http://www.embedded-computing.com/hardware/2018-top-embedded-innovator-jason-kridner-beagleboard-org
  
 # community topics
