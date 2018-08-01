@@ -11,7 +11,7 @@ events:
    link: https://calendly.com/jkridner
 book:
  title: BeagleBone Cookbook: Software and Hardware Problems and Solutions
- link: www.google.com
+ link: http://a.co/21XaqMk
  body: <p>By Jason Kridner and Mark Yoder. Whether you are new to BeagleBone® or want to explore more of its capabilities, this cookbook provides scores of recipes for connecting and talking to the physical world.</p>
  image: https://covers.oreillystatic.com/images/0636920033899/lrg.jpg
 articles:
