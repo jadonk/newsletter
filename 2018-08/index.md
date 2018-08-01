@@ -10,8 +10,8 @@ events:
    date: September 22-23, 2018
    link: https://calendly.com/jkridner
 book:
- title: Using Yocto Project with BeagleBone Black
- link: http://a.co/21XaqMk
+ title: BeagleBone Cookbook: Software and Hardware Problems and Solutions
+ link: http://shop.oreilly.com/product/0636920033899.do
  body: <p>by Jaime Vaughn. Starting with a basic introduction to Yocto Project's build system, this book will take you through the setup and deployment steps for Yocto Project. You will develop an understanding of BitBake, learn how to create a basic recipe, and explore the different types of Yocto Project recipe elements.</p>
  image: https://images-na.ssl-images-amazon.com/images/I/51FqwWP97PL._SX258_BO1,204,203,200_.jpg
 articles:
