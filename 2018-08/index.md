@@ -11,9 +11,9 @@ events:
    link: https://calendly.com/jkridner
 book:
  title: BeagleBone Cookbook: Software and Hardware Problems and Solutions
- link: http://shop.oreilly.com/product/0636920033899.do
- body: <p>by Jaime Vaughn. Starting with a basic introduction to Yocto Project's build system, this book will take you through the setup and deployment steps for Yocto Project. You will develop an understanding of BitBake, learn how to create a basic recipe, and explore the different types of Yocto Project recipe elements.</p>
- image: https://images-na.ssl-images-amazon.com/images/I/51FqwWP97PL._SX258_BO1,204,203,200_.jpg
+ link: www.google.com
+ body: <p>By Jason Kridner and Mark Yoder. Whether you are new to BeagleBone® or want to explore more of its capabilities, this cookbook provides scores of recipes for connecting and talking to the physical world.</p>
+ image: https://covers.oreillystatic.com/images/0636920033899/lrg.jpg
 articles:
  - title: Embedded Apprentice Linux Engineer (E-ALE) 
    link: https://beagleboardfoundation.wordpress.com/2018/02/28/embedded-apprentice-linux-engineer-e-ale/
