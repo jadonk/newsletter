@@ -20,9 +20,18 @@ articles:
    body: <p>Congratulations to BeagleBoard.org® co-founder, Jason Kridner who recevied the prestigious “2018 Top Embedded Innovator” award, celebrating innovators who demonstrate the reach and impact of embedded and IoT technolgoy in today’s world.</p>
    image: http://d2lupdnmi5p5au.cloudfront.net/i__src292aaa91ca9da151399b8532c2852f07_par8f59f5c16e776919ef07a02435776fa1.jpeg
 topics:
- - title: Car Hacking with a PocketBeagle
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/pocketbeagle/zmg4A7S3NJY
-   body: <p>"In our latest experiment, we replaced our processor board with the PocketBeagle and now we have an awesome Linux based car tinkering platform!"</p>
+ - title: Start BeagleBoard-X15 remotely
+   link: https://beagleboard.org/discuss/?place=topic%2Fbeagleboard%2FCGrnvgCsOUA%2Fdiscussion
+   body: If nobody is around, does your BeagleBoard still turn on? It likely does if you've been following this thread!
+ - title: Changing BBGreen Wireless Access Point Name and WIFI Setup Page
+   link: https://beagleboard.org/discuss/?place=topic%2Fbeagleboard%2FHKL0Obg6ELM%2Fdiscussion
+   body: Change the name of the access point your BeagleBoard broadcasts by following this discussion!
+ - title: Bigger eMMC Size?
+   link: https://beagleboard.org/discuss/?place=topic%2Fbeagleboard%2FoMCYbQgzjQo%2Fdiscussion
+   body: Have a large image to flash? Maybe it's time to look into larger flash memory.
+ - title: Yocto
+   link: https://beagleboard.org/discuss/?place=topic%2Fbeagleboard%2FBh0rgb1-Jhk%2Fdiscussion
+   body: Yocto Project with BeagleBoards? It's possible, as discussed in this community topic.
 projects:
  - title: 10 Year Anniversary Classic Project - BeagleStache
    link: http://bbb.io/+a241e1
