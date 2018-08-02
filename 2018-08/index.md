@@ -28,4 +28,12 @@ projects:
    link: http://bbb.io/+a241e1
    body: Long before popular phone apps put features on faces, this application for BeagleBone® Black built on an OpenCV face detection sample, added a black mustache on the faces detected. Later enhanced to upload the picture to Twitter, it continues to be a classic favorite project.
    image: https://hackster.imgix.net/uploads/attachments/362101/34c4d75b18ad001d621c853fb33a7ecc.png?auto=compress%2Cformat&w=680&h=510&fit=max
+ - title: PocketScroller LED Panel Cape for PocketBeagle
+   link: http://bbb.io/+fe12a6
+   body: P10 and P5 LED panels have become a popular method of displaying images, text, and effects for animated Christmas Light displays. Traditionally, the community has been using an "Octoscroller" on a full Beaglebone Black for driving the panels. This cape provides much of the same functionality, but for the smaller/cheaper PocketBeagle.
+   image: https://hackster.imgix.net/uploads/attachments/532575/2018-02-28t18_3a45_3a49_534z-img_4866_kUqtj8ArJf.jpg%3Fauto%3Dcompress%252Cformat?auto=compress%2Cformat&w=900&h=675&fit=min
+ - title: Voice Controlled Spice Rack
+   link: http://bbb.io/+235834
+   body: Control your spice rack using your voice in this project featuring the BeagleBone Black!
+   image: https://hackster.imgix.net/uploads/attachments/539273/dscpdc_0003_burst20180801125704470_cover_qjgDlYpU8Q.JPG?auto=compress%2Cformat&w=900&h=675&fit=min
 ---
