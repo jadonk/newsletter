@@ -25,7 +25,7 @@ articles:
    image: https://hackster.imgix.net/uploads/attachments/362101/34c4d75b18ad001d621c853fb33a7ecc.png?auto=compress%2Cformat&w=680&h=510&fit=max
  - title: Cape Corner
    link: https://beagleboard.org/capes
-   body: Seven new capes have been released! Check out this Servo Cape, for example. Provides numerous servo outputs and receiver inputs for many remote control, robotics and automation projects: 16x servo outputs, 6x receiver inputs, 5V power input, I2C EEPROM
+   body: Seven new capes have been released! Check out this Servo Cape, for example. Provides numerous servo outputs and receiver inputs for many remote control, robotics and automation projects - 16x servo outputs, 6x receiver inputs, 5V power input, I2C EEPROM
    image: https://beagleboard.org/static/images/capes/250px/BeagleBoneServoCapeA2_Top.png
  - title: BeagleBoard.org Co-Founder honored as 2018 top Embedded Innovator
    link: http://www.embedded-computing.com/hardware/2018-top-embedded-innovator-jason-kridner-beagleboard-org
