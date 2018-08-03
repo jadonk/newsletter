@@ -4,7 +4,7 @@ title: 10 Years of BeagleBone
 link: https://beagleboard.org/newsletter/2018-08
 feature:
  title: Celebrating 10 Years of Open Source Collaboration
- body: <p><img src="images/10years_banner.jpg" style="float:right; width:40%; height:auto;"></p><p>It is so exciting to be in our tenth year of BeagleBoard.org® and we want to celebrate you, our community. Over the next 10 months, we’ll be <strong>highlighting memorable BeagleBoard.org® based projects.</strong> Please nominate a project using any BeagleBoard.org® hardware developed any time in the last 10 years to be featured in our newsletter. It can be your own project or someone else’s that has been memorable for you. <a href="mailto:Christi@beagleboard.org">Send us a link to a project</a> and tell us why you find it special. We can’t wait to hear from you!<br>We are also celebrating the success and continuing efforts of BeagleBoard.org® to provide education in the use of open-source software and hardware in embedded computing. In fact, BeagleBoard.org® was announced in 2008 at a joint Educator and Developer Conference and embraced by a wider community. To celebrate and thank our educational members, starting this month we will be launching a new section of our newsletter <strong>spotlighting an influential instructor and their story.</strong> If you are an educator, we’d love to hear your BeagleBoard® story! <a href="mailto:Christi@beagleboard.org">Contact us for more information.</a> We hope you’ll enjoy celebrating 10 years of BeagleBoard.org® with us!</p>
+ body: <p><img src="images/10years_banner.jpg" style="float:right; width:40%; height:auto;"></p><p>It is so exciting to be in our tenth year of BeagleBoard.org® and we want to celebrate you, our community. Over the next 10 months, we’ll be <strong>highlighting memorable BeagleBoard.org® based projects.</strong> Please nominate a project using any BeagleBoard.org® hardware developed any time in the last 10 years to be featured in our newsletter. It can be your own project or someone else’s that has been memorable for you. <a href="mailto:Christi@beagleboard.org">Send us a link to a project</a> and tell us why you find it special. We can’t wait to hear from you!<br><br>We are also celebrating the success and continuing efforts of BeagleBoard.org® to provide education in the use of open-source software and hardware in embedded computing. In fact, BeagleBoard.org® was announced in 2008 at a joint Educator and Developer Conference and embraced by a wider community. To celebrate and thank our educational members, starting this month we will be launching a new section of our newsletter <strong>spotlighting an influential instructor and their story.</strong> If you are an educator, we’d love to hear your BeagleBoard® story! <a href="mailto:Christi@beagleboard.org">Contact us for more information.</a> We hope you’ll enjoy celebrating 10 years of BeagleBoard.org® with us!</p>
 events:
  - title: MakerFaire New York City
    date: September 22-23, 2018
@@ -49,4 +49,16 @@ projects:
    link: http://bbb.io/+235834
    body: Control your spice rack using your voice in this project featuring the BeagleBone Black!
    image: https://hackster.imgix.net/uploads/attachments/539273/dscpdc_0003_burst20180801125704470_cover_qjgDlYpU8Q.JPG?auto=compress%2Cformat&w=900&h=675&fit=min
+ - title: Remote Control Car w/ PocketBeagle and Arduino
+   link: http://bbb.io/+f2b006
+   body: Have you ever wanted to use a PocketBeagle? And build a remote car? Well, I have! Here is how you can too!
+   image: https://hackster.imgix.net/uploads/attachments/478051/_CCz3WVJG19.9k%3D?auto=compress%2Cformat&w=900&h=675&fit=min
+ - title: Device Tree Support for Mikro Click Boards™ & PocketBeagle®
+   link: http://bbb.io/+6de395
+   body: Easy to follow instructions to build, test and add device tree overlays to BeagleBoard. org® community repository for click boards™.
+   image: https://hackster.imgix.net/uploads/attachments/505935/bb_pb_deviceappletree_6AkuBIILzn.png?auto=compress%2Cformat&w=900&h=675&fit=min
+ - title: Simulink Coder Support Package and BeagleBone Blue
+   link: http://bbb.io/+59cd71
+   body: This example shows you how to use Simulink Coder™ Support Package for BeagleBone® Blue Hardware to run a Simulink® model
+   image: https://hackster.imgix.net/uploads/attachments/464265/beagleboneblue_gettingstarted_01.png?auto=compress%2Cformat&w=900&h=675&fit=min
 ---
