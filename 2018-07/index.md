@@ -1,5 +1,5 @@
 ---
-layout: january2017_layout
+layout: july2018_layout
 title: 10 Years of BeagleBone
 link: https://beagleboard.org/newsletter/2018-08
 feature:
