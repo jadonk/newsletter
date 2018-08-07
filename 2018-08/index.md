@@ -26,9 +26,9 @@ articles:
    image: https://hackster.imgix.net/uploads/attachments/362101/34c4d75b18ad001d621c853fb33a7ecc.png?auto=compress%2Cformat&w=680&h=510&fit=max
  - title: Educator Highlight - Mark Yoder, Trailblazer in Teaching Embedded Linux
    link: https://wordpress.com/post/beagleboardfoundation.wordpress.com/1668
-   body: LinuxAt various conferences around the world from Prague to India, Dr Yoder has connected with other educators and mentored them, sharing success tips for overcoming the challenges of introducing new hardware and software into curriculum.
-   image: https://hackster.imgix.net/uploads/attachments/362101/34c4d75b18ad001d621c853fb33a7ecc.png?auto=compress%2Cformat&w=680&h=510&fit=max
- - title: BeagleBoard.org Co-Founder honored as 2018 top Embedded Innovator
+   body: At various conferences around the world from Prague to India, Dr Yoder has connected with other educators and mentored them, sharing success tips for overcoming the challenges of introducing new hardware and software into curriculum.
+   image: https://beagleboardfoundation.files.wordpress.com/2018/07/8345-beaglebone-yoder-1230x0.jpg?w=720
+ - title: BeagleBoard.org® Co-Founder honored as 2018 top Embedded Innovator
    link: http://www.embedded-computing.com/hardware/2018-top-embedded-innovator-jason-kridner-beagleboard-org
    body: Congratulations to BeagleBoard.org® co-founder, Jason Kridner who recevied the prestigious “2018 Top Embedded Innovator” award, celebrating innovators who demonstrate the reach and impact of embedded and IoT technolgoy in today’s world.
    image: http://d2lupdnmi5p5au.cloudfront.net/i__src292aaa91ca9da151399b8532c2852f07_par8f59f5c16e776919ef07a02435776fa1.jpeg
