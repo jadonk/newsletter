@@ -1,5 +1,5 @@
 ---
-layout: january2017_layout
+layout: january2017c_layout
 title: 10 Years of BeagleBone
 link: https://beagleboard.org/newsletter/2018-08
 feature:
@@ -7,8 +7,13 @@ feature:
  body: <p><img src="images/10years_banner.jpg" style="float:right; width:40%; height:auto;"></p><p>It is so exciting to be in our tenth year of BeagleBoard.org® and we want to celebrate you, our community. Over the next 10 months, we’ll be <strong>highlighting memorable BeagleBoard.org® based projects.</strong> Please nominate a project using any BeagleBoard.org® hardware developed any time in the last 10 years to be featured in our newsletter. It can be your own project or someone else’s that has been memorable for you. <a href="mailto:Christi@beagleboard.org">Send us a link to a project</a> and tell us why you find it special. We can’t wait to hear from you!<br><br>We are also celebrating the success and continuing efforts of BeagleBoard.org® to provide education in the use of open-source software and hardware in embedded computing. In fact, BeagleBoard.org® was announced in 2008 at a joint Educator and Developer Conference and embraced by a wider community. To celebrate and thank our educational members, starting this month we will be launching a new section of our newsletter <strong>spotlighting an influential instructor and their story.</strong> If you are an educator, we’d love to hear your BeagleBoard® story! <a href="mailto:Christi@beagleboard.org">Contact us for more information.</a> We hope you’ll enjoy celebrating 10 years of BeagleBoard.org® with us!</p>
 events:
  - title: MakerFaire New York City
-   date: September 22-23, 2018
+   date: September 22-23, 2018<br>Going to MakerFaire? <a href="https://calendly.com/jkridner">Schedule a meet-up with us!</a>
    link: https://calendly.com/jkridner
+cape:
+ title: Servo Cape
+ link: https://beagleboard.org/capes
+ body: <p>Seven new capes have been released! Check out this Servo Cape, for example. Provides numerous servo outputs and receiver inputs for many remote control, robotics and automation projects - 16x servo outputs, 6x receiver inputs, 5V power input, I&sup2;C EEPROM</p>
+ image: https://beagleboard.org/static/images/capes/250px/BeagleBoneServoCapeA2_Top.png
 book:
  title: BeagleBone Cookbook - Software and Hardware Problems and Solutions
  link: http://shop.oreilly.com/product/0636920033899.do
@@ -23,10 +28,6 @@ articles:
    link: https://wordpress.com/post/beagleboardfoundation.wordpress.com/1668
    body: LinuxAt various conferences around the world from Prague to India, Dr Yoder has connected with other educators and mentored them, sharing success tips for overcoming the challenges of introducing new hardware and software into curriculum.
    image: https://hackster.imgix.net/uploads/attachments/362101/34c4d75b18ad001d621c853fb33a7ecc.png?auto=compress%2Cformat&w=680&h=510&fit=max
- - title: Cape Corner
-   link: https://beagleboard.org/capes
-   body: Seven new capes have been released! Check out this Servo Cape, for example. Provides numerous servo outputs and receiver inputs for many remote control, robotics and automation projects - 16x servo outputs, 6x receiver inputs, 5V power input, I&sup2;C EEPROM
-   image: https://beagleboard.org/static/images/capes/250px/BeagleBoneServoCapeA2_Top.png
  - title: BeagleBoard.org Co-Founder honored as 2018 top Embedded Innovator
    link: http://www.embedded-computing.com/hardware/2018-top-embedded-innovator-jason-kridner-beagleboard-org
    body: Congratulations to BeagleBoard.org® co-founder, Jason Kridner who recevied the prestigious “2018 Top Embedded Innovator” award, celebrating innovators who demonstrate the reach and impact of embedded and IoT technolgoy in today’s world.
