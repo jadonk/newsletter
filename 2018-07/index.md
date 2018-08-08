@@ -1,64 +1,60 @@
 ---
 layout: july2018_layout
-title: 10 Years of BeagleBone
-link: https://beagleboard.org/newsletter/2018-08
+title: Summer 2018 Dog Dish
+link: https://beagleboard.org/newsletter/2018-06
 feature:
- title: Celebrating 10 Years of Open Source Collaboration
- body: <p><img src="images/10years_banner.jpg" style="float:right; width:40%; height:auto;"></p><p>It is so exciting to be in our tenth year of BeagleBoard.org® and we want to celebrate you, our community. Over the next 10 months, we’ll be <strong>highlighting memorable BeagleBoard.org® based projects.</strong> Please nominate a project using any BeagleBoard.org® hardware developed any time in the last 10 years to be featured in our newsletter. It can be your own project or someone else’s that has been memorable for you. <a href="mailto:Christi@beagleboard.org">Send us a link to a project</a> and tell us why you find it special. We can’t wait to hear from you!<br><br>We are also celebrating the success and continuing efforts of BeagleBoard.org® to provide education in the use of open-source software and hardware in embedded computing. In fact, BeagleBoard.org® was announced in 2008 at a joint Educator and Developer Conference and embraced by a wider community. To celebrate and thank our educational members, starting this month we will be launching a new section of our newsletter <strong>spotlighting an influential instructor and their story.</strong> If you are an educator, we’d love to hear your BeagleBoard® story! <a href="mailto:Christi@beagleboard.org">Contact us for more information.</a> We hope you’ll enjoy celebrating 10 years of BeagleBoard.org® with us!</p>
+ title: BeagleBone Blue. Robots. Fast.
+ body: <p>The newest and smallest addition to the BeagleBone family, the <strong><a href="https://beagleboard.org/pocket">PocketBeagle</a></strong>, has been demonstrated by our own Jason Kridner in a <a href="https://www.arrow.com/en/research-and-events/videos/pocketbeagle-maker-fair">Maker Faire Reveal</a>. Implementing the new <a href="https://www.mouser.com/new/octavo-systems/octavo-systems-osd335-sip/">Octavo Systems OSD3358-SM</a> 21x21mm system-in-package with 512MB DDR3 integrated RAM, this pup gives you much bark for your buck. The PocketBeagle is a low cost, open-source development board for educational and professional purposes. Running Linux images customized specifically for BeagleBone and utilizing the web-based <a href="https://aws.amazon.com/cloud9/">Cloud9 IDE</a>, programmers of all skill levels have much to benefit from the extensive included <a href="https://beagleboard.org/Support/BoneScript">library</a> and comprehensive <a href="https://github.com/beagleboard/pocketbeagle/wiki">wiki</a>.</p><p class="text-center"><img src="http://beagleboard.org/static/images/PocketBeagle-size-compare-small.jpg" alt="Photo of Pocket Beagle." class="fit"/></p><p>Additional information including <a href="https://github.com/beagleboard/pocketbeagle/blob/master/PocketBeagle_sch.pdf">schematics</a> and <a href="https://github.com/beagleboard/pocketbeagle/blob/master/PocketBeagle_BOM.csv">bill of materials</a> are available on <a href="https://github.com/beagleboard/pocketbeagle">GitHub</a>. The PocketBeagle is available from <a href="https://www.arrow.com/en/products/pocketbeagle/beagleboardorg">Arrow</a>, <a href="https://www.digikey.com/en/product-highlight/b/beagleboard/pocketbeagle-board?utm_source=online&utm_medium=vanity&utm_campaign=pocketbeagle">Digi-Key</a>, <a href="https://www.newark.com/beagleboard/bb-pocket/silicon-manufacturer-octave-systems/dp/45AC6372">Element14</a>, and <a href="https://www.mouser.com/new/beagleboardorg/pocketbeagle/">Mouser</a>. Additional components called <a href="https://github.com/beagleboard/pocketbeagle/wiki/Click-boards%E2%84%A2">Click Boards</a> give the PocketBeagle even more functionality, from GPS to lightning sensors. We're excited to provide yet another accessible resource to our community to realize their ideas and potential.</p>
 events:
- - title: MakerFaire New York City
-   date: September 22-23, 2018
-   link: https://calendly.com/jkridner
+ - title: SE Michigan BeagleBone Meetup (OLD)
+   date: July 27
+   link: https://www.meetup.com/Southeast-Michigan-BeagleBone-Users-Group/
 book:
- title: BeagleBone Cookbook - Software and Hardware Problems and Solutions
- link: http://shop.oreilly.com/product/0636920033899.do
- body: <p>By Jason Kridner and Mark Yoder.<br>Whether you are new to BeagleBone® or want to explore more of its capabilities, this cookbook provides scores of recipes for connecting and talking to the physical world.</p>
- image: https://covers.oreillystatic.com/images/0636920033899/lrg.jpg
+ title: Using Yocto Project with BeagleBone Black
+ link: http://a.co/21XaqMk
+ body: <p>by Jaime Vaughn. Starting with a basic introduction to Yocto Project's build system, this book will take you through the setup and deployment steps for Yocto Project. You will develop an understanding of BitBake, learn how to create a basic recipe, and explore the different types of Yocto Project recipe elements.</p>
+ image: https://images-na.ssl-images-amazon.com/images/I/51FqwWP97PL._SX258_BO1,204,203,200_.jpg
 articles:
- - title: 10 Year Anniversary Classic Project - BeagleStache
-   link: http://bbb.io/+a241e1
-   body: Long before popular phone apps put features on faces, this application for BeagleBone® Black built on an OpenCV face detection sample, added a black mustache on the faces detected. Later enhanced to upload the picture to Twitter, it continues to be a classic favorite project.
-   image: https://hackster.imgix.net/uploads/attachments/362101/34c4d75b18ad001d621c853fb33a7ecc.png?auto=compress%2Cformat&w=680&h=510&fit=max
- - title: Educator Highlight - Mark Yoder, Trailblazer in Teaching Embedded Linux
-   link: https://wordpress.com/post/beagleboardfoundation.wordpress.com/1668
-   body: LinuxAt various conferences around the world from Prague to India, Dr Yoder has connected with other educators and mentored them, sharing success tips for overcoming the challenges of introducing new hardware and software into curriculum.
-   image: https://hackster.imgix.net/uploads/attachments/362101/34c4d75b18ad001d621c853fb33a7ecc.png?auto=compress%2Cformat&w=680&h=510&fit=max
- - title: Cape Corner
-   link: https://beagleboard.org/capes
-   body: Seven new capes have been released! Check out this Servo Cape, for example. Provides numerous servo outputs and receiver inputs for many remote control, robotics and automation projects - 16x servo outputs, 6x receiver inputs, 5V power input, I&sup2;C EEPROM
-   image: https://beagleboard.org/static/images/capes/250px/BeagleBoneServoCapeA2_Top.png
- - title: BeagleBoard.org Co-Founder honored as 2018 top Embedded Innovator
-   link: http://www.embedded-computing.com/hardware/2018-top-embedded-innovator-jason-kridner-beagleboard-org
-   body: Congratulations to BeagleBoard.org® co-founder, Jason Kridner who recevied the prestigious “2018 Top Embedded Innovator” award, celebrating innovators who demonstrate the reach and impact of embedded and IoT technolgoy in today’s world.
-   image: http://d2lupdnmi5p5au.cloudfront.net/i__src292aaa91ca9da151399b8532c2852f07_par8f59f5c16e776919ef07a02435776fa1.jpeg
+ - title: Embedded Apprentice Linux Engineer (E-ALE) 
+   link: https://beagleboardfoundation.wordpress.com/2018/02/28/embedded-apprentice-linux-engineer-e-ale/
+   body: <p>Embedded Apprentice Linux Engineer (E-ALE) is a series of 9 seminars over 3 days at existing Embedded Linux conferences.</p>
+   image: https://beagleboardfoundation.files.wordpress.com/2018/02/baconbits-1.png?w=768&h=308&crop=1
+ - title: Ken Shirriff goes hands-on with the PocketBeagle
+   link: https://beagleboardfoundation.wordpress.com/2018/02/04/ken-shirrif-goes-hands-on-with-the-pocketbeagle/
+   body: <p>"This article discusses my experience trying out different features of the PocketBeagle, along with some technical details."</p>
+   image: https://beagleboardfoundation.files.wordpress.com/2018/02/pocketbeagle.jpg?w=768&h=492&crop=1
+ - title: Building a device tree overlay for your new PocketCape design
+   link: https://jkridner.wordpress.com/2018/01/17/building-a-device-tree-overlay-for-your-new-pocketcape-design/
+   body: <p>"Much has been made of the complexities of the Linux device tree configuration mechanism–it is both a savior and a curse."</p>
+   image: https://jkridner.files.wordpress.com/2018/01/simplegaming_bb.png?w=1920&h=768&crop=1
 topics:
- - title: Start BeagleBoard-X15 remotely
-   link: https://beagleboard.org/discuss/?place=topic%2Fbeagleboard%2FCGrnvgCsOUA%2Fdiscussion
-   body: If nobody is around, does your BeagleBoard still turn on? It likely does if you've been following this thread!
- - title: Changing BBGreen Wireless Access Point Name and WIFI Setup Page
-   link: https://beagleboard.org/discuss/?place=topic%2Fbeagleboard%2FHKL0Obg6ELM%2Fdiscussion
-   body: Change the name of the access point your BeagleBoard broadcasts by following this discussion!
- - title: Bigger eMMC Size?
-   link: https://beagleboard.org/discuss/?place=topic%2Fbeagleboard%2FoMCYbQgzjQo%2Fdiscussion
-   body: Have a large image to flash? Maybe it's time to look into larger flash memory.
- - title: Yocto
-   link: https://beagleboard.org/discuss/?place=topic%2Fbeagleboard%2FBh0rgb1-Jhk%2Fdiscussion
-   body: Yocto Project with BeagleBoards? It's possible, as discussed in this community topic.
+ - title: Car Hacking with a PocketBeagle
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/pocketbeagle/zmg4A7S3NJY
+   body: <p>"In our latest experiment, we replaced our processor board with the PocketBeagle and now we have an awesome Linux based car tinkering platform!"</p>
+ - title: BoneScript 0.6.4-beta3 Release
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/software/wg7B4k1HjkQ
+   body: <p>Vaishnav Ma announced the new BoneScript beta release, with installation instructions.</p>
+ - title: How to extend the RAM of BeagleBone Green
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/8AIablPjljU
+   body: <p>A community discussion on RAM extension.</p>
+ - title: New to Bonescript, Javascript, node.js, etc.
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/bonescript/PAl7OeX48X4
+   body: <p>Fred Kerr shares his library of work in Javascript, great for beginners!</p>
 projects:
- - title: Voice Controlled Spice Rack
-   link: http://bbb.io/+235834
-   body: Control your spice rack using your voice in this project featuring the BeagleBone Black!
-   image: https://hackster.imgix.net/uploads/attachments/539273/dscpdc_0003_burst20180801125704470_cover_qjgDlYpU8Q.JPG?auto=compress%2Cformat&w=900&h=675&fit=min
- - title: Remote Control Car w/ PocketBeagle and Arduino
-   link: http://bbb.io/+f2b006
-   body: Have you ever wanted to use a PocketBeagle? And build a remote car? Well, I have! Here is how you can too!
-   image: https://hackster.imgix.net/uploads/attachments/478051/_CCz3WVJG19.9k%3D?auto=compress%2Cformat&w=900&h=675&fit=min
- - title: Device Tree Support for Mikro Click Boards™ & PocketBeagle®
-   link: http://bbb.io/+6de395
-   body: Easy to follow instructions to build, test and add device tree overlays to BeagleBoard. org® community repository for click boards™.
-   image: https://hackster.imgix.net/uploads/attachments/505935/bb_pb_deviceappletree_6AkuBIILzn.png?auto=compress%2Cformat&w=900&h=675&fit=min
- - title: Simulink Coder Support Package and BeagleBone Blue
-   link: http://bbb.io/+59cd71
-   body: This example shows you how to use Simulink Coder™ Support Package for BeagleBone® Blue Hardware to run a Simulink® model
-   image: https://hackster.imgix.net/uploads/attachments/464265/beagleboneblue_gettingstarted_01.png?auto=compress%2Cformat&w=900&h=675&fit=min
+ - title: Plant Babysitter
+   link: http://bbb.io/+a85198
+   body: Never kill a plant again with this hands-free plant babysitter that quenches your plant's thirst so you don't have to!
+   image: https://hackster.imgix.net/uploads/attachments/477751/screen_shot_2018-05-01_at_10_27_20_am_tb57YyuGQ0.png?auto=compress%2Cformat&w=900&h=675&fit=min
+ - title: Indoor-Outdoor Temperature Sensors
+   link: http://bbb.io/+f38c6c
+   body: Houston weather changes drastically from day to day and I need an easy way to tell what the outdoor temperature is each day.
+   image: https://hackster.imgix.net/uploads/attachments/478322/img_f9ea184ab329-1_BjZfVKRwNl.jpeg?auto=compress%2Cformat&w=900&h=675&fit=min
+ - title: PocketBeagle Alexa
+   link: http://bbb.io/+0425b6
+   body: PocketBeagle® can become your personal Amazon Alexa assistant. Follow these instructions and this tiny BeagleBone will do more than fetch!
+   image: https://hackster.imgix.net/uploads/attachments/473215/pb_alexa_9ndugbqywy_nKTEQMSO4g.jpg%3Fauto%3Dcompress%252Cformat?auto=compress%2Cformat&w=900&h=675&fit=min
+ - title: PocketPilot - An Autopilot Based on the $25 PocketBeagle®
+   link: http://bbb.io/+1fa14b
+   body: There is a new puppy in the family! PocketPilot is a smaller version of the BBBmini Flight Controller.
+   image: https://hackster.imgix.net/uploads/attachments/412163/image.png?auto=compress%2Cformat&w=900&h=675&fit=min
 ---
