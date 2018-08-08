@@ -10,10 +10,10 @@ events:
    date: September 22-23, 2018<br>Going to MakerFaire? <a href="https://calendly.com/jkridner">Schedule a meet-up with us!</a>
    link: https://calendly.com/jkridner
 cape:
- title: Servo Cape
+ title: Relay Cape
  link: https://beagleboard.org/capes
- body: <p>Seven new capes have been released! Check out this Servo Cape, for example. Provides numerous servo outputs and receiver inputs for many remote control, robotics and automation projects - 16x servo outputs, 6x receiver inputs, 5V power input, I&sup2;C EEPROM</p>
- image: https://beagleboard.org/static/images/capes/250px/BeagleBoneServoCapeA2_Top.png
+ body: <p>Seven new capes have been released! Check out this Relay Cape, for example. Quick and easy relay solution for your home or other automation needs. 4x 15A @ 24VDC/12A @ 250VAC relays and I&sup2;C EEPROM</p>
+ image: https://beagleboard.org/static/images/capes/250px/BeagleBoneRelayCapeA2_Top.png
 book:
  title: BeagleBone Cookbook - Software and Hardware Problems and Solutions
  link: http://shop.oreilly.com/product/0636920033899.do
