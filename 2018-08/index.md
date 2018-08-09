@@ -1,6 +1,6 @@
 ---
 layout: january2017c_layout
-title: 10 Years of BeagleBone
+title: 10 Years of BeagleBoard.org
 link: https://beagleboard.org/newsletter/2018-08
 feature:
  title: Celebrating 10 Years of Open Source Collaboration
