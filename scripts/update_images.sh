@@ -2,7 +2,7 @@
 $extension = '.orig';
 $index = 0;
 $host = 'https://beagleboard.github.io/newsletter/';
-$prefix = 'static/images/newsletter-2018-06_';
+$prefix = 'static/images/newsletter-2018-08_';
 LINE: while (<>) {
     if ($ARGV ne $oldargv) {
         if ($extension !~ /\*/) {
@@ -32,6 +32,7 @@ LINE: while (<>) {
                 } else {
                     print STDERR ("Link substitution failed\n");
                 }
+                #system("scp $imagename beagleboard.org:beagleboard.org/static/images/");
             } else {
                 print STDERR ("Curl failed\n");
             }
