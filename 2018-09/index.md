@@ -28,14 +28,14 @@ book:
 articles:
  - title: Join BeagleBoard.org® at World Maker Faire, New York City, Sept 21-23, 2018
    link: https://beagleboard.org/blog/2018-09-05-join-beagleboard-org-at-world-maker-faire-in-new-york-sept-21-23
-   body: BeagleBoard.org® is excited to be a sponsor of World Maker Faire® 2018.    Join us!   We’ll be hosting demos at the Education Forum on Friday, Sept 21 and in the Maker Shed on Saturday Sept 22 through Sunday Sept 23.  We’ll be celebrating our 10th Anniversary with a #BringAHack Party Friday evening.  Don’t miss it!
+   body: BeagleBoard.org® is excited to be a sponsor of World Maker Faire® 2018.    Join us!   We’ll be hosting demos and a workshop at the Education Forum on Friday, Sept 21 and in the Maker Shed on Saturday Sept 22 through Sunday Sept 23.  We’ll be celebrating our 10th Anniversary with a #BringAHack Party Friday evening.  Don’t miss it!
    image: https://beagleboard.org/blog/wp-content/uploads/2018/09/mf_newyork_seeusthere_625x250.png
  - title: 10 Year Anniversary Classic Project - The Descriptive Camera
    link: https://www.hackster.io/matt-richardson/descriptive-camera-790278
    body: Back in 2012, this camera took the budding idea of crowdsourcing metadata about a picture to an embedded platform.  With features of a regular camera it produces an image using Amazon Mechanical Turk API for a text description output of the scene.
    image: https://hackster.imgix.net/uploads/cover_image/file/5576/descriptive-camera-600px.jpg?auto=compress&w=1600&h=1200&fit=min&fm=jpg
  - title: Educator Highlight - Steven F. Barrett, Author, Embedded Systems Educator and Beagle Lover
-   link: http://www.uwyo.edu/electrical/faculty-staff/steven-barrett/steve-barrett-main1.jpg
+   link: https://beagleboard.org/blog/2018-09-11-educator-highlight-steven-f-barrett
    body: Dr Barrett, a prolific and inspired author of 12 texts combined his love of Beagles and Electronics when the performance and size of  BeagleBone® Black sparked his creative teaching ideas.  Arooooo!
    image: https://beagleboard.org/blog/wp-content/uploads/2018/09/beagle-edu-cropped_2.jpg
  - title: GSoC 2018 Brings Students and BeagleBoard.org® Mentors Together
