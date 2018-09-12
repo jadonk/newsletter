@@ -1,10 +1,10 @@
 ---
 layout: january2017c_layout
 title: 10 Years of BeagleBone
-link: https://beagleboard.org/newsletter/2018-08
+link: https://beagleboard.org/newsletter/2018-09
 feature:
  title: Great Teaching Ideas Can Receive a Lab of PocketBeagle® boards
- body: <p><b>Let's Educate!</b>  We are announcing a new program as part of our continued commitment to education in the use of open-source software and hardware. Educators in schools can apply for the opportunity to receive up to 30 <a href="http://beagleboard.org/pocket">PocketBeagle® boards</a> from the BeagleBoard.org® Foundation. The donation of the boards will further project development in the classroom or makerspace. To participate in this opportunity submit a project idea to our <a href="https://beagleboard.org/pocketbeagles-for-your-classroom">online education project form</a>. We look forward to hearing more about your ideas for using PocketBeagle®  in the classroom.<br>Let's Celebrate!  Are you coming to MakerFaire NYC this month?  The celebration of the BeagleBoard.org® community in it's tenth year continues by highlighting Makers!  Join us for a #BringAHack event in the Big Apple on Friday, September 21st at 9pm at Leaf Bar and Lounge.  <a href="https://www.eventbrite.com/e/bringahack-new-york-with-beagleboardorg-before-maker-faire-tickets-49521195228">Register to hold your place!</a><br>Can't make it in person?  <a href="mailto:%20christi@beagleboard.org">Tell us</a> about your favorite BeagleBoard.org based Hack and be featured in our newsletter. It can be your own project or someone else’s that has been memorable for you.  We hope you’ll enjoy celebrating 10 years of BeagleBoard.org® with us!<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ body: <p><img src="https://beagleboard.org/blog/wp-content/uploads/2018/09/10-year-twitter-ad.png"><br><b>Let's Educate!</b>  We are announcing a new program as part of our continued commitment to education in the use of open-source software and hardware. Educators in schools can apply for the opportunity to receive up to 30 <a href="http://beagleboard.org/pocket">PocketBeagle® boards</a> from the BeagleBoard.org® Foundation. The donation of the boards will further project development in the classroom or makerspace. To participate in this opportunity submit a project idea to our <a href="https://beagleboard.org/pocketbeagles-for-your-classroom">online education project form</a>. We look forward to hearing more about your ideas for using PocketBeagle®  in the classroom.<br>Let's Celebrate!  Are you coming to MakerFaire NYC this month?  The celebration of the BeagleBoard.org® community in it's tenth year continues by highlighting Makers!  Join us for a #BringAHack event in the Big Apple on Friday, September 21st at 9pm at Leaf Bar and Lounge.  <a href="https://www.eventbrite.com/e/bringahack-new-york-with-beagleboardorg-before-maker-faire-tickets-49521195228">Register to hold your place!</a><br>Can't make it in person?  <a href="mailto:%20christi@beagleboard.org">Tell us</a> about your favorite BeagleBoard.org based Hack and be featured in our newsletter. It can be your own project or someone else’s that has been memorable for you.  We hope you’ll enjoy celebrating 10 years of BeagleBoard.org® with us!<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 events:
  - title: World MakerFaire Education Forum, New York City
    date: September 21, 2018 
@@ -33,7 +33,7 @@ articles:
  - title: 10 Year Anniversary Classic Project - The Descriptive Camera
    link: https://www.hackster.io/matt-richardson/descriptive-camera-790278
    body: Back in 2012, this camera took the budding idea of crowdsourcing metadata about a picture to an embedded platform.  With features of a regular camera it produces an image using Amazon Mechanical Turk API for a text description output of the scene.
-   image: https://www.hackster.io/matt-richardson/descriptive-camera-790278
+   image: https://hackster.imgix.net/uploads/cover_image/file/5576/descriptive-camera-600px.jpg?auto=compress&w=1600&h=1200&fit=min&fm=jpg
  - title: Educator Highlight - Steven F. Barrett, Author, Embedded Systems Educator and Beagle Lover
    link: http://www.uwyo.edu/electrical/faculty-staff/steven-barrett/steve-barrett-main1.jpg
    body: Dr Barrett, a prolific and inspired author of 12 texts combined his love of Beagles and Electronics when the performance and size of  BeagleBone® Black sparked his creative teaching ideas.  Arooooo!
@@ -66,7 +66,7 @@ projects:
    body: Beginner project creates an automatic light switch using a simple servo, PocketBeagle® and PIR motion sensor!
    image: https://hackster.imgix.net/uploads/attachments/478486/motion_sensor_light_switch_EVER2fBCq9.PNG?auto=compress%2Cformat&w=900&h=675&fit=min
  - title: Smart Mirror
-   link: http://bbb.io/+
+   link: http://bbb.io/+559755
    body: Students at University of Texas built their own custom mirror with BeagleBone® Black and parts from the hardware store.
    image: https://hackster.imgix.net/uploads/attachments/189528/IMG_5020.JPG?auto=compress%2Cformat&w=900&h=675&fit=min
 ---
