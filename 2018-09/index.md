@@ -47,7 +47,7 @@ topics:
    link: https://groups.google.com/forum/embed/?&parenturl=https%3A%2F%2Fbeagleboard.org%2Fpocket&showsearch=true&showpopout=true&showtabs=true&place=forum/beagleboard#!category-topic/beagleboard/pocketbeagle/Uxx_9ce2YHM
    body: Check out the options discussed in this thread to help with the choices.
  - title: Back to School with Embedded Linux on BeagleBone®
-   link: https://beagleboard.org/discuss/?place=topic%2Fbeagleboard%2FoMCYbQgzjQo%2Fdiscussion
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss%2F%3Fplace%3Dtopic%252Fbeagleboard%252FoMCYbQgzjQo%252Fdiscussion#!category-topic/beagleboard/beaglebone-black/XJeKUBAzivI
    body: Check out with Prof Yoder’s course with materials posted in this thread.
  - title: Qt5 "hello world" how-to on BeagleBone Debian
    link: https://groups.google.com/forum/embed/?place=forum/beaglebone&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss%2F%3Fplace%3Dtopic%2Fbeagleboard%2FoMCYbQgzjQo%2Fdiscussion#!category-topic/beagleboard/software/bGuAcHm0atc
