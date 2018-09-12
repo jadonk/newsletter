@@ -3,15 +3,15 @@ layout: january2017c_layout
 title: 10 Years of BeagleBone
 link: https://beagleboard.org/newsletter/2018-09
 feature:
- title: Great Teaching Ideas Can Receive a Lab of PocketBeagle® boards
- body: <p><br><img src="https://beagleboard.org/blog/wp-content/uploads/2018/09/10-year-twitter-ad.png"><br><b>Let's Educate!</b>  We are announcing a new program as part of our continued commitment to education in the use of open-source software and hardware. Educators in schools can apply for the opportunity to receive up to 30 <a href="http://beagleboard.org/pocket">PocketBeagle® boards</a> from the BeagleBoard.org® Foundation. The donation of the boards will further project development in the classroom or makerspace. To participate in this opportunity submit a project idea to our <a href="https://beagleboard.org/pocketbeagles-for-your-classroom">online education project form</a>. We look forward to hearing more about your ideas for using PocketBeagle®  in the classroom.<br>Let's Celebrate!  Are you coming to MakerFaire NYC this month?  The celebration of the BeagleBoard.org® community in it's tenth year continues by highlighting Makers!  Join us for a #BringAHack event in the Big Apple on Friday, September 21st at 9pm at Leaf Bar and Lounge.  <a href="https://www.eventbrite.com/e/bringahack-new-york-with-beagleboardorg-before-maker-faire-tickets-49521195228">Register to hold your place!</a><br>Can't make it in person?  <a href="mailto:%20christi@beagleboard.org">Tell us</a> about your favorite BeagleBoard.org based Hack and be featured in our newsletter. It can be your own project or someone else’s that has been memorable for you.  We hope you’ll enjoy celebrating 10 years of BeagleBoard.org® with us!<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ title: <a href="https://beagleboard.org/blog/2018-09-06-pocketbeagles-for-your-classroom">Great Teaching Ideas Can Receive a Lab of PocketBeagle® boards</a>
+ body: <p><br><img src="https://beagleboard.org/blog/wp-content/uploads/2018/09/10-year-twitter-ad.png"><br><b>Let's Educate!</b>  We are announcing a new program as part of our continued commitment to education in the use of open-source software and hardware. Educators in schools can apply for the opportunity to receive up to 30 <a href="http://beagleboard.org/pocket">PocketBeagle® boards</a> from the BeagleBoard.org® Foundation. The donation of the boards will further project development in the classroom or makerspace. To participate in this opportunity submit a project idea to our <a href="https://beagleboard.org/pocketbeagles-for-your-classroom">online education project form</a>. We look forward to hearing more about your ideas for using PocketBeagle®  in the classroom.<br>Let's Celebrate!  Are you coming to MakerFaire NYC this month?  The celebration of the BeagleBoard.org® community in it's tenth year continues by highlighting Makers!  Join us for a &num;BringAHack event in the Big Apple on Friday, September 21st at 9pm at Leaf Bar and Lounge.  <a href="https://www.eventbrite.com/e/bringahack-new-york-with-beagleboardorg-before-maker-faire-tickets-49521195228">Register to hold your place!</a><br>Can't make it in person?  <a href="mailto:%20christi@beagleboard.org">Tell us</a> about your favorite BeagleBoard.org based Hack and be featured in our newsletter. It can be your own project or someone else’s that has been memorable for you.  We hope you’ll enjoy celebrating 10 years of BeagleBoard.org® with us!<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 events:
  - title: World MakerFaire Education Forum, New York City
    date: September 21, 2018 
    link: https://beagleboard.org/blog/2018-09-05-join-beagleboard-org-at-world-maker-faire-in-new-york-sept-21-23
- - title: BeagleBoard.org 10th Anniversary #BringAHack Event, New York City
+ - title: BeagleBoard.org 10th Anniversary &num;BringAHack Event, New York City
    date: September 21, 2018 
-   link: https://beagleboard.org/blog/2018-09-05-join-beagleboard-org-at-world-maker-faire-in-new-york-sept-21-23
+   link: https://www.eventbrite.com/e/bringahack-new-york-with-beagleboardorg-before-maker-faire-tickets-49521195228
  - title: World MakerFaire, New York City
    date: September 22-23, 2018
    link: https://beagleboard.org/blog/2018-09-05-join-beagleboard-org-at-world-maker-faire-in-new-york-sept-21-23
@@ -29,7 +29,7 @@ articles:
  - title: Join BeagleBoard.org® at World Maker Faire, New York City, Sept 21-23, 2018
    link: https://beagleboard.org/blog/2018-09-05-join-beagleboard-org-at-world-maker-faire-in-new-york-sept-21-23
    body: BeagleBoard.org® is excited to be a sponsor of World Maker Faire® 2018.    Join us!   We’ll be hosting demos at the Education Forum on Friday, Sept 21 and in the Maker Shed on Saturday Sept 22 through Sunday Sept 23.  We’ll be celebrating our 10th Anniversary with a #BringAHack Party Friday evening.  Don’t miss it!
-   image: https://beagleboard.org/blog/wp-content/uploads/2018/09/MFsocial.png
+   image: https://beagleboard.org/blog/wp-content/uploads/2018/09/mf_newyork_seeusthere_625x250.png
  - title: 10 Year Anniversary Classic Project - The Descriptive Camera
    link: https://www.hackster.io/matt-richardson/descriptive-camera-790278
    body: Back in 2012, this camera took the budding idea of crowdsourcing metadata about a picture to an embedded platform.  With features of a regular camera it produces an image using Amazon Mechanical Turk API for a text description output of the scene.
@@ -37,7 +37,7 @@ articles:
  - title: Educator Highlight - Steven F. Barrett, Author, Embedded Systems Educator and Beagle Lover
    link: http://www.uwyo.edu/electrical/faculty-staff/steven-barrett/steve-barrett-main1.jpg
    body: Dr Barrett, a prolific and inspired author of 12 texts combined his love of Beagles and Electronics when the performance and size of  BeagleBone® Black sparked his creative teaching ideas.  Arooooo!
-   image: http://www.uwyo.edu/electrical/faculty-staff/steven-barrett/steve-barrett-main1.jpg
+   image: https://beagleboard.org/blog/wp-content/uploads/2018/09/beagle-edu-cropped_2.jpg
  - title: GSoC 2018 Brings Students and BeagleBoard.org® Mentors Together
    link: https://beagleboard.org/blog/2018-09-11-gsoc-2018
    body: Check out the GSoC 2018 projects mentored by BeagleBoard.org® this summer. Students contributed to open source code with BeagleBoot, BoneScript and BeagleBone® UI and PocketBeagle® Speak & Spell projects.
