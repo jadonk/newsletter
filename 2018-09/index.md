@@ -1,6 +1,6 @@
 ---
 layout: january2017c_layout
-title: 10 Years of BeagleBone
+title: 10 Years of BeagleBoard
 link: https://beagleboard.org/newsletter/2018-09
 feature:
  title: <a href="https://beagleboard.org/blog/2018-09-06-pocketbeagles-for-your-classroom">Great Teaching Ideas Can Receive a Lab of PocketBeagle® boards</a>
