@@ -1,5 +1,5 @@
 ---
-layout: january2017c_layout
+layout: january2017_layout
 title: 10 Years of BeagleBoard
 link: https://beagleboard.org/newsletter/2018-09
 feature:
@@ -15,11 +15,6 @@ events:
  - title: World MakerFaire, New York City
    date: September 22-23, 2018
    link: https://beagleboard.org/blog/2018-09-05-join-beagleboard-org-at-world-maker-faire-in-new-york-sept-21-23
-cape:
- title: Motor Cape
- link: https://beagleboard.org/capes
- body: Motor Cape in stock now!<br>Drive DC motors with direction and PWM control.<br>4x 3A motor outputs up to 46V
- image: https://beagleboard.org/static/images/capes/250px/BeagleBoneMotorCapeA2_Top.png
 book:
  title: Bad to the Bone - Crafting Electronics Systems with BeagleBone Black, Second Edition
  link: https://beagleboard.org/bad-to-the-bone
@@ -52,6 +47,10 @@ topics:
  - title: Qt5 "hello world" how-to on BeagleBone Debian
    link: https://groups.google.com/forum/embed/?place=forum/beaglebone&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss%2F%3Fplace%3Dtopic%2Fbeagleboard%2FoMCYbQgzjQo%2Fdiscussion#!category-topic/beagleboard/software/bGuAcHm0atc
    body: Need to use Qt on an embedded system – check this post for latest getting started
+ - title: Motor Cape
+   link: https://beagleboard.org/capes
+   body: Motor Cape in stock now!<br>Drive DC motors with direction and PWM control.<br>4x 3A motor outputs up to 46V
+   image: https://beagleboard.org/static/images/capes/250px/BeagleBoneMotorCapeA2_Top.png
 projects:
  - title: Bela Mini - Low-Latency Audio + Sensor Cape for PocketBeagle®
    link: http://bbb.io/+1615e0
