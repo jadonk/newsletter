@@ -38,35 +38,35 @@ articles:
    link: https://bbb.io/@2028
    body: World Maker Faire is an inspiring location for meeting with the BeagleBoard.org® community.  Check out the demos, talks and celebrations we shared.  Get started with PocketBeagle® using the educational workshop materials.
    image: https://beagleboard.org/blog/wp-content/uploads/2018/10/01_MFNYboothcrew280_1.jpg
- - title:
-   link:
-   body:
-   image:
+ - title: A
+   link: a
+   body: a
+   image: a
 topics:
- - title:
-   link:
-   body:
- - title:
-   link:
-   body:
- - title:
-   link:
-   body:
+ - title: a
+   link: a
+   body: a
+ - title: a
+   link: a
+   body: a
+ - title: a
+   link: a
+   body: a
 projects:
- - title:
-   link:
-   body:
-   image:
- - title:
-   link:
-   body:
-   image:
- - title:
-   link:
-   body:
-   image:
- - title:
-   link:
-   body:
-   image:
+ - title: a
+   link: a
+   body: a
+   image: a
+ - title: a
+   link: a
+   body: a
+   image: a
+ - title: a
+   link: a
+   body: a
+   image: a
+ - title: a
+   link: a
+   body: a
+   image: a
 ---
