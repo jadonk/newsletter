@@ -21,12 +21,12 @@ cape:
  body: Design on a blank slate of through-holes for soldering plus push buttons, LEDs and I2C.
  image: https://beagleboard.org/static/images/capes/600px/BeagleBoneProtoCapeA2_Top.png
 book:
- title: Exploring BeagleBone<sup>®</sup>, Tools and Techniques for Building with Embedded Linux
+ title: Exploring BeagleBone, Tools and Techniques for Building with Embedded Linux
  link: https://www.amazon.com/Exploring-BeagleBone-Techniques-Building-Embedded/dp/1118935128/
  body: a
  image: https://beagleboard.org/blog/wp-content/uploads/2018/10/Book_Cover_Shadow_300px.jpg
 articles:
- - title: Poursteady: From BeagleBone® Maker Project to Global Coffee Equipment Company
+ - title: Poursteady: From BeagleBone Maker Project to Global Coffee Equipment Company
    link: https://bbb.io/@2075
    body: a
    image: https://beagleboard.org/blog/wp-content/uploads/2018/10/Poursteady-at-show.png
