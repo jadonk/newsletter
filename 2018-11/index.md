@@ -19,12 +19,12 @@ cape:
  title: Proto Cape in stock now!
  link: https://beagleboard.org/capes
  body: Design on a blank slate of through-holes for soldering plus push buttons, LEDs and I2C.
- image: https://beagleboard.org/static/images/capes/600px/BeagleBoneProtoCapeA2_Top.png
+ image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0000.png
 book:
  title: Exploring BeagleBone®, Tools and Techniques for Building with Embedded Linux
  link: https://beagleboard.org/blog/2018-10-21-derek-molloy
  body: <p>By Derek Molloy.<br><br>With hands-on examples and outstanding guidance this book provides detailed instructions for both hardware and software essentials.  From beginner to advanced projects such as IoT and real-time interfacing.</p>
- image: https://beagleboard.org/blog/wp-content/uploads/2018/10/Book_Cover_Shadow_300px.jpg
+ image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0001.jpg
 articles:
  - title: Poursteady - From BeagleBone® Maker Project to Global Coffee Equipment Company
    link: https://beagleboard.org/blog/2018-10-22-poursteady
@@ -33,7 +33,7 @@ articles:
  - title: 10 Year Anniversary Classic Project - Three Story Tall Clock
    link: https://beagleboard.org/p/bigjosh/three-story-tall-clock-final-entry-5ab263
    body: An iconic building-sized digital Rudolph de Harak clock using 129,600 independent RGB LEDs controlled by 72 BeagleBone® Green boards provides an amazing artistic and engineering feat.
-   image: http://beagleboard.org/static/newsletter/images/clock.png
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0002.png
  - title: Educator Highlight - Derek Molloy, Embedded Linux YouTube Rock-Star and Author
    link: https://beagleboard.org/blog/2018-10-21-derek-molloy
    body: Dr Molloy not only teaches students at his local university, he also shares his teaching materials with over one million YouTube viewers.  In this interview, he reveals why and how BeagleBone helps students and instructors succeed.
@@ -41,7 +41,7 @@ articles:
  - title: Empowering Innovative Education & Celebrating Community (Maker Faire NYC)
    link: https://beagleboard.org/blog/2018-10-18-empowering-innovative-education-celebrating-community-maker-faire-nyc
    body: World Maker Faire is an inspiring location for meeting with the BeagleBoard.org® community.  Check out the demos, talks and celebrations we shared.  Get started with PocketBeagle® using the educational workshop materials.
-   image: https://beagleboard.org/blog/wp-content/uploads/2018/10/01_MFNYboothcrew280_1.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0003.jpg
 topics:
  - title: Fresh Debian 9.5 Images
    link: https://beagleboard.org/blog/2018-10-10-fresh-debian-9-5-images
@@ -56,17 +56,17 @@ projects:
  - title: SCUTTLE Mobile Utility Robot 
    link: https://beagleboard.org/p/112547/scuttle-mobile-utility-robot-from-texas-a-m-d6c2b7
    body: Educational Platform from Texas A&M Mechatronics Engineering Technology Program using BeagleBone® Blue
-   image: https://hackster.imgix.net/uploads/attachments/612564/img_e2371_smB8gEhktG.JPG
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0004.JPG
  - title: BeagleBone® Green Wireless Irrigation Control
    link: https://beagleboard.org/p/Greg-R/beaglebone-green-wireless-irrigation-control-ce7c4b
    body: A practical project creating a wireless servo/controller for a home irrigation system.
-   image: https://hackster.imgix.net/uploads/attachments/313268/cover_photo_Iijm9fz1MC.jpg?auto=compress%2Cformat&w=900&h=675&fit=min
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0005.jpg
  - title: BoneScript
    link: http://beagleboard.org/Support/BoneScript
    body: Easy to get started with Physical computing library in JavaScript for Node.JS and the browser
-   image: https://hackster.imgix.net/uploads/attachments/362165/file.png?auto=compress%2Cformat&w=900&h=675&fit=min
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0006.png
  - title: PocketBeagle® Magic 8-ball game with Mikro Click Boards™
    link: https://beagleboard.org/p/103416/magic-8-ball-with-pocketbeagle-and-mikro-click-boards-4f1bb4
    body: Beginner project with PocketBeagle® plus 9-axis motion tracking & OLED add-on boards
-   image: https://hackster.imgix.net/uploads/attachments/517491/8ball_fifa_0q30sui8tl.jpg?auto=compress%2Cformat&w=900&h=675&fit=min
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0007.jpg
 ---
