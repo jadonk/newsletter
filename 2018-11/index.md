@@ -1,6 +1,6 @@
 ---
 layout: november_2018
-title: BeagleBoard.org Enables Success
+title: Enabling Success
 link: https://beagleboard.org/newsletter/2018-11
 feature:
  title: Enabling Success
