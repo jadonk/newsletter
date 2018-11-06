@@ -33,7 +33,7 @@ articles:
  - title: 10 Year Anniversary Classic Project - Three Story Tall Clock
    link: https://beagleboard.org/p/bigjosh/three-story-tall-clock-final-entry-5ab263
    body: An iconic building-sized digital Rudolph de Harak clock using 129,600 independent RGB LEDs controlled by 72 BeagleBone® Green boards provides an amazing artistic and engineering feat.
-   image: https://github.com/beagleboard/newsletter/blob/gh-pages/static/images/clock.png
+   image: http://beagleboard.org/static/newsletter/images/clock.png
  - title: Educator Highlight - Derek Molloy, Embedded Linux YouTube Rock-Star and Author
    link: https://beagleboard.org/blog/2018-10-21-derek-molloy
    body: Dr Molloy not only teaches students at his local university, he also shares his teaching materials with over one million YouTube viewers.  In this interview, he reveals why and how BeagleBone helps students and instructors succeed.
