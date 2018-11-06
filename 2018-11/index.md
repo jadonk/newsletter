@@ -26,9 +26,9 @@ book:
  body: <p>By Derek Molloy.<br><br>With hands-on examples and outstanding guidance this book provides detailed instructions for both hardware and software essentials.  From beginner to advanced projects such as IoT and real-time interfacing.</p>
  image: https://beagleboard.org/blog/wp-content/uploads/2018/10/Book_Cover_Shadow_300px.jpg
 articles:
- - title: Join BeagleBoard.org® at World Maker Faire, New York City, Sept 21-23, 2018
-   link: https://beagleboard.org/blog/2018-09-05-join-beagleboard-org-at-world-maker-faire-in-new-york-sept-21-23
-   body: BeagleBoard.org® is excited to be a sponsor of World Maker Faire® 2018.    Join us!   We’ll be hosting demos and a workshop at the Education Forum on Friday, Sept 21 and in the Maker Shed on Saturday Sept 22 through Sunday Sept 23.  We’ll be celebrating our 10th Anniversary with a #BringAHack Party Friday evening.  Don’t miss it!
+ - title: Poursteady - From BeagleBone® Maker Project to Global Coffee Equipment Company
+   link: https://beagleboard.org/blog/2018-10-22-poursteady
+   body: What started as a World Maker Faire demo became a successful, global, commercial coffee equipment company.  This IoT robotic pour-over coffee machine combines precision motion-control with speed and reliability. 
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-09_0001.png
  - title: 10 Year Anniversary Classic Project - The Descriptive Camera
    link: https://bbb.io/+790278
