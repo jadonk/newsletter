@@ -67,6 +67,6 @@ projects:
    image: https://hackster.imgix.net/uploads/attachments/362165/file.png?auto=compress%2Cformat&w=900&h=675&fit=min
  - title: Magic 8 Ball with PocketBeagle® and Mikro Click Boards™
    link: https://beagleboard.org/p/103416/magic-8-ball-with-pocketbeagle-and-mikro-click-boards-4f1bb4
-   body: Easy getting started project with PocketBeagle® plus 9-axix accelerometer & OLED add-on boards
+   body: Beginner project with PocketBeagle® plus 9-axis motion tracking & OLED add-on boards
    image: https://hackster.imgix.net/uploads/attachments/517491/8ball_fifa_0q30sui8tl.jpg?auto=compress%2Cformat&w=900&h=675&fit=min
 ---
