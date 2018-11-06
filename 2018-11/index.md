@@ -29,10 +29,10 @@ articles:
  - title: Poursteady - From BeagleBone® Maker Project to Global Coffee Equipment Company
    link: https://beagleboard.org/blog/2018-10-22-poursteady
    body: What started as a World Maker Faire demo became a successful, global, commercial coffee equipment company.  This IoT robotic pour-over coffee machine combines precision motion-control with speed and reliability. 
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-09_0001.png
- - title: 10 Year Anniversary Classic Project - The Descriptive Camera
-   link: https://bbb.io/+790278
-   body: Back in 2012, this camera took the budding idea of crowdsourcing metadata about a picture to an embedded platform.  With features of a regular camera it produces an image using Amazon Mechanical Turk API for a text description output of the scene.
+   image: https://beagleboard.org/blog/wp-content/uploads/2018/10/Poursteady-at-show.png
+ - title: 10 Year Anniversary Classic Project - Three Story Tall Clock
+   link: https://beagleboard.org/p/bigjosh/three-story-tall-clock-final-entry-5ab263
+   body: An iconic building-sized digital Rudolph de Harak clock using 129,600 independent RGB LEDs controlled by 72 BeagleBone® Green boards provides an amazing artistic and engineering feat.
    image: https://hackster.imgix.net/uploads/cover_image/file/5576/descriptive-camera-600px.jpg?auto=compress&w=1600&h=1200&fit=min&fm=jpg
  - title: Educator Highlight - Steven F. Barrett, Author, Embedded Systems Educator and Beagle Lover
    link: https://beagleboard.org/blog/2018-09-11-educator-highlight-steven-f-barrett
