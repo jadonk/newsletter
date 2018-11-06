@@ -29,7 +29,7 @@ articles:
  - title: Poursteady - From BeagleBone® Maker Project to Global Coffee Equipment Company
    link: https://beagleboard.org/blog/2018-10-22-poursteady
    body: What started as a World Maker Faire demo became a successful, global, commercial coffee equipment company.  This IoT robotic pour-over coffee machine combines precision motion-control with speed and reliability. 
-   image: https://beagleboard.org/blog/wp-content/uploads/2018/10/Poursteady-at-show.png
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0008.png
  - title: 10 Year Anniversary Classic Project - Three Story Tall Clock
    link: https://beagleboard.org/p/bigjosh/three-story-tall-clock-final-entry-5ab263
    body: An iconic building-sized digital Rudolph de Harak clock using 129,600 independent RGB LEDs controlled by 72 BeagleBone® Green boards provides an amazing artistic and engineering feat.
