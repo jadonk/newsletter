@@ -51,11 +51,11 @@ topics:
    body: Maker Faire Education Day workshop image, examples and slides are now available.
  - title: Harness the Performance of the PRUs
    link: http://beagleboard.org/pru
-   body: The programmabe real-time units (PRUs) are fast 32-bit processors within the AM3358 with single-cycle I/O access.
+   body: The programmable real-time units (PRUs) are fast 32-bit processors within the AM3358 with single-cycle I/O access.
 projects:
- - title: SCUTTLE Mobile Utility Robot from Texas A&M Using BeagleBone® Blue
+ - title: SCUTTLE Mobile Utility Robot 
    link: https://beagleboard.org/p/112547/scuttle-mobile-utility-robot-from-texas-a-m-d6c2b7
-   body: Educational Platform -  Sensing, Connected Utility Transport Taxi for Level Environments (SCUTTLE) made for the Mechatronics Engineering Technology Program.
+   body: Educational Platform from Texas A&M Mechatronics Engineering Technology Program using BeagleBone® Blue
    image: https://hackster.imgix.net/uploads/attachments/612564/img_e2371_smB8gEhktG.JPG
  - title: BeagleBone® Green Wireless Irrigation Control
    link: https://beagleboard.org/p/Greg-R/beaglebone-green-wireless-irrigation-control-ce7c4b
@@ -65,8 +65,8 @@ projects:
    link: http://beagleboard.org/Support/BoneScript
    body: Easy to get started with Physical computing library in JavaScript for Node.JS and the browser
    image: https://hackster.imgix.net/uploads/attachments/362165/file.png?auto=compress%2Cformat&w=900&h=675&fit=min
- - title: Smart Mirror
-   link: http://bbb.io/+559755
-   body: Students at University of Texas built their own custom mirror with BeagleBone® Black and parts from the hardware store.
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-09_0007.JPG
+ - title: Magic 8 Ball with PocketBeagle® and Mikro Click Boards™
+   link: https://beagleboard.org/p/103416/magic-8-ball-with-pocketbeagle-and-mikro-click-boards-4f1bb4
+   body: Easy getting started project with PocketBeagle® plus 9-axix accelerometer & OLED add-on boards
+   image: https://hackster.imgix.net/uploads/attachments/517491/8ball_fifa_0q30sui8tl.jpg?auto=compress%2Cformat&w=900&h=675&fit=min
 ---
