@@ -38,20 +38,20 @@ articles:
    link: https://beagleboard.org/blog/2018-10-21-derek-molloy
    body: Dr Molloy not only teaches students at his local university, he also shares his teaching materials with over one million YouTube viewers.  In this interview, he reveals why and how BeagleBone helps students and instructors succeed.
    image: https://beagleboard.org/blog/wp-content/uploads/2018/10/Screen-Shot-2018-10-19-at-8.33.03-AM.png
- - title: GSoC 2018 Brings Students and BeagleBoard.org® Mentors Together
-   link: https://beagleboard.org/blog/2018-09-11-gsoc-2018
-   body: Check out the GSoC 2018 projects mentored by BeagleBoard.org® this summer. Students contributed to open source code with BeagleBoot, BoneScript and BeagleBone® UI and PocketBeagle® Speak & Spell projects.
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-09_0002.png
+ - title: Empowering Innovative Education & Celebrating Community (Maker Faire NYC)
+   link: https://beagleboard.org/blog/2018-10-18-empowering-innovative-education-celebrating-community-maker-faire-nyc
+   body: World Maker Faire is an inspiring location for meeting with the BeagleBoard.org® community.  Check out the demos, talks and celebrations we shared.  Get started with PocketBeagle® using the educational workshop materials.
+   image: https://beagleboard.org/blog/wp-content/uploads/2018/10/01_MFNYboothcrew280_1.jpg
 topics:
- - title: Adding Headers to Your PocketBeagle®?
-   link: https://groups.google.com/forum/embed/?&parenturl=https%3A%2F%2Fbeagleboard.org%2Fpocket&showsearch=true&showpopout=true&showtabs=true&place=forum/beagleboard#!category-topic/beagleboard/pocketbeagle/Uxx_9ce2YHM
+ - title: Fresh Debian 9.5 Images
+   link: https://beagleboard.org/blog/2018-10-10-fresh-debian-9-5-images
    body: Check out the options discussed in this thread to help with the choices.
  - title: Back to School with Embedded Linux on BeagleBone®
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss%2F%3Fplace%3Dtopic%252Fbeagleboard%252FoMCYbQgzjQo%252Fdiscussion#!category-topic/beagleboard/beaglebone-black/XJeKUBAzivI
    body: Check out with Prof Yoder’s course with materials posted in this thread.
- - title: Qt5 "hello world" how-to on BeagleBone Debian
-   link: https://groups.google.com/forum/embed/?place=forum/beaglebone&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss%2F%3Fplace%3Dtopic%2Fbeagleboard%2FoMCYbQgzjQo%2Fdiscussion#!category-topic/beagleboard/software/bGuAcHm0atc
-   body: Need to use Qt on an embedded system – check this post for latest getting started
+ - title: Adding Headers to Your PocketBeagle®?
+   link: https://groups.google.com/forum/embed/?&parenturl=https%3A%2F%2Fbeagleboard.org%2Fpocket&showsearch=true&showpopout=true&showtabs=true&place=forum/beagleboard#!category-topic/beagleboard/pocketbeagle/Uxx_9ce2YHM
+   body: Check out the options discussed in this thread to help with the choices.
 projects:
  - title: Bela Mini - Low-Latency Audio + Sensor Cape for PocketBeagle®
    link: http://bbb.io/+1615e0
