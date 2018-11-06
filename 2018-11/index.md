@@ -24,7 +24,7 @@ book:
  title: Bad to the Bone - Crafting Electronics Systems with BeagleBone Black, Second Edition
  link: https://beagleboard.org/bad-to-the-bone
  body: <p>By Steven Barrett and Jason Kridner.<br><br>Now in it’s second edition, “Bad to the Bone” covers getting started with the basics of using BeagleBone® Black in a classroom, all the way to complete exercises centered on motivational, fun robot projects.</p>
- image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/newsletter_2018_11_molloybook_80px.jpg
+ image: https://beagleboard.org/blog/wp-content/uploads/2018/10/Book_Cover_Shadow_300px.jpg
 articles:
  - title: Join BeagleBoard.org® at World Maker Faire, New York City, Sept 21-23, 2018
    link: https://beagleboard.org/blog/2018-09-05-join-beagleboard-org-at-world-maker-faire-in-new-york-sept-21-23
