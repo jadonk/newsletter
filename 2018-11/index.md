@@ -49,14 +49,14 @@ topics:
  - title: Getting Started with PocketBeagle® Workshop Materials
    link: https://beagleboard.org/workshop
    body: Maker Faire Education Day workshop image, examples and slides are now available.
- - title: Adding Headers to Your PocketBeagle®?
-   link: https://groups.google.com/forum/embed/?&parenturl=https%3A%2F%2Fbeagleboard.org%2Fpocket&showsearch=true&showpopout=true&showtabs=true&place=forum/beagleboard#!category-topic/beagleboard/pocketbeagle/Uxx_9ce2YHM
-   body: Check out the options discussed in this thread to help with the choices.
+ - title: Harness the Performance of the PRUs
+   link: http://beagleboard.org/pru
+   body: The programmabe real-time units (PRUs) are fast 32-bit processors within the AM3358 with single-cycle I/O access.
 projects:
- - title: Bela Mini - Low-Latency Audio + Sensor Cape for PocketBeagle®
-   link: http://bbb.io/+1615e0
-   body: Bela Mini creates interactive audio projects like musical instruments, sound installations & assistive technology.
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-09_0004.jpg
+ - title: SCUTTLE Mobile Utility Robot from Texas A&M Using BeagleBone® Blue
+   link: https://beagleboard.org/p/112547/scuttle-mobile-utility-robot-from-texas-a-m-d6c2b7
+   body: Educational Platform: Sensing, Connected Utility Transport Taxi for Level Environments (SCUTTLE) made for the Mechatronics Engineering Technology Program.
+   image: https://hackster.imgix.net/uploads/attachments/612564/img_e2371_smB8gEhktG.JPG
  - title: Bipolar Stepper Motor with BeagleBone® Blue
    link: http://bbb.io/+e4950e
    body: BeagleBone® Blue's DC motor drivers can be used to drive bipolar stepper motors too! Pair them up with a little code for open loop control.
