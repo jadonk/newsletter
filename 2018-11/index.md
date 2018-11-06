@@ -8,10 +8,10 @@ feature:
 events:
  - title: Embedded World 2019 Exhibition & Conference, Nuremberg, Germany
    date: February 26-28, 2019 
-   link: https://beagleboard.org/blog/2018-09-05-join-beagleboard-org-at-world-maker-faire-in-new-york-sept-21-23
+   link: https://www.embedded-world.de/en/ausstellerprodukte/embwld19/exhibitor-38827067/beagleboard-org-foundation
  - title: Linux Jumpstart with PocketBeagle Hands-On Workshop at Embedded World
    date: February 27, 2019 
-   link: https://www.eventbrite.com/e/bringahack-new-york-with-beagleboardorg-before-maker-faire-tickets-49521195228
+   link: https://www.embedded-world.de/en/ausstellerprodukte/embwld19/exhibitor-38827067/beagleboard-org-foundation
  - title: Want to schedule a meeting with Jason or Christine?
    date: Schedule online
    link: https://beagleboard.org/about
