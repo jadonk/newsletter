@@ -21,9 +21,9 @@ cape:
  body: Design on a blank slate of through-holes for soldering plus push buttons, LEDs and I2C.
  image: https://beagleboard.org/static/images/capes/600px/BeagleBoneProtoCapeA2_Top.png
 book:
- title: Bad to the Bone - Crafting Electronics Systems with BeagleBone Black, Second Edition
+ title: Exploring BeagleBone®, Tools and Techniques for Building with Embedded Linux
  link: https://beagleboard.org/bad-to-the-bone
- body: <p>By Steven Barrett and Jason Kridner.<br><br>Now in it’s second edition, “Bad to the Bone” covers getting started with the basics of using BeagleBone® Black in a classroom, all the way to complete exercises centered on motivational, fun robot projects.</p>
+ body: <p>By Derek Molloy.<br><br>With hands-on examples Now in it’s second edition, “Bad to the Bone” covers getting started with the basics of using BeagleBone® Black in a classroom, all the way to complete exercises centered on motivational, fun robot projects.</p>
  image: https://beagleboard.org/blog/wp-content/uploads/2018/10/Book_Cover_Shadow_300px.jpg
 articles:
  - title: Join BeagleBoard.org® at World Maker Faire, New York City, Sept 21-23, 2018
