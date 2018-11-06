@@ -12,9 +12,9 @@ events:
  - title: Linux Jumpstart with PocketBeagle Hands-On Workshop at Embedded World
    date: February 27, 2019 
    link: https://www.eventbrite.com/e/bringahack-new-york-with-beagleboardorg-before-maker-faire-tickets-49521195228
- - title: World MakerFaire, New York City
-   date: September 22-23, 2018
-   link: https://beagleboard.org/blog/2018-09-05-join-beagleboard-org-at-world-maker-faire-in-new-york-sept-21-23
+ - title: Want to schedule a meeting with Jason or Christine?
+   date: Schedule online
+   link: https://beagleboard.org/about
 cape:
  title: Proto Cape in stock now!
  link: https://beagleboard.org/capes
