@@ -1,5 +1,5 @@
 ---
-layout: january2017c_layout
+layout: november_2018
 title: BeagleBoard.org Enables Success
 link: https://beagleboard.org/newsletter/2018-11
 feature:
