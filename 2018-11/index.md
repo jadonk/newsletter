@@ -37,7 +37,7 @@ articles:
  - title: Educator Highlight - Derek Molloy, Embedded Linux YouTube Rock-Star and Author
    link: https://beagleboard.org/blog/2018-10-21-derek-molloy
    body: Dr Molloy not only teaches students at his local university, he also shares his teaching materials with over one million YouTube viewers.  In this interview, he reveals why and how BeagleBone helps students and instructors succeed.
-   image: https://beagleboard.org/blog/wp-content/uploads/2018/10/Screen-Shot-2018-10-19-at-8.33.03-AM.png
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0009.png
  - title: Empowering Innovative Education & Celebrating Community (Maker Faire NYC)
    link: https://beagleboard.org/blog/2018-10-18-empowering-innovative-education-celebrating-community-maker-faire-nyc
    body: World Maker Faire is an inspiring location for meeting with the BeagleBoard.org® community.  Check out the demos, talks and celebrations we shared.  Get started with PocketBeagle® using the educational workshop materials.
