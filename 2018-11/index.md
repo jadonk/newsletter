@@ -55,7 +55,7 @@ topics:
 projects:
  - title: SCUTTLE Mobile Utility Robot from Texas A&M Using BeagleBone® Blue
    link: https://beagleboard.org/p/112547/scuttle-mobile-utility-robot-from-texas-a-m-d6c2b7
-   body: Educational Platform: Sensing, Connected Utility Transport Taxi for Level Environments (SCUTTLE) made for the Mechatronics Engineering Technology Program.
+   body: Educational Platform -  Sensing, Connected Utility Transport Taxi for Level Environments (SCUTTLE) made for the Mechatronics Engineering Technology Program.
    image: https://hackster.imgix.net/uploads/attachments/612564/img_e2371_smB8gEhktG.JPG
  - title: Bipolar Stepper Motor with BeagleBone® Blue
    link: http://bbb.io/+e4950e
