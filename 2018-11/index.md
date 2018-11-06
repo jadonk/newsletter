@@ -69,4 +69,3 @@ projects:
    link: http://bbb.io/+559755
    body: Students at University of Texas built their own custom mirror with BeagleBone® Black and parts from the hardware store.
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-09_0007.JPG
-
