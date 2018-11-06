@@ -45,10 +45,10 @@ articles:
 topics:
  - title: Fresh Debian 9.5 Images
    link: https://beagleboard.org/blog/2018-10-10-fresh-debian-9-5-images
-   body: Check out the options discussed in this thread to help with the choices.
- - title: Back to School with Embedded Linux on BeagleBone®
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss%2F%3Fplace%3Dtopic%252Fbeagleboard%252FoMCYbQgzjQo%252Fdiscussion#!category-topic/beagleboard/beaglebone-black/XJeKUBAzivI
-   body: Check out with Prof Yoder’s course with materials posted in this thread.
+   body: Download a new image for fixes for zero-install drivers on Windows 10 and much more!
+ - title: Getting Started with PocketBeagle® Workshop Materials
+   link: https://beagleboard.org/workshop
+   body: Maker Faire Education Day workshop image, examples and slides are now available.
  - title: Adding Headers to Your PocketBeagle®?
    link: https://groups.google.com/forum/embed/?&parenturl=https%3A%2F%2Fbeagleboard.org%2Fpocket&showsearch=true&showpopout=true&showtabs=true&place=forum/beagleboard#!category-topic/beagleboard/pocketbeagle/Uxx_9ce2YHM
    body: Check out the options discussed in this thread to help with the choices.
