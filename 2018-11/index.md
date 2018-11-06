@@ -57,14 +57,14 @@ projects:
    link: https://beagleboard.org/p/112547/scuttle-mobile-utility-robot-from-texas-a-m-d6c2b7
    body: Educational Platform -  Sensing, Connected Utility Transport Taxi for Level Environments (SCUTTLE) made for the Mechatronics Engineering Technology Program.
    image: https://hackster.imgix.net/uploads/attachments/612564/img_e2371_smB8gEhktG.JPG
- - title: Bipolar Stepper Motor with BeagleBone® Blue
-   link: http://bbb.io/+e4950e
-   body: BeagleBone® Blue's DC motor drivers can be used to drive bipolar stepper motors too! Pair them up with a little code for open loop control.
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-09_0005.JPG
- - title: PocketBeagle® Automatic Light Switch
-   link: http://bbb.io/+f0588f
-   body: Beginner project creates an automatic light switch using a simple servo, PocketBeagle® and PIR motion sensor!
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-09_0006.PNG
+ - title: BeagleBone® Green Wireless Irrigation Control
+   link: https://beagleboard.org/p/Greg-R/beaglebone-green-wireless-irrigation-control-ce7c4b
+   body: A practical project creating a wireless servo/controller for a home irrigation system.
+   image: https://hackster.imgix.net/uploads/attachments/313268/cover_photo_Iijm9fz1MC.jpg?auto=compress%2Cformat&w=900&h=675&fit=min
+ - title: BoneScript
+   link: http://beagleboard.org/Support/BoneScript
+   body: Easy to get started with Physical computing library in JavaScript for Node.JS and the browser
+   image: https://hackster.imgix.net/uploads/attachments/362165/file.png?auto=compress%2Cformat&w=900&h=675&fit=min
  - title: Smart Mirror
    link: http://bbb.io/+559755
    body: Students at University of Texas built their own custom mirror with BeagleBone® Black and parts from the hardware store.
