@@ -34,10 +34,10 @@ articles:
    link: https://beagleboard.org/p/bigjosh/three-story-tall-clock-final-entry-5ab263
    body: An iconic building-sized digital Rudolph de Harak clock using 129,600 independent RGB LEDs controlled by 72 BeagleBone® Green boards provides an amazing artistic and engineering feat.
    image: https://hackster.imgix.net/uploads/cover_image/file/5576/descriptive-camera-600px.jpg?auto=compress&w=1600&h=1200&fit=min&fm=jpg
- - title: Educator Highlight - Steven F. Barrett, Author, Embedded Systems Educator and Beagle Lover
-   link: https://beagleboard.org/blog/2018-09-11-educator-highlight-steven-f-barrett
-   body: Dr Barrett, a prolific and inspired author of 12 texts combined his love of Beagles and Electronics when the performance and size of  BeagleBone® Black sparked his creative teaching ideas.  Arooooo!
-   image: https://beagleboard.org/blog/wp-content/uploads/2018/09/beagle-edu-cropped_2.jpg
+ - title: Educator Highlight - Derek Molloy, Embedded Linux YouTube Rock-Star and Author
+   link: https://beagleboard.org/blog/2018-10-21-derek-molloy
+   body: Dr Molloy not only teaches students at his local university, he also shares his teaching materials with over one million YouTube viewers.  In this interview, he reveals why and how BeagleBone helps students and instructors succeed.
+   image: https://beagleboard.org/blog/wp-content/uploads/2018/10/Screen-Shot-2018-10-19-at-8.33.03-AM.png
  - title: GSoC 2018 Brings Students and BeagleBoard.org® Mentors Together
    link: https://beagleboard.org/blog/2018-09-11-gsoc-2018
    body: Check out the GSoC 2018 projects mentored by BeagleBoard.org® this summer. Students contributed to open source code with BeagleBoot, BoneScript and BeagleBone® UI and PocketBeagle® Speak & Spell projects.
