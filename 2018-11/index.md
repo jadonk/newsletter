@@ -4,9 +4,9 @@ title: Enabling Success
 link: https://beagleboard.org/newsletter/2018-11
 feature:
  title: Enabling Success
- body: <p><b>Eureka!</b> Εύρηκα, in Greek, is an exclamation we often use to celebrate the success of a discovery or invention. Its first use is attributed to ancient Greek mathematician and inventor Archimedes.</p><p>One of the greatest feelings an inventor can experience is that moment when something works, when the code is de-bugged, when the pieces come together. Enabling success, supporting invention, and encouraging entrepreneurship is the foundation of the BeagleBoard.org community. Open Source hardware and software is by its very nature a place for creativity to blossom into successful invention.</p><p>We’ve recently attended <a href="https://beagleboard.org/blog/2018-10-18-empowering-innovative-education-celebrating-community-maker-faire-nyc">Maker Faire New York</a>, a great place to interact with creative inventors and educators of all ages, backgrounds, and experience levels. In this month’s dish, learn more about community members who have taken their ideas to great heights, like the <a href="https://bbb.io/+5ab263">three story tall clock</a>, or around the world, like the successful <a href="https://beagleboard.org/blog/2018-10-22-poursteady">coffee equipment company</a> who got their start at a Maker Faire. We celebrate these, and also that spark when a student shouts “Eureka!” after lighting their first LED.<br /><p>Educators, please remember to apply by November 29, 2018 for a free donation of up to 30 <a href="https://beagleboard.org/pocketbeagles-for-your-classroom">PocketBeagles® for your classroom.</a> You can participate by submitting a project. Email me at <a href="christi@beagleboard.org">christi@beagleboard.org</a> for more information.  We look forward to helping you to success.<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ body: <p><b>Eureka!</b>, Εύρηκα in Greek, is an exclamation we often use to celebrate the success of a discovery or invention. Its first use is attributed to ancient Greek mathematician and inventor Archimedes.</p><p>One of the greatest feelings an inventor can experience is that moment when something works, when the code is de-bugged, when the pieces come together. Enabling success, supporting invention, and encouraging entrepreneurship is the foundation of the BeagleBoard.org community. Open Source hardware and software is by its very nature a place for creativity to blossom into successful invention.</p><p>We’ve recently attended <a href="https://beagleboard.org/blog/2018-10-18-empowering-innovative-education-celebrating-community-maker-faire-nyc">Maker Faire New York</a>, a great place to interact with creative inventors and educators of all ages, backgrounds, and experience levels. In this month’s dish, learn more about community members who have taken their ideas to great heights, like the <a href="https://bbb.io/+5ab263">three story tall clock</a>, or around the world, like the successful <a href="https://beagleboard.org/blog/2018-10-22-poursteady">coffee equipment company</a> who got their start at a Maker Faire. We celebrate these, and also that spark when a student shouts “Eureka!” after lighting their first LED.<br />Educators, please remember to apply by November 29, 2018 for a free donation of up to 30 <a href="https://beagleboard.org/pocketbeagles-for-your-classroom">PocketBeagles® for your classroom.</a> You can participate by submitting a project. Email me at <a href="christi@beagleboard.org">christi@beagleboard.org</a> for more information.  We look forward to helping you to success.<br />&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 events:
- - title: Embedded World 2019 Exhibition & Conference, Nuremberg, Germany
+ - title: Embedded World 2019 Exhibition &amp; Conference, Nuremberg, Germany
    date: February 26-28, 2019 
    link: https://www.embedded-world.de/en/ausstellerprodukte/embwld19/exhibitor-38827067/beagleboard-org-foundation
  - title: Linux Hands-On Workshop with PocketBeagle at Embedded World
@@ -23,7 +23,7 @@ cape:
 book: # We should probably create an Amazon Smile affiliate link for future books
  title: Exploring BeagleBone®, Tools and Techniques for Building with Embedded Linux
  link: https://bbb.io/@2057
- body: <p>By Derek Molloy.<br><br>With hands-on examples and outstanding guidance this book provides detailed instructions for both hardware and software essentials.  From beginner to advanced projects such as IoT and real-time interfacing.</p>
+ body: <p>By Derek Molloy<br /><br />With hands-on examples and outstanding guidance this book provides detailed instructions for both hardware and software essentials.  From beginner to advanced projects such as IoT and real-time interfacing.</p>
  image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0001.jpg
 articles: # Be sure to use links that start with bbb.io/@
  - title: Poursteady - From BeagleBone® Maker Project to Global Coffee Equipment Company
@@ -38,7 +38,7 @@ articles: # Be sure to use links that start with bbb.io/@
    link: https://bbb.io/@2057
    body: Dr Molloy not only teaches students at his local university, he also shares his teaching materials with over one million YouTube viewers.  In this interview, he reveals why and how BeagleBone helps students and instructors succeed.
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0009.png
- - title: Empowering Innovative Education & Celebrating Community (Maker Faire NYC)
+ - title: Empowering Innovative Education &amp; Celebrating Community (Maker Faire NYC)
    link: https://bbb.io/@2028
    body: World Maker Faire is an inspiring location for meeting with the BeagleBoard.org® community.  Check out the demos, talks and celebrations we shared.  Get started with PocketBeagle® using the educational workshop materials.
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0003.jpg
@@ -55,7 +55,7 @@ topics: # Be sure to use links that start with beagleboard.org/discuss
 projects: # Use links that start with bbb.io/+
  - title: SCUTTLE Mobile Utility Robot 
    link: https://bbb.io/+d6c2b7
-   body: Educational Platform from Texas A&M Mechatronics Engineering Technology Program using BeagleBone® Blue
+   body: Educational Platform from Texas A&amp;M Mechatronics Engineering Technology Program using BeagleBone® Blue
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0004.JPG
  - title: BeagleBone® Green Wireless Irrigation Control
    link: https://bbb.io/+ce7c4b
@@ -67,6 +67,6 @@ projects: # Use links that start with bbb.io/+
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0006.png
  - title: PocketBeagle® Magic 8-ball game with MikroElektronika’s click boards™
    link: https://bbb.io/+4f1bb4
-   body: Beginner project with PocketBeagle® plus 9-axis motion tracking & OLED add-on boards
+   body: Beginner project with PocketBeagle® plus 9-axis motion tracking &amp; OLED add-on boards
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0007.jpg
 ---
