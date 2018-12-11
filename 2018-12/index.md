@@ -24,23 +24,23 @@ feature:
 events:
  - title: Embedded World 2019 Exhibition &amp; Conference, Nuremberg, Germany
    date: February 26-28, 2019 
-   link: https://www.embedded-world.de/en/ausstellerprodukte/embwld19/exhibitor-38827067/beagleboard-org-foundation
+   link: https://beagleboard.org/show/ew/
  - title: Linux Hands-On Workshop with PocketBeagle at Embedded World
    date: February 27, 2019 
-   link: https://www.embedded-world.eu/program.html
+   link: https://beagleboard.org/show/ew/
  - title: Want to schedule a meeting with Jason or Christine?
    date: Schedule online
-   link: https://www.embedded-world.de/en/ausstellerprodukte/embwld19/exhibitor-38827067/beagleboard-org-foundation#exhibitorcontact
+   link: https://beagleboard.org/show/ew/
 #
 # Cape
 #
 # The latest featured cape. Must be readily available.
 #
 cape:
- title: Proto Cape in stock now!
+ title: Comm Cape in stock now!
  link: https://beagleboard.org/capes
- body: Design on a blank slate of through-holes for soldering plus push buttons, LEDs and I2C.
- image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0000.png
+ body: For industrial communication applications includes one RS485, one CAN, two analog 4–20 mA current loops, and two 3A 50V interfaces
+ image: https://beagleboard.org/static/images/capes/600px/BeagleBoneCommsCapeA2_Top.png
 #
 # Book
 #
@@ -49,10 +49,10 @@ cape:
 # TODO: We should probably create an Amazon Smile affiliate link for future books.
 #
 book:
- title: Exploring BeagleBone®, Tools and Techniques for Building with Embedded Linux
- link: https://bbb.io/@2057
- body: <p>By Derek Molloy<br /><br />With hands-on examples and outstanding guidance this book provides detailed instructions for both hardware and software essentials.  From beginner to advanced projects such as IoT and real-time interfacing.</p>
- image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0001.jpg
+ title: Exploring BeagleBone®, Tools and Techniques for Building with Embedded Linux, 2nd Edition
+ link: https://beagleboard.org/blog/2018-12-11-molloy-new-book
+ body: <p>By Derek Molloy.<br><br>This popular book has now been updated to include both the PocketBeagle® and BeagleBone® Wireless in a second edition 20% larger than the first while detailing more well explained examples and applications.</p>
+ image: https://beagleboard.org/blog/wp-content/uploads/2018/12/molloy-new-book-1.jpg
 #
 # Articles
 #
@@ -61,19 +61,19 @@ book:
 # Try to use the short URLs that start with bbb.io/@
 #
 articles:
- - title: Poursteady - From BeagleBone® Maker Project to Global Coffee Equipment Company
-   link: https://bbb.io/@2075
-   body: What started as a World Maker Faire demo became a successful, global, commercial coffee equipment company.  This IoT robotic pour-over coffee machine combines precision motion-control with speed and reliability. 
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0008.png
- - title: 10 Year Anniversary Classic Project - Three Story Tall Clock
-   link: https://bbb.io/+5ab263
-   body: An iconic building-sized digital Rudolph de Harak clock using 129,600 independent RGB LEDs controlled by 72 BeagleBone<sup>®</sup> Green boards provides an amazing artistic and engineering feat.
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0002.png
- - title: Educator Highlight - Derek Molloy, Embedded Linux YouTube Rock-Star and Author
-   link: https://bbb.io/@2057
-   body: Dr Molloy not only teaches students at his local university, he also shares his teaching materials with over one million YouTube viewers.  In this interview, he reveals why and how BeagleBone helps students and instructors succeed.
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0009.png
- - title: Empowering Innovative Education &amp; Celebrating Community (Maker Faire NYC)
+ - title: Light Up Your Holidays With PocketBeagle®
+   link: https://beagleboard.org/blog/2018-11-26-pocketbeagle-holiday
+   body: Master LEDs with easy BeagleBoard.org® Holiday projects.  From simple strands and matrices to complete home installations, a variety of programming methods help you get started.
+   image: https://beagleboard.org/blog/wp-content/uploads/2018/12/christmas-beagle-300x250.png
+ - title: 10 Year Anniversary Classic Project - BeagleBoard® Iron Man Suit Has 7 Million Viewers and Counting
+   link: https://beagleboard.org/p/moya-edge/iron-man-suit-with-tech-c8381c
+   body: Fueled by an energetic and creative father-son team, this project from 2008 brings engineering into superhero status.
+   image: hhttps://cdn.instructables.com/FGO/3ZRL/FN82TZ9A/FGO3ZRLFN82TZ9A.LARGE.jpg?auto=webp&width=467
+ - title: Educator Highlight - Derek Molloy, Teaching With PocketBeagle® and More With New Book Edition
+   link: https://beagleboard.org/blog/2018-12-11-molloy-new-book
+   body: In part 2 of our interview with Professor Molloy, he shares insights in choosing and incorporating new hardware into the classroom as well as revealing a new book revision, the first to incorporate PocketBeagle®.
+   image: https://beagleboard.org/blog/wp-content/uploads/2018/12/molloy-new-book-1.jpg
+ - title: blank - can I just delete
    link: https://bbb.io/@2028
    body: World Maker Faire is an inspiring location for meeting with the BeagleBoard.org<sup>®</sup> community.  Check out the demos, talks and celebrations we shared.  Get started with PocketBeagle<sup>®</sup> using the educational workshop materials.
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0003.jpg
@@ -85,15 +85,15 @@ articles:
 # Be sure to use links that start with beagleboard.org/discuss. You can grab the links from there.
 #
 topics:
- - title: Fresh Debian 9.5 Images
-   link: http://beagleboard.org/discuss/?place=msg%2Fbeagleboard%2FMrzyszcXaok%2F6yZRIEMABQAJ
-   body: Download a new image for fixes for zero-install drivers on Windows 10 and much more!
- - title: Getting Started with PocketBeagle® Workshop Materials
-   link: http://beagleboard.org/discuss?place=msg%2Fbeagleboard%2FLQfU-NawsAY%2FQ84qczr_BAAJ
-   body: Maker Faire Education Day workshop image, examples and slides are now available.
- - title: Getting started with PRU
-   link: http://beagleboard.org/discuss?place=msg%2Fbeagleboard%2FYFBBEeAaXek%2FOcd36ksiGAAJ
-   body: The programmable real-time units (PRUs) are fast 32-bit processors within the AM3358 with single-cycle I/O access.
+ - title: Ideas for Google Summer of Code 2019
+   link: https://beagleboard.org/discuss?place=msg%2Fbeagleboard%2Fo-hFtWPUPeM%2FaiC1hDPnBQAJ
+   body: BeagleBoard.org® is looking for mentors and project ideas for Google Summer of Code 2019,  Join us!
+ - title: How to use Reserved Memory in Device Tree
+   link: http://beagleboard.org/discuss?place=topic%2Fbeagleboard%2FTAt0FWV5nxk%2Fdiscussion
+   body: Read this community thread from 5 users to gain insight into device tree use.
+ - title: Autorun on boot with Systemd
+   link: http://beagleboard.org/discuss?place=msg%2Fbeagleboard%2FgoOORlttd2c%2FJtNjeXlmCAAJ
+   body: Wanting to launch a GUI on autorun on boot, check out this rich discussion with 4 members
 #
 # Projects
 #
