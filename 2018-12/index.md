@@ -62,15 +62,15 @@ book:
 #
 articles:
  - title: Light Up Your Holidays With PocketBeagle®
-   link: https://beagleboard.org/blog/2018-11-26-pocketbeagle-holiday
+   link: https://bbb.io/@2094
    body: Master LEDs with easy BeagleBoard.org® Holiday projects.  From simple strands and matrices to complete home installations, a variety of programming methods help you get started.
    image: https://beagleboard.org/blog/wp-content/uploads/2018/12/christmas-beagle-300x250.png
  - title: 10 Year Anniversary Classic Project - BeagleBoard® Iron Man Suit Has 7 Million Viewers and Counting
    link: https://beagleboard.org/p/moya-edge/iron-man-suit-with-tech-c8381c
    body: Fueled by an energetic and creative father-son team, this project from 2008 brings engineering into superhero status.
-   image: hhttps://cdn.instructables.com/FGO/3ZRL/FN82TZ9A/FGO3ZRLFN82TZ9A.LARGE.jpg?auto=webp&width=467
+   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/ironman-280pix.png
  - title: Educator Highlight - Derek Molloy, Teaching With PocketBeagle® and More With New Book Edition
-   link: https://beagleboard.org/blog/2018-12-11-molloy-new-book 
+   link: https://bbb.io/@2113
    body: In part 2 of our interview with Professor Molloy, he shares insights in choosing and incorporating new hardware into the classroom as well as revealing a new book revision, the first to incorporate PocketBeagle®.
    image: https://beagleboard.org/blog/wp-content/uploads/2018/12/molloy-new-book-1.jpg
 #
