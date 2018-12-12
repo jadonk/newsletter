@@ -72,7 +72,7 @@ articles:
  - title: Educator Highlight - Derek Molloy, Teaching With PocketBeagle® and More With New Book Edition
    link: https://bbb.io/@2113
    body: In part 2 of our interview with Professor Molloy, he shares insights in choosing and incorporating new hardware into the classroom as well as revealing a new book revision, the first to incorporate PocketBeagle®.
-   image: https://beagleboard.org/blog/wp-content/uploads/2018/12/molloy-new-book-1.jpg
+   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/molloy-collage-280px.png
 #
 # Community Topics
 #
