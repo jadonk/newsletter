@@ -106,7 +106,7 @@ projects:
  - title: PocketBeagle® Motion Controlled Wreath Welcomes Visitors
    link: https://bbb.io/+e568c4
    body: A motion sensor plus PocketBeagle® will light up the Holidays when visitors arrive. This phython project is a great starter to build on.
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0005.jpg
+   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/wreath-280.png
  - title: Coffee Heater
    link: https://bbb.io/+cbc2ff
    body: Keep Santa's cocoa or coffee at the perfect temperature this Holiday Season by building your own drink warmer with PocketBeagle®
