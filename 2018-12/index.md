@@ -14,7 +14,7 @@ link: https://beagleboard.org/newsletter/2018-12
 # This is the key message at the beginning of the newsletter
 #
 feature:
- title: Tis the Season, For Community
+ title: Tis the Season For Community
  body: It’s always around the holidays people take a little extra time to express gratitude and also excitement about the upcoming year. We here at BeagleBoard.org want to say <b>Thanks!</b> too.  <a href="https://www.youtube.com/watch?v=_akd9dRLTbs"> Thanks for celebrating 10 years of community building with us</a> and embracing our development platforms with your creative minds.  Thanks for supporting BeagleBoard.org’s OpenSource hardware and software vision allowing us to continue to learn and grow.</p>In 2019 we are excited to help expand the potential of OpenSource hardware and software, help educators get function-able materials into the classrooms, and to help industry leaders actualize their goals.  We would love to hear about your ideas for the new year and how BeagleBoard.org can help.</p>Join us at one of the many meet-ups or conferences in 2019, starting with Embedded World in Germany in February or email me at <a href="christi@beagleboard.org">christi@beagleboard.org</a> <br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
@@ -49,7 +49,7 @@ cape:
 # TODO: We should probably create an Amazon Smile affiliate link for future books.
 #
 book:
- title: Exploring BeagleBone®, Tools and Techniques for Building with Embedded Linux, 2nd Edition
+ title: Exploring BeagleBone® Tools and Techniques for Building with Embedded Linux 2nd Edition
  link: https://bbb.io/@2113
  body: <p>By Derek Molloy.<br><br>This popular book has now been updated to include both the PocketBeagle® and BeagleBone® Wireless in a second edition 20 percent larger than the first while detailing more well explained examples and applications.</p>
  image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/HotoffthepressesDec18.jpg
@@ -65,11 +65,11 @@ articles:
    link: https://bbb.io/@2094
    body: Master LEDs with easy BeagleBoard.org® Holiday projects.  From simple strands and matrices to complete home installations, a variety of programming methods help you get started.
    image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/christmas-beagle-280px.png
- - title: 10 Year Anniversary Classic Project - BeagleBoard® Iron Man Suit Has 7 Million Viewers and Counting
+ - title: 10 Year Anniversary Classic Project BeagleBoard® Iron Man Suit Has 7 Million Viewers and Counting
    link: https://bbb.io/c8381c
    body: Fueled by an energetic and creative father-son team, this project from 2008 brings engineering into superhero status.
    image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/ironman-280pix.png
- - title: Educator Highlight - Derek Molloy, Teaching With PocketBeagle® and More With New Book Edition
+ - title: Educator Highlight Derek Molloy, Teaching With PocketBeagle® and More With New Book Edition
    link: https://bbb.io/@2113
    body: In part 2 of our interview with Professor Molloy, he shares insights in choosing and incorporating new hardware into the classroom as well as revealing a new book revision, the first to incorporate PocketBeagle®.
    image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/molloy-collage-280px.png
@@ -81,7 +81,7 @@ articles:
 # Be sure to use links that start with beagleboard.org/discuss. You can grab the links from there.
 #
 topics:
- - title: Wanted, Ideas for Google Summer of Code 2019
+ - title: Wanted Ideas for Google Summer of Code 2019
    link: https://beagleboard.org/discuss?place=msg%2Fbeagleboard%2Fo-hFtWPUPeM%2FaiC1hDPnBQAJ
    body: BeagleBoard.org® is looking for mentors and project ideas for Google Summer of Code 2019,  Join us!
  - title: How to use Reserved Memory in Device Tree
