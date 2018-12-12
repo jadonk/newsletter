@@ -52,7 +52,7 @@ book:
  title: Exploring BeagleBone®, Tools and Techniques for Building with Embedded Linux, 2nd Edition
  link: https://beagleboard.org/blog/2018-12-11-molloy-new-book
  body: <p>By Derek Molloy.<br><br>This popular book has now been updated to include both the PocketBeagle® and BeagleBone® Wireless in a second edition 20% larger than the first while detailing more well explained examples and applications.</p>
- image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/molloy%20article%20graphic_280px.png
+ image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/Hotoffthepresses_Dec18.jpg
 #
 # Articles
 #
