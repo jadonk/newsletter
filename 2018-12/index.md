@@ -102,7 +102,7 @@ projects:
  - title: Christmas Countdown Clock
    link: https://bbb.io/+fc70c7
    body: Anticipate the holidays with BeagleBoard.org® PocketBeagle® with PocketScroller Cape, Falcon Player (FPP) and an RGB LED Matrix.
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0004.JPG
+   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/christmas%20clock_280pix.jpg
  - title: PocketBeagle® Motion Controlled Wreath Welcomes Visitors
    link: https://bbb.io/+e568c4
    body: A motion sensor plus PocketBeagle® will light up the Holidays when visitors arrive. This phython project is a great starter to build on.
