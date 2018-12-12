@@ -100,19 +100,19 @@ topics:
 #
 projects:
  - title: Christmas Countdown Clock
-   link: https://bbb.io/+d6c2b7
+   link: https://bbb.io/+fc70c7
    body: Anticipate the holidays with BeagleBoard.org® PocketBeagle® with PocketScroller Cape, Falcon Player (FPP) and an RGB LED Matrix.
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0004.JPG
  - title: PocketBeagle® Motion Controlled Wreath Welcomes Visitors
-   link: https://bbb.io/+ce7c4b
+   link: https://bbb.io/+e568c4
    body: A motion sensor plus PocketBeagle® will light up the Holidays when visitors arrive. This phython project is a great starter to build on.
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0005.jpg
  - title: Coffee Heater
-   link: https://bbb.io/+b90401
+   link: https://bbb.io/+cbc2ff
    body: Keep Santa's cocoa or coffee at the perfect temperature this Holiday Season by building your own drink warmer with PocketBeagle®
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0006.png
  - title: PocketBeagle® Wearable Tops Off Your Holidays
    link: https://bbb.io/+fd7a55
    body: Crazy Christmas Sweaters and other wearable projects are easy to make thanks to the small size and price of PocketBeagle®
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0007.jpg
+   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/christmaswearable-280px.png
 ---
