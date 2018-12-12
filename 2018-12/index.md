@@ -40,7 +40,7 @@ cape:
  title: Comm Cape in stock now!
  link: https://beagleboard.org/capes
  body: For industrial communication applications includes one RS485, one CAN, two analog 4–20 mA current loops, and two 3A 50V interfaces
- image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/comms-cape-80px.png
+ image: https://cathywicks.github.io/newsletter/static/images/comms-cape-80px.png
 #
 # Book
 #
@@ -52,7 +52,7 @@ book:
  title: Exploring BeagleBone® Tools and Techniques for Building with Embedded Linux 2nd Edition
  link: https://bbb.io/@2113
  body: <p>By Derek Molloy.<br><br>This popular book has now been updated to include both the PocketBeagle® and BeagleBone® Wireless in a second edition 20 percent larger than the first while detailing more well explained examples and applications.</p>
- image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/HotoffthepressesDec18.jpg
+ image: https://cathywicks.github.io/newsletter/static/images/HotoffthepressesDec18.jpg
 #
 # Articles
 #
@@ -64,15 +64,15 @@ articles:
  - title: Light Up Your Holidays With PocketBeagle®
    link: https://bbb.io/@2094
    body: Master LEDs with easy BeagleBoard.org® Holiday projects.  From simple strands and matrices to complete home installations, a variety of programming methods help you get started.
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/christmas-beagle-280px.png
+   image: https://cathywicks.github.io/newsletter/static/images/christmas-beagle-280px.png
  - title: 10 Year Anniversary Classic Project BeagleBoard® Iron Man Suit Has 7 Million Viewers and Counting
    link: https://bbb.io/c8381c
    body: Fueled by an energetic and creative father-son team, this project from 2008 brings engineering into superhero status.
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/ironman-280pix.png
+   image: https://cathywicks.github.io/newsletter/static/images/ironman-280pix.png
  - title: Educator Highlight Derek Molloy, Teaching With PocketBeagle® and More With New Book Edition
    link: https://bbb.io/@2113
    body: In part 2 of our interview with Professor Molloy, he shares insights in choosing and incorporating new hardware into the classroom as well as revealing a new book revision, the first to incorporate PocketBeagle®.
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/molloy-collage-280px.png
+   image: https://cathywicks.github.io/newsletter/static/images/molloy-collage-280px.png
 #
 # Community Topics
 #
@@ -102,11 +102,11 @@ projects:
  - title: Christmas Countdown Clock
    link: https://bbb.io/+fc70c7
    body: Anticipate the holidays with BeagleBoard.org® PocketBeagle® with PocketScroller Cape, Falcon Player (FPP) and an RGB LED Matrix.
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/christmas%20clock_280pix.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/christmas%20clock_280pix.jpg
  - title: PocketBeagle® Motion Controlled Wreath Welcomes Visitors
    link: https://bbb.io/+e568c4
    body: A motion sensor plus PocketBeagle® will light up the Holidays when visitors arrive. This phython project is a great starter to build on.
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/wreath-280.png
+   image: https://cathywicks.github.io/newsletter/static/images/wreath-280.png
  - title: Coffee Heater
    link: https://bbb.io/+cbc2ff
    body: Keep Santa's cocoa or coffee at the perfect temperature this Holiday Season by building your own drink warmer with PocketBeagle®
@@ -114,5 +114,5 @@ projects:
  - title: PocketBeagle® Wearable Tops Off Your Holidays
    link: https://bbb.io/+fd7a55
    body: Crazy Christmas Sweaters and other wearable projects are easy to make thanks to the small size and price of PocketBeagle®
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/christmaswearable-280px.png
+   image: https://cathywicks.github.io/newsletter/static/images/christmaswearable-280px.png
 ---
