@@ -110,7 +110,7 @@ projects:
  - title: Coffee Heater
    link: https://bbb.io/+cbc2ff
    body: Keep Santa's cocoa or coffee at the perfect temperature this Holiday Season by building your own drink warmer with PocketBeagle®
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0006.png
+   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/coffeewarmerproject-280.jpg
  - title: PocketBeagle® Wearable Tops Off Your Holidays
    link: https://bbb.io/+fd7a55
    body: Crazy Christmas Sweaters and other wearable projects are easy to make thanks to the small size and price of PocketBeagle®
