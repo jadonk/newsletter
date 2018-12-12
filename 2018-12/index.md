@@ -112,7 +112,7 @@ projects:
    body: Keep Santa's cocoa or coffee at the perfect temperature this Holiday Season by building your own drink warmer with PocketBeagle®
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0006.png
  - title: PocketBeagle® Wearable Tops Off Your Holidays
-   link: https://bbb.io/+4f1bb4
+   link: https://bbb.io/+fd7a55
    body: Crazy Christmas Sweaters and other wearable projects are easy to make thanks to the small size and price of PocketBeagle®
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0007.jpg
 ---
