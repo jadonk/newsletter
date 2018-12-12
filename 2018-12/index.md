@@ -75,7 +75,7 @@ articles:
    image: https://beagleboard.org/blog/wp-content/uploads/2018/12/molloy-new-book-1.jpg
  - title: blank - can I just delete
    link: https://bbb.io/@2028
-   body: World Maker Faire is an inspiring location for meeting with the BeagleBoard.org<sup>®</sup> community.  Check out the demos, talks and celebrations we shared.  Get started with PocketBeagle<sup>®</sup> using the educational workshop materials.
+   body: World Maker Faire is an inspiring location for meeting with the BeagleBoard.org community.  Check out the demos, talks and celebrations we shared.  Get started with PocketBeagle<sup>®</sup> using the educational workshop materials.
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0003.jpg
 #
 # Community Topics
