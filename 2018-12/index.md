@@ -5,9 +5,9 @@
 # 
 # Look for comments as you go along
 #
-layout: november_2018
-title: Enabling Success
-link: https://beagleboard.org/newsletter/2018-11
+layout: december_2018
+title: Tis the Season
+link: https://beagleboard.org/newsletter/2018-12
 #
 # Feature
 #
@@ -85,7 +85,7 @@ articles:
 # Be sure to use links that start with beagleboard.org/discuss. You can grab the links from there.
 #
 topics:
- - title: Ideas for Google Summer of Code 2019
+ - title: Wanted: Ideas for Google Summer of Code 2019
    link: https://beagleboard.org/discuss?place=msg%2Fbeagleboard%2Fo-hFtWPUPeM%2FaiC1hDPnBQAJ
    body: BeagleBoard.org® is looking for mentors and project ideas for Google Summer of Code 2019,  Join us!
  - title: How to use Reserved Memory in Device Tree
