@@ -5,7 +5,7 @@
 # 
 # Look for comments as you go along
 #
-layout: december_2018
+layout: november_2018
 title: Tis the Season
 link: https://beagleboard.org/newsletter/2018-12
 #
