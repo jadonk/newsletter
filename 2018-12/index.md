@@ -52,7 +52,7 @@ book:
  title: Exploring BeagleBone®, Tools and Techniques for Building with Embedded Linux, 2nd Edition
  link: https://beagleboard.org/blog/2018-12-11-molloy-new-book
  body: <p>By Derek Molloy.<br><br>This popular book has now been updated to include both the PocketBeagle® and BeagleBone® Wireless in a second edition 20% larger than the first while detailing more well explained examples and applications.</p>
- image: https://beagleboard.org/blog/wp-content/uploads/2018/12/molloy-new-book-1.jpg
+ image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/molloy%20article%20graphic_280px.png
 #
 # Articles
 #
@@ -70,7 +70,7 @@ articles:
    body: Fueled by an energetic and creative father-son team, this project from 2008 brings engineering into superhero status.
    image: hhttps://cdn.instructables.com/FGO/3ZRL/FN82TZ9A/FGO3ZRLFN82TZ9A.LARGE.jpg?auto=webp&width=467
  - title: Educator Highlight - Derek Molloy, Teaching With PocketBeagle® and More With New Book Edition
-   link: https://beagleboard.org/blog/2018-12-11-molloy-new-book
+   link: https://beagleboard.org/blog/2018-12-11-molloy-new-book 
    body: In part 2 of our interview with Professor Molloy, he shares insights in choosing and incorporating new hardware into the classroom as well as revealing a new book revision, the first to incorporate PocketBeagle®.
    image: https://beagleboard.org/blog/wp-content/uploads/2018/12/molloy-new-book-1.jpg
  - title: blank - can I just delete
