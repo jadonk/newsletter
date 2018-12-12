@@ -66,7 +66,7 @@ articles:
    body: Master LEDs with easy BeagleBoard.org® Holiday projects.  From simple strands and matrices to complete home installations, a variety of programming methods help you get started.
    image: https://cathywicks.github.io/newsletter/static/images/christmas-beagle-280px.png
  - title: 10 Year Anniversary Classic Project BeagleBoard® Iron Man Suit Has 7 Million Viewers and Counting
-   link: https://bbb.io/c8381c
+   link: https://beagleboard.org/p/moya-edge/iron-man-suit-with-tech-c8381c
    body: Fueled by an energetic and creative father-son team, this project from 2008 brings engineering into superhero status.
    image: https://cathywicks.github.io/newsletter/static/images/ironman-280pix.png
  - title: Educator Highlight Derek Molloy, Teaching With PocketBeagle® and More With New Book Edition
