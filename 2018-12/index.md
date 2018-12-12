@@ -7,7 +7,7 @@
 #
 layout: december_2018
 title: Tis the Season
-link: https://cathywicks.github.io/newsletter/2018-12/
+link: https://beagleboard.org/newsletter/2018-12
 #
 # Feature
 #
