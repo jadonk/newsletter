@@ -7,7 +7,7 @@
 #
 layout: december_2018
 title: Tis the Season
-link: https://beagleboard.org/newsletter/2018-12
+link: https://beagleboard.org/newsletter/2018-11
 #
 # Feature
 #
@@ -73,10 +73,6 @@ articles:
    link: https://beagleboard.org/blog/2018-12-11-molloy-new-book 
    body: In part 2 of our interview with Professor Molloy, he shares insights in choosing and incorporating new hardware into the classroom as well as revealing a new book revision, the first to incorporate PocketBeagle®.
    image: https://beagleboard.org/blog/wp-content/uploads/2018/12/molloy-new-book-1.jpg
- - title: blank - can I just delete
-   link: https://bbb.io/@2028
-   body: World Maker Faire is an inspiring location for meeting with the BeagleBoard.org community.  Check out the demos, talks and celebrations we shared.  Get started with PocketBeagle using the educational workshop materials.
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0003.jpg
 #
 # Community Topics
 #
@@ -94,6 +90,9 @@ topics:
  - title: Autorun on boot with Systemd
    link: http://beagleboard.org/discuss?place=msg%2Fbeagleboard%2FgoOORlttd2c%2FJtNjeXlmCAAJ
    body: Wanting to launch a GUI on autorun on boot, check out this rich discussion with 4 members
+- title: Yet another BeagleBone® to be Launched into Space Tonight
+   link: http://beagleboard.org/discuss?place=msg%2Fbeagleboard%2FWdGps-tbtaI%2FSUMKqvrKCAAJ
+   body: Read about a BeagleBone® that went up into space this past month in a rocket from India
 #
 # Projects
 #
