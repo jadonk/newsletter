@@ -100,20 +100,20 @@ topics:
 # Use links that start with bbb.io/+. Just grab the last 6 characters of the project URL to put at the end.
 #
 projects:
- - title: SCUTTLE Mobile Utility Robot 
+ - title: Christmas Countdown Clock
    link: https://bbb.io/+d6c2b7
-   body: Educational Platform from Texas A&amp;M Mechatronics Engineering Technology Program using BeagleBone<sup>®</sup> Blue
+   body: Anticipate the holidays with BeagleBoard.org® PocketBeagle® with PocketScroller Cape, Falcon Player (FPP) and an RGB LED Matrix.
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0004.JPG
- - title: BeagleBone® Green Wireless Irrigation Control
+ - title: PocketBeagle® Motion Controlled Wreath Welcomes Visitors
    link: https://bbb.io/+ce7c4b
-   body: A practical project creating a wireless servo/controller for a home irrigation system.
+   body: A motion sensor plus PocketBeagle® will light up the Holidays when visitors arrive. This phython project is a great starter to build on.
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0005.jpg
- - title: BoneScript
+ - title: Coffee Heater
    link: https://bbb.io/+b90401
-   body: Easy to get started with Physical computing library in JavaScript for Node.JS and the browser
+   body: Keep Santa's cocoa or coffee at the perfect temperature this Holiday Season by building your own drink warmer with PocketBeagle®
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0006.png
- - title: PocketBeagle® Magic 8-ball game with MikroElektronika’s click boards™
+ - title: PocketBeagle® Wearable Tops Off Your Holidays
    link: https://bbb.io/+4f1bb4
-   body: Beginner project with PocketBeagle<sup>®</sup> plus 9-axis motion tracking &amp; OLED add-on boards
+   body: Crazy Christmas Sweaters and other wearable projects are easy to make thanks to the small size and price of PocketBeagle®
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2018-11_0007.jpg
 ---
