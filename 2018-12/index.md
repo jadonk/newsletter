@@ -40,7 +40,7 @@ cape:
  title: Comm Cape in stock now!
  link: https://beagleboard.org/capes
  body: For industrial communication applications includes one RS485, one CAN, two analog 4–20 mA current loops, and two 3A 50V interfaces
- image: https://beagleboard.org/static/images/capes/600px/BeagleBoneCommsCapeA2_Top.png
+ image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/comms-cape-80px.png
 #
 # Book
 #
@@ -50,8 +50,8 @@ cape:
 #
 book:
  title: Exploring BeagleBone®, Tools and Techniques for Building with Embedded Linux, 2nd Edition
- link: https://beagleboard.org/blog/2018-12-11-molloy-new-book
- body: <p>By Derek Molloy.<br><br>This popular book has now been updated to include both the PocketBeagle® and BeagleBone® Wireless in a second edition 20% larger than the first while detailing more well explained examples and applications.</p>
+ link: https://bbb.io/@2113
+ body: <p>By Derek Molloy.<br><br>This popular book has now been updated to include both the PocketBeagle® and BeagleBone® Wireless in a second edition 20 percent larger than the first while detailing more well explained examples and applications.</p>
  image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/HotoffthepressesDec18.jpg
 #
 # Articles
