@@ -69,11 +69,11 @@ articles:
    link: https://bbb.io/@2136
    body: Nine-year-old Charlie Jaffe shares his project with the community while his dad shares tips for parents getting started with the youngest developers of electronics and coding.
    image: https://cathywicks.github.io/newsletter/static/images/PB_LEDx280px.jpg
- - title: 10 Year Anniversary Classic Project EduMIP the Balancing Robot
+ - title: 10 Year Anniversary Classic Project - EduMIP the Balancing Robot
    link: https://beagleboard.org/p/edumip/edumip-13a29c
    body: Used in educating hundreds of engineering students at UCSD, you can build your own mini-Segway with BeagleBone® Blue.
    image: https://cathywicks.github.io/newsletter/static/images/edumip280px.jpg
- - title: Educator Highlight Berkeley Students Mentor High School Robotics using BeagleBone® Black
+ - title: Educator Highlight -  Berkeley Students Mentor High School Robotics using BeagleBone® Black
    link: https://bbb.io/@21503
    body: The Pioneers in Engineering program has reached hundreds of underserved high school students through robotics
    image: https://cathywicks.github.io/newsletter/static/images/cal_robotics_280px.png
