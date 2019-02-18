@@ -16,6 +16,7 @@ link: https://beagleboard.org/newsletter/2019-02
 feature:
  title: Love is the air!
  body: <b>Love for Robotics in Education:</b> We love to see BeagleBoard.org® projects helping students prepare for the future in the world of electronics and coding. Check out our update on the hundreds of high school students being mentored in robotics by UC Berkeley students. <b>Love for Projects:</b> Read about nine-year-old Charlie who built his first PocketBeagle® project. <a href="https://www.youtube.com/watch?v=_akd9dRLTbs"> Enjoy this video celebrating 10 years of BeagleBoard.org® projects</a> <b> Love for Industrial Developers:</b> From industrial robotics to building automation, new applications come to life in the hands of our community.  We have some exciting new things coming up for Industrial applications.  Get a sneak peek and meet with us at < https://beagleboard.org/show/ew/> Embedded World, February 26-28 in Germany in February.</a> <br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ image: https://cathywicks.github.io/newsletter/static/images/robotics-280px.png
 #
 # Events
 #
@@ -40,7 +41,7 @@ cape:
  title: Robotics Cape
  link: https://beagleboard.org/capes
  body: 9-axis IMU, Barometer, 4xH Bridge DC motor controllers, 8-Channel Servo output, 4 Quadrature encoder inputs, power management and more
- image: https://cathywicks.github.io/newsletter/static/images/comms-cape-80px.png
+ image: https://cathywicks.github.io/newsletter/static/images/robotcape_80px.jpg
 #
 # Book
 #
@@ -52,7 +53,7 @@ book:
  title: BeagleBone® Robotic Projects
  link: https://www.amazon.com/dp/B0722QNJC2
  body: <p>By Dr Richard Grimmett.<br><br>Now in it’s second edition, This book fast tracks you into robotics using BeagleBone® Blue with projects that walk, swim, roll, and fly.</p>
- image: https://cathywicks.github.io/newsletter/static/images/HotoffthepressesDec18.jpg
+ image: https://cathywicks.github.io/newsletter/static/images/roboticsbook_rg_80px.jpb
 #
 # Articles
 #
