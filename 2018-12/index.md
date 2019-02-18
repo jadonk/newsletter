@@ -15,7 +15,7 @@ link: https://beagleboard.org/newsletter/2019-02
 #
 feature:
  title: Love is the air!
- body: <b>Love for Robotics in Education:</b> We love to see BeagleBoard.org® projects helping students prepare for the future in the world of electronics and coding. Check out our update on the hundreds of high school students being mentored in robotics by UC Berkeley students. <b>Love for Projects:</b> Read about nine-year-old Charlie who built his first PocketBeagle® project. <a href="https://www.youtube.com/watch?v=_akd9dRLTbs"> Enjoy this video celebrating 10 years of BeagleBoard.org® projects</a> <b> Love for Industrial Developers:</b> From industrial robotics to building automation, new applications come to life in the hands of our community.  We have some exciting new things coming up for Industrial applications.  Get a sneak peek and meet with us at < https://beagleboard.org/show/ew/> Embedded World, February 26-28 in Germany in February.</a> <br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ body: <b>Love for Robotics in Education:</b> We love to see BeagleBoard.org® projects helping students prepare for the future in the world of electronics and coding. Check out our update on the hundreds of high school students being mentored in robotics by UC Berkeley students. <b>Love for Projects:</b> Read about nine-year-old Charlie who built his first PocketBeagle® project. <a href="https://www.youtube.com/watch?v=_akd9dRLTbs"> Enjoy this video celebrating 10 years of BeagleBoard.org® projects</a> <b> Love for Industrial Developers:</b> From industrial robotics to building automation, new applications come to life in the hands of our community.  We have some exciting new things coming up for Industrial applications.  Get a sneak peek and meet with us at Embedded World, February 26-28 in Germany in February.</a> <br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
  image: https://cathywicks.github.io/newsletter/static/images/robotics-280px.png
 #
 # Events
@@ -73,7 +73,7 @@ articles:
  - title: 10 Year Anniversary Classic Project EduMIP the Balancing Robot
    link: https://beagleboard.org/p/edumip/edumip-13a29c
    body: Used in educating hundreds of engineering students at UCSD, you can build your own mini-Segway with BeagleBone® Blue.
-   image: https://cathywicks.github.io/newsletter/static/images/cal_robotics_280px.png
+   image: https://cathywicks.github.io/newsletter/static/images/edumip280px.jpg
  - title: Educator Highlight Berkeley Students Mentor High School Robotics using BeagleBone® Black
    link: https://bbb.io/@21503
    body: The Pioneers in Engineering program has reached hundreds of underserved high school students through robotics
