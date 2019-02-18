@@ -64,7 +64,7 @@ articles:
  - title: Join BeagleBoard.org at Embedded World 2019
    link: https://bbb.io/@2159
    body: Get a sneak peek at the latest boards and capes in Nuremberg, Germany February 26-28 in Booth 3A-121 and Sign-up for the PocketBeagle® hands-on workshop on February 27.
-   image: https://cathywicks.github.io/newsletter/static/images/280px-ew-2019.png
+   image: https://beagleboard.github.io/newsletter/static/images/280px-ew-2019.png
  - title: Getting Started with Elementary School Students and PocketBeagle®
    link: https://bbb.io/@2136
    body: Nine-year-old Charlie Jaffe shares his project with the community while his dad shares tips for parents getting started with the youngest developers of electronics and coding.
@@ -106,7 +106,7 @@ projects:
  - title: Tweeting Rubik's Cube Solver Robot
    link: https://bbb.io/+5891a4
    body: This cool BeagleBone® Blue robotics project is a great introduction to using a camera, OpenCV and servos.
-   image: https://cathywicks.github.io/newsletter/static/images/rubiks-280px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/rubiks-280px.jpg
  - title: Getting Started with PocketBeagle®
    link: https://bbb.io/+b7b913
    body: The Hackster team's resident Hardware Nerd, Alex Glow likes robots, music, EEG, wearables, languages and PocketBeagle®.
