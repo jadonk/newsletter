@@ -53,7 +53,7 @@ book:
  title: BeagleBone® Robotic Projects
  link: https://www.amazon.com/dp/B0722QNJC2
  body: <p>By Dr Richard Grimmett.<br><br>Now in it’s second edition, This book fast tracks you into robotics using BeagleBone® Blue with projects that walk, swim, roll, and fly.</p>
- image: https://cathywicks.github.io/newsletter/static/images/roboticsbook_rg_80px.jpb
+ image: https://cathywicks.github.io/newsletter/static/images/roboticsbook_rg_80px.jpg
 #
 # Articles
 #
