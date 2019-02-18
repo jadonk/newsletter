@@ -65,18 +65,19 @@ articles:
  - title: Join BeagleBoard.org at Embedded World 2019
    link: https://bbb.io/@2159
    body: Get a sneak peek at the latest boards and capes in Nuremberg, Germany February 26-28 in Booth 3A-121 and Sign-up for the PocketBeagle® hands-on workshop on February 27.
-   image: https://cathywicks.github.io/newsletter/static/images/christmas-beagle-280px.png
+   image: https://cathywicks.github.io/newsletter/static/images/280px-ew-2019.png
  - title: Getting Started with Elementary School Students and PocketBeagle®
    link: https://bbb.io/@2136
    body: Nine-year-old Charlie Jaffe shares his project with the community while his dad shares tips for parents getting started with the youngest developers of electronics and coding.
+   image: https://cathywicks.github.io/newsletter/static/images/PB_LEDx280px.jpg
  - title: 10 Year Anniversary Classic Project EduMIP the Balancing Robot
    link: https://beagleboard.org/p/edumip/edumip-13a29c
    body: Used in educating hundreds of engineering students at UCSD, you can build your own mini-Segway with BeagleBone® Blue.
-   image: https://cathywicks.github.io/newsletter/static/images/ironman-280pix.png
+   image: https://cathywicks.github.io/newsletter/static/images/cal_robotics_280px.png
  - title: Educator Highlight Berkeley Students Mentor High School Robotics using BeagleBone® Black
    link: https://bbb.io/@21503
    body: The Pioneers in Engineering program has reached hundreds of underserved high school students through robotics
-   image: https://cathywicks.github.io/newsletter/static/images/molloy-collage-280px.png
+   image: https://cathywicks.github.io/newsletter/static/images/cal_robotics_280px.png
 #
 # Community Topics
 #
