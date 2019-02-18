@@ -74,7 +74,7 @@ articles:
    body: Used in educating hundreds of engineering students at UCSD, you can build your own mini-Segway with BeagleBone® Blue.
    image: https://cathywicks.github.io/newsletter/static/images/edumip280px.jpg
  - title: Educator Highlight -  Berkeley Students Mentor High School Robotics using BeagleBone® Black
-   link: https://bbb.io/@21503
+   link: https://bbb.io/@2150
    body: The Pioneers in Engineering program has reached hundreds of underserved high school students through robotics
    image: https://cathywicks.github.io/newsletter/static/images/cal_robotics_280px.png
 #
