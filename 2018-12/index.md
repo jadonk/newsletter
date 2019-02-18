@@ -107,17 +107,17 @@ projects:
  - title: Tweeting Rubik's Cube Solver Robot
    link: https://bbb.io/+5891a4
    body: This cool BeagleBone® Blue robotics project is a great introduction to using a camera, OpenCV and servos.
-   image: https://cathywicks.github.io/newsletter/static/images/christmas%20clock_280pix.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/rubiks-280px.jpg
  - title: Getting Started with PocketBeagle®
    link: https://bbb.io/+b7b913
    body: The Hackster team's resident Hardware Nerd, Alex Glow likes robots, music, EEG, wearables, languages and PocketBeagle®.
-   image: https://cathywicks.github.io/newsletter/static/images/wreath-280.png
+   image: https://cathywicks.github.io/newsletter/static/images/PB_alexglow_280px.jpg
  - title: SmarTC-Smart Thermal Camera
    link: https://bbb.io/+477acb
    body: A smart thermal camera using FLIR Lepton3 on BeagleBone® Blue board. The project won the "FLIR Lepton3/BeagleBone® Blue challenge" in 2017.
-   image: https://cathywicks.github.io/newsletter/static/images/coffeewarmerproject-280.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/tc_camera_280px.jpg
  - title: PocketBeagle® IR Break-beam Candy Dispenser with Zelda Music
    link: https://bbb.io/+c76e65
    body: Easy starter project with a few electronics and Python coding with PocketBeagle®
-   image: https://cathywicks.github.io/newsletter/static/images/christmaswearable-280px.png
+   image: https://cathywicks.github.io/newsletter/static/images/candy_zelda_280px.jpg
 ---
