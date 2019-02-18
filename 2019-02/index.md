@@ -15,7 +15,7 @@ link: https://beagleboard.org/newsletter/2019-02
 #
 feature:
  title: Love is the air!
- body: </p><img src="http://beagleboard.org/static/images/robotics-280px.png" alt="Embedded World."/><b>Love for Robotics in Education:</b> We love to see BeagleBoard.org® projects helping students prepare for the future in the world of electronics and coding. Check out our update on the hundreds of high school students being mentored in robotics by UC Berkeley students. <b>Love for Projects:</b> Read about nine-year-old Charlie who built his first PocketBeagle® project. <a href="https://www.youtube.com/watch?v=_akd9dRLTbs"> Enjoy this video celebrating 10 years of BeagleBoard.org® projects</a> <b> Love for Industrial Developers:</b> From industrial robotics to building automation, new applications come to life in the hands of our community.  We have some exciting new things coming up for Industrial applications.  Get a sneak peek and meet with us at Embedded World, February 26-28 in Germany in February.</a> <br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ body: </p><img src="https://beagleboard.github.io/beagleboard/static/images/robotics-280px.png" alt="Embedded World."/><b>Love for Robotics in Education:</b> We love to see BeagleBoard.org® projects helping students prepare for the future in the world of electronics and coding. Check out our update on the hundreds of high school students being mentored in robotics by UC Berkeley students. <b>Love for Projects:</b> Read about nine-year-old Charlie who built his first PocketBeagle® project. <a href="https://www.youtube.com/watch?v=_akd9dRLTbs"> Enjoy this video celebrating 10 years of BeagleBoard.org® projects</a> <b> Love for Industrial Developers:</b> From industrial robotics to building automation, new applications come to life in the hands of our community.  We have some exciting new things coming up for Industrial applications.  Get a sneak peek and meet with us at Embedded World, February 26-28 in Germany in February.</a> <br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #
@@ -40,7 +40,7 @@ cape:
  title: Robotics Cape
  link: https://beagleboard.org/capes
  body: 9-axis IMU, Barometer, 4xH Bridge DC motor controllers, 8-Channel Servo output, 4 Quadrature encoder inputs, power management and more
- image: https://cathywicks.github.io/newsletter/static/images/robotcape_80px.jpg
+ image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-02_0000.jpg
 #
 # Book
 #
@@ -52,7 +52,7 @@ book:
  title: BeagleBone® Robotic Projects
  link: https://www.amazon.com/dp/B0722QNJC2
  body: <p>By Dr Richard Grimmett.<br><br>Now in it’s second edition, This book fast tracks you into robotics using BeagleBone® Blue with projects that walk, swim, roll, and fly.</p>
- image: https://cathywicks.github.io/newsletter/static/images/roboticsbook_rg_80px.jpg
+ image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-02_0001.jpg
 #
 # Articles
 #
@@ -68,15 +68,15 @@ articles:
  - title: Getting Started with Elementary School Students and PocketBeagle®
    link: https://bbb.io/@2136
    body: Nine-year-old Charlie Jaffe shares his project with the community while his dad shares tips for parents getting started with the youngest developers of electronics and coding.
-   image: https://cathywicks.github.io/newsletter/static/images/PB_LEDx280px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-02_0002.jpg
  - title: 10 Year Anniversary Classic Project - EduMIP the Balancing Robot
    link: https://beagleboard.org/p/edumip/edumip-13a29c
    body: Used in educating hundreds of engineering students at UCSD, you can build your own mini-Segway with BeagleBone® Blue.
-   image: https://cathywicks.github.io/newsletter/static/images/edumip280px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-02_0003.jpg
  - title: Educator Highlight -  Berkeley Students Mentor High School Robotics using BeagleBone® Black
    link: https://bbb.io/@2150
    body: The Pioneers in Engineering program has reached hundreds of underserved high school students through robotics
-   image: https://cathywicks.github.io/newsletter/static/images/cal_robotics_280px.png
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-02_0004.png
 #
 # Community Topics
 #
@@ -110,13 +110,13 @@ projects:
  - title: Getting Started with PocketBeagle®
    link: https://bbb.io/+b7b913
    body: The Hackster team's resident Hardware Nerd, Alex Glow likes robots, music, EEG, wearables, languages and PocketBeagle®.
-   image: https://cathywicks.github.io/newsletter/static/images/PB_alexglow_280px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-02_0005.jpg
  - title: SmarTC-Smart Thermal Camera
    link: https://bbb.io/+477acb
    body: A smart thermal camera using FLIR Lepton3 on BeagleBone® Blue board. The project won the "FLIR Lepton3/BeagleBone® Blue challenge" in 2017.
-   image: https://cathywicks.github.io/newsletter/static/images/tc_camera_280px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-02_0006.jpg
  - title: PocketBeagle® IR Break-beam Candy Dispenser with Zelda Music
    link: https://bbb.io/+c76e65
    body: Easy starter project with a few electronics and Python coding with PocketBeagle®
-   image: https://cathywicks.github.io/newsletter/static/images/candy_zelda_280px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-02_0007.jpg
 ---
