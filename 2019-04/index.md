@@ -6,8 +6,8 @@
 # Look for comments as you go along
 #
 layout: november_2018
-title: February 2019 Dog Dish
-link: https://beagleboard.org/newsletter/2019-02
+title: April 2019 Dog Dish
+link: https://beagleboard.org/newsletter/2019-04
 #
 # Feature
 #
@@ -22,24 +22,24 @@ feature:
 # Anything on the BeagleBoard.org calendar should go in here
 #
 events:
- - title: Embedded World 2019 Exhibition &amp; Conference, Nuremberg, Germany
-   date: February 26-28, 2019 
-   link: https://beagleboard.org/show/ew/
- - title: Linux Hands-On Workshop with PocketBeagle at Embedded World
-   date: February 27, 2019 
-   link: https://beagleboard.org/show/ew/
- - title: SCaLE 17x E-Ale Hands-on-Workshop with PocketBeagle®
-   date: March 7-10, 2019
-   link: https://e-ale.org/scale17x/
+ - title: Maker Faire Bay Area
+   date: May 17-19, 2019 
+   link: https://makerfaire.com/bay-area/
+ - title: Embedded Apprendice Linux Engineer (E-Ale) Hands-on-Workshop with PocketBeagle® at ELC, San Diego, CA
+   date: August 21-23, 2019
+   link: https://e-ale.org/elc2019/
+ - title: Embedded Apprendice Linux Engineer (E-Ale) Hands-on-Workshop with PocketBeagle® at ELC, Lyon, France
+   date: October 28-30, 2019
+   link: https://e-ale.org/elce2019/
 #
 # Cape
 #
 # The latest featured cape. Must be readily available.
 #
 cape:
- title: Robotics Cape
+ title: Servo Cape
  link: https://beagleboard.org/capes
- body: 9-axis IMU, Barometer, 4xH Bridge DC motor controllers, 8-Channel Servo output, 4 Quadrature encoder inputs, power management and more
+ body: Provides numerous servo outputs for robotics and automation with 16x servo outputs, 5V power input, I2C EEPROM
  image: https://cathywicks.github.io/newsletter/static/images/robotcape_80px.jpg
 #
 # Book
@@ -49,10 +49,10 @@ cape:
 # TODO: We should probably create an Amazon Smile affiliate link for future books.
 #
 book:
- title: BeagleBone® Robotic Projects
- link: https://www.amazon.com/dp/B0722QNJC2
- body: <p>By Dr Richard Grimmett.<br><br>Now in it’s second edition, This book fast tracks you into robotics using BeagleBone® Blue with projects that walk, swim, roll, and fly.</p>
- image: https://cathywicks.github.io/newsletter/static/images/roboticsbook_rg_80px.jpg
+ title: BeagleBone® Black Primer
+ link: https://www.amazon.com/BeagleBone-Black-Primer-Brian-McLaughlin/dp/0789753863
+ body: <p>By Brian McLaughlin.<br><br>Learn all the essentials, from controlling I/O to establishing network connections then get started on the many projects in this book.</p>
+ image: https://cathywicks.github.io/newsletter/static/images/robotcape_80px.jpg
 #
 # Articles
 #
