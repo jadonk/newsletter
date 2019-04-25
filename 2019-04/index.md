@@ -103,9 +103,9 @@ topics:
 # Use links that start with bbb.io/+. Just grab the last 6 characters of the project URL to put at the end.
 #
 projects:
- - title: Tweeting Rubik's Cube Solver Robot
-   link: https://bbb.io/+5891a4
-   body: This cool BeagleBone® Blue robotics project is a great introduction to using a camera, OpenCV and servos.
+ - title: Treadmill Workstation
+   link: https://bbb.io/+cfc2a3
+   body: Using BeagleBone® Black to replace the dashboard of a treadmill enables walking and coding at the same time!
    image: https://cathywicks.github.io/newsletter/static/images/rubiks-280px.jpg
  - title: Getting Started with PocketBeagle®
    link: https://bbb.io/+b7b913
