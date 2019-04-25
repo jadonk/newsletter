@@ -107,16 +107,16 @@ projects:
    link: https://bbb.io/+cfc2a3
    body: Using BeagleBone® Black to replace the dashboard of a treadmill enables walking and coding at the same time!
    image: https://cathywicks.github.io/newsletter/static/images/rubiks-280px.jpg
- - title: Getting Started with PocketBeagle®
-   link: https://bbb.io/+b7b913
-   body: The Hackster team's resident Hardware Nerd, Alex Glow likes robots, music, EEG, wearables, languages and PocketBeagle®.
+ - title: PocketBeagle® Drone - Part 1
+   link: https://bbb.io/+d80868
+   body: This student project begins the development of a 210mm quadcopter.
    image: https://cathywicks.github.io/newsletter/static/images/PB_alexglow_280px.jpg
- - title: SmarTC-Smart Thermal Camera
-   link: https://bbb.io/+477acb
-   body: A smart thermal camera using FLIR Lepton3 on BeagleBone® Blue board. The project won the "FLIR Lepton3/BeagleBone® Blue challenge" in 2017.
+ - title: Spotify-Pod: Streaming Music to the PocketBeagle®
+   link: https://bbb.io/+57a180
+   body: Create your own headless music player with the PocketBeagle® and Mopidy!
    image: https://cathywicks.github.io/newsletter/static/images/tc_camera_280px.jpg
- - title: PocketBeagle® IR Break-beam Candy Dispenser with Zelda Music
-   link: https://bbb.io/+c76e65
-   body: Easy starter project with a few electronics and Python coding with PocketBeagle®
+ - title: E-ALE (Embedded Apprentice Linux Engineer)
+   link: https://bbb.io/+df7226
+   body:  Apprentice level training on embedded Linux concepts, tools and techniques.
    image: https://cathywicks.github.io/newsletter/static/images/candy_zelda_280px.jpg
 ---
