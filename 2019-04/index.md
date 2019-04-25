@@ -22,15 +22,15 @@ feature:
 # Anything on the BeagleBoard.org calendar should go in here
 #
 events:
- - title: Embedded World 2019 Exhibition &amp; Conference, Nuremberg, Germany
-   date: February 26-28, 2019 
-   link: https://beagleboard.org/show/ew/
- - title: Linux Hands-On Workshop with PocketBeagle at Embedded World
-   date: February 27, 2019 
-   link: https://beagleboard.org/show/ew/
- - title: SCaLE 17x E-Ale Hands-on-Workshop with PocketBeagle®
-   date: March 7-10, 2019
-   link: https://e-ale.org/scale17x/
+ - title: Maker Faire, Bay Area, CA
+   date: May 17-19,2019 
+   link: https://makerfaire.com/bay-area/
+ - title: Embedded Linux Conference, San Diego, CA - E-Ale Workshop with PocketBeagle®
+   date: August 21-23, 2019 
+   link: https://e-ale.org/elc2019/
+ - title: Embedded Linux Conference Europe, Lyon, France - E-Ale Workshop with PocketBeagle®
+   date: October 28-30, 2019
+   link: https://e-ale.org/elce2019/
 #
 # Cape
 #
