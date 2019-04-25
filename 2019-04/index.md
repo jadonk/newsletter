@@ -14,8 +14,8 @@ link: https://beagleboard.org/newsletter/2019-04
 # This is the key message at the beginning of the newsletter
 #
 feature:
- title: Love is the air!
- body: </p><img src="http://beagleboard.org/static/images/robotics-280px.png" alt="Embedded World."/><b>Love for Robotics in Education:</b> We love to see BeagleBoard.org® projects helping students prepare for the future in the world of electronics and coding. Check out our update on the hundreds of high school students being mentored in robotics by UC Berkeley students. <b>Love for Projects:</b> Read about nine-year-old Charlie who built his first PocketBeagle® project. <a href="https://www.youtube.com/watch?v=_akd9dRLTbs"> Enjoy this video celebrating 10 years of BeagleBoard.org® projects</a> <b> Love for Industrial Developers:</b> From industrial robotics to building automation, new applications come to life in the hands of our community.  We have some exciting new things coming up for Industrial applications.  Get a sneak peek and meet with us at Embedded World, February 26-28 in Germany in February.</a> <br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ title: Spring into Action
+ body: <p>Our Co-Founder Jason Kridner, reminds us that “The Projects tell the story.” In assembling this month’s newsletter we are so energized by the variety of projects using BeagleBoards® that are telling great stories.   From simple LED blink “hello world” projects from beginners to deep in the ocean rovers to space station research, BeagleBoard.org based projects are inspiring!   We are excited to see how BeagleBone® and PocketBeagle® are enabling new ideas to spring into action.  We love spring; the air is full of energy and fresh ideas.  We want to hear about yours. <br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #
