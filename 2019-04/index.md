@@ -61,7 +61,7 @@ book:
 # Try to use the short URLs that start with bbb.io/@
 #
 articles:
- - title: Ten BeagleBoard.org® PocketBeagle® Beginner’s Projects Share Getting Started Tips
+ - title: Ten PocketBeagle® Beginner’s Projects Share Getting Started Tips
    link: https://bbb.io/@2221
    body: Each of these 10 projects is written with detailed building instructions, code, diagrams and photos, and the authors would enjoy your feedback.
    image: https://cathywicks.github.io/newsletter/static/images/pbprojects_280px.jpg
@@ -69,13 +69,14 @@ articles:
    link: https://bbb.io/@2136
    body: Nine-year-old Charlie Jaffe shares his project with the community while his dad shares tips for parents getting started with the youngest developers of electronics and coding.
    image: https://cathywicks.github.io/newsletter/static/images/PB_LEDx280px.jpg
- - title: 10 Year Anniversary Classic Project - EduMIP the Balancing Robot
-   link: https://beagleboard.org/p/edumip/edumip-13a29c
-   body: Used in educating hundreds of engineering students at UCSD, you can build your own mini-Segway with BeagleBone® Blue.
-   image: https://cathywicks.github.io/newsletter/static/images/edumip280px.jpg
+ - title: 10 Year Anniversary Classic Projects - Celebrating Ten Years of Projects Video
+   link: https://bbb.io/@2269
+   body: This two minute rapid video gives a fun glmipse of only fraction of the inspiring projects from our community!
+   image: https://cathywicks.github.io/newsletter/static/images/bbcollage_280px.jpg
  - title: Educator Highlight -  Inspiring Students in Slovenia with BeagleBone® Blue Based Micromouse
    link: https://bbb.io/@2176
    body: Maze solving robot competitions are a great way to recruit high school students into engineering.
+   image: https://cathywicks.github.io/newsletter/static/images/micromouse_280px.jpg
 #
 # Community Topics
 #
