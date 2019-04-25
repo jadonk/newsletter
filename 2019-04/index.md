@@ -15,7 +15,7 @@ link: https://beagleboard.org/newsletter/2019-02
 #
 feature:
  title: Love is the air!
- body: </p>Our Co-Founder Jason Kridner, reminds us that “The Projects tell the story.” In assembling this month’s newsletter we are so energized by the variety of projects using BeagleBoards® that are telling great stories.   From simple LED blink “hello world” projects from beginners to deep in the ocean rovers to space station research, BeagleBoard.org based projects are inspiring!   We are excited to see how BeagleBone® and PocketBeagle® are enabling new ideas to spring into action.  We love spring; the air is full of energy and fresh ideas.  We want to hear about yours.<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ body: </p>Our Co-Founder Jason Kridner, reminds us that “The Projects tell the story.” In assembling this month’s newsletter we are so energized by the variety of projects using BeagleBoards® that are telling great stories.   From simple LED blink “hello world” projects from beginners to deep in the ocean rovers to space station research, BeagleBoard.org based projects are inspiring!   We are excited to see how BeagleBone® and PocketBeagle® are enabling new ideas to spring into action.  We love spring; the air is full of energy and fresh ideas.  We want to hear about yours.<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #
