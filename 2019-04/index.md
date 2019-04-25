@@ -22,8 +22,8 @@ feature:
 # Anything on the BeagleBoard.org calendar should go in here
 #
 events:
- - title: Maker Faire, Bay Area, CA
-   date: May 17-19,2019 
+ - title: Maker Faire, Bay Area, California
+   date: May 17-19, 2019 
    link: https://makerfaire.com/bay-area/
  - title: Embedded Linux Conference, San Diego, CA - E-Ale Workshop with PocketBeagle®
    date: August 21-23, 2019 
@@ -37,10 +37,10 @@ events:
 # The latest featured cape. Must be readily available.
 #
 cape:
- title: Robotics Cape
+ title: Servo Cape
  link: https://beagleboard.org/capes
- body: 9-axis IMU, Barometer, 4xH Bridge DC motor controllers, 8-Channel Servo output, 4 Quadrature encoder inputs, power management and more
- image: https://cathywicks.github.io/newsletter/static/images/robotcape_80px.jpg
+ body: Provides 16x servo outputs, 5V power input, I2C EEPROM. Great for Robotics and automation projects.
+ image: https://cathywicks.github.io/newsletter/static/images/servo_80px.jpg
 #
 # Book
 #
