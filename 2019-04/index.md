@@ -61,10 +61,10 @@ book:
 # Try to use the short URLs that start with bbb.io/@
 #
 articles:
- - title: Join BeagleBoard.org at Embedded World 2019
-   link: https://bbb.io/@2159
-   body: Get a sneak peek at the latest boards and capes in Nuremberg, Germany February 26-28 in Booth 3A-121 and Sign-up for the PocketBeagle® hands-on workshop on February 27.
-   image: https://cathywicks.github.io/newsletter/static/images/280px-ew-2019.png
+ - title: Ten BeagleBoard.org® PocketBeagle® Beginner’s Projects Share Getting Started Tips
+   link: https://bbb.io/@2221
+   body: Each of these 10 projects is written with detailed building instructions, code, diagrams and photos, and the authors would enjoy your feedback.
+   image: https://cathywicks.github.io/newsletter/static/images/pbprojects_280px.jpg
  - title: Getting Started with Elementary School Students and PocketBeagle®
    link: https://bbb.io/@2136
    body: Nine-year-old Charlie Jaffe shares his project with the community while his dad shares tips for parents getting started with the youngest developers of electronics and coding.
@@ -73,10 +73,9 @@ articles:
    link: https://beagleboard.org/p/edumip/edumip-13a29c
    body: Used in educating hundreds of engineering students at UCSD, you can build your own mini-Segway with BeagleBone® Blue.
    image: https://cathywicks.github.io/newsletter/static/images/edumip280px.jpg
- - title: Educator Highlight -  Berkeley Students Mentor High School Robotics using BeagleBone® Black
-   link: https://bbb.io/@2150
-   body: The Pioneers in Engineering program has reached hundreds of underserved high school students through robotics
-   image: https://cathywicks.github.io/newsletter/static/images/cal_robotics_280px.png
+ - title: Educator Highlight -  Inspiring Students in Slovenia with BeagleBone® Blue Based Micromouse
+   link: https://bbb.io/@2176
+   body: Maze solving robot competitions are a great way to recruit high school students into engineering.
 #
 # Community Topics
 #
