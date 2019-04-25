@@ -6,41 +6,41 @@
 # Look for comments as you go along
 #
 layout: november_2018
-title: April 2019 Dog Dish
-link: https://beagleboard.org/newsletter/2019-04
+title: February 2019 Dog Dish
+link: https://beagleboard.org/newsletter/2019-02
 #
 # Feature
 #
 # This is the key message at the beginning of the newsletter
 #
 feature:
- title: Spring into Action
- body: <p>Our Co-Founder Jason Kridner, reminds us that “The Projects tell the story.” In assembling this month’s newsletter we are so energized by the variety of projects using BeagleBoards® that are telling great stories.   From simple LED blink “hello world” projects from beginners to deep in the ocean rovers to space station research, BeagleBoard.org based projects are inspiring!   We are excited to see how BeagleBone® and PocketBeagle® are enabling new ideas to spring into action.  We love spring; the air is full of energy and fresh ideas.  We want to hear about yours. <br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ title: Love is the air!
+ body: </p><img src="http://beagleboard.org/static/images/robotics-280px.png" alt="Embedded World."/><b>Love for Robotics in Education:</b> We love to see BeagleBoard.org® projects helping students prepare for the future in the world of electronics and coding. Check out our update on the hundreds of high school students being mentored in robotics by UC Berkeley students. <b>Love for Projects:</b> Read about nine-year-old Charlie who built his first PocketBeagle® project. <a href="https://www.youtube.com/watch?v=_akd9dRLTbs"> Enjoy this video celebrating 10 years of BeagleBoard.org® projects</a> <b> Love for Industrial Developers:</b> From industrial robotics to building automation, new applications come to life in the hands of our community.  We have some exciting new things coming up for Industrial applications.  Get a sneak peek and meet with us at Embedded World, February 26-28 in Germany in February.</a> <br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #
 # Anything on the BeagleBoard.org calendar should go in here
 #
 events:
- - title: Maker Faire Bay Area
-   date: May 17-19, 2019 
-   link: https://makerfaire.com/bay-area/
- - title: Embedded Apprendice Linux Engineer (E-Ale) Hands-on-Workshop with PocketBeagle® at ELC, San Diego, CA
-   date: August 21-23, 2019
-   link: https://e-ale.org/elc2019/
- - title: Embedded Apprendice Linux Engineer (E-Ale) Hands-on-Workshop with PocketBeagle® at ELC, Lyon, France
-   date: October 28-30, 2019
-   link: https://e-ale.org/elce2019/
+ - title: Embedded World 2019 Exhibition &amp; Conference, Nuremberg, Germany
+   date: February 26-28, 2019 
+   link: https://beagleboard.org/show/ew/
+ - title: Linux Hands-On Workshop with PocketBeagle at Embedded World
+   date: February 27, 2019 
+   link: https://beagleboard.org/show/ew/
+ - title: SCaLE 17x E-Ale Hands-on-Workshop with PocketBeagle®
+   date: March 7-10, 2019
+   link: https://e-ale.org/scale17x/
 #
 # Cape
 #
 # The latest featured cape. Must be readily available.
 #
 cape:
- title: Servo Cape
+ title: Robotics Cape
  link: https://beagleboard.org/capes
- body: Provides numerous servo outputs for robotics and automation with 16x servo outputs, 5V power input, I2C EEPROM
- image: https://cathywicks.github.io/newsletter/static/images/roboticsbook_rg_80px.jpg
+ body: 9-axis IMU, Barometer, 4xH Bridge DC motor controllers, 8-Channel Servo output, 4 Quadrature encoder inputs, power management and more
+ image: https://cathywicks.github.io/newsletter/static/images/robotcape_80px.jpg
 #
 # Book
 #
@@ -49,9 +49,9 @@ cape:
 # TODO: We should probably create an Amazon Smile affiliate link for future books.
 #
 book:
- title: BeagleBone® Black Primer
- link: https://www.amazon.com/BeagleBone-Black-Primer-Brian-McLaughlin/dp/0789753863
- body: <p>By Brian McLaughlin.<br><br>Learn all the essentials, from controlling I/O to establishing network connections then get started on the many projects in this book.</p>
+ title: BeagleBone® Robotic Projects
+ link: https://www.amazon.com/dp/B0722QNJC2
+ body: <p>By Dr Richard Grimmett.<br><br>Now in it’s second edition, This book fast tracks you into robotics using BeagleBone® Blue with projects that walk, swim, roll, and fly.</p>
  image: https://cathywicks.github.io/newsletter/static/images/roboticsbook_rg_80px.jpg
 #
 # Articles
@@ -73,8 +73,8 @@ articles:
    link: https://beagleboard.org/p/edumip/edumip-13a29c
    body: Used in educating hundreds of engineering students at UCSD, you can build your own mini-Segway with BeagleBone® Blue.
    image: https://cathywicks.github.io/newsletter/static/images/edumip280px.jpg
- - title: Educator Highlight -  Inspiring Students in Slovenia: BeagleBone® Blue Based Micromouse
-   link: https://bbb.io/@2176
+ - title: Educator Highlight -  Berkeley Students Mentor High School Robotics using BeagleBone® Black
+   link: https://bbb.io/@2150
    body: The Pioneers in Engineering program has reached hundreds of underserved high school students through robotics
    image: https://cathywicks.github.io/newsletter/static/images/cal_robotics_280px.png
 #
