@@ -40,7 +40,7 @@ cape:
  title: Servo Cape
  link: https://beagleboard.org/capes
  body: Provides numerous servo outputs for robotics and automation with 16x servo outputs, 5V power input, I2C EEPROM
- image: https://cathywicks.github.io/newsletter/static/images/servo_80px.jpg
+ image: https://cathywicks.github.io/newsletter/static/images/roboticsbook_rg_80px.jpg
 #
 # Book
 #
@@ -52,7 +52,7 @@ book:
  title: BeagleBone® Black Primer
  link: https://www.amazon.com/BeagleBone-Black-Primer-Brian-McLaughlin/dp/0789753863
  body: <p>By Brian McLaughlin.<br><br>Learn all the essentials, from controlling I/O to establishing network connections then get started on the many projects in this book.</p>
- image: https://cathywicks.github.io/newsletter/static/images/BBPrimerBook_80px.jpg
+ image: https://cathywicks.github.io/newsletter/static/images/roboticsbook_rg_80px.jpg
 #
 # Articles
 #
