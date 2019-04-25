@@ -65,10 +65,10 @@ articles:
    link: https://bbb.io/@2221
    body: Each of these 10 projects is written with detailed building instructions, code, diagrams and photos, and the authors would enjoy your feedback.
    image: https://cathywicks.github.io/newsletter/static/images/pbprojects_280px.jpg
- - title: Getting Started with Elementary School Students and PocketBeagle®
-   link: https://bbb.io/@2136
-   body: Nine-year-old Charlie Jaffe shares his project with the community while his dad shares tips for parents getting started with the youngest developers of electronics and coding.
-   image: https://cathywicks.github.io/newsletter/static/images/PB_LEDx280px.jpg
+ - title: Two New PocketBeagle® Capes Debut at Embedded World
+   link: https://bbb.io/@2188
+   body: PocketBeagle® TechLab Cape and the PocketBeagle® GamePup Cape made their debut to thousands of visitors.  With plenty of IO and interesting features, these two capes are a great way to have fun while learning embedded programming or to start a larger project.
+   image: https://cathywicks.github.io/newsletter/static/images/capedebut_280px.jpg
  - title: 10 Year Anniversary Classic Projects - Celebrating Ten Years of Projects Video
    link: https://bbb.io/@2269
    body: This two minute rapid video gives a fun glmipse of only fraction of the inspiring projects from our community!
