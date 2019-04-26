@@ -113,7 +113,7 @@ projects:
    image: https://cathywicks.github.io/newsletter/static/images/PB_alexglow_280px.jpg
  - title: Spotify-Pod: Streaming Music to the PocketBeagle®
    link: https://bbb.io/+57a180
-   body: Create your own headless music player with the PocketBeagle® and Mopidy!
+   body: Create your own headless music player with the PocketBeagle® and Mopidy
    image: https://cathywicks.github.io/newsletter/static/images/tc_camera_280px.jpg
  - title: E-ALE Embedded Apprentice Linux Engineer
    link: https://bbb.io/+df7226
