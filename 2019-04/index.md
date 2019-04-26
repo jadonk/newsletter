@@ -88,15 +88,15 @@ topics:
  - title: how to disable HDMI / eMMc pins in BeagleBone Black
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-black/oUh7gFVv3qQ
    body: Looking for ways to disable HDMI or eMMC pins?  This discussion will help you.
- - title: 4D Systems display working with latest Debian release
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=http%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-black/vp0EoJQmVSk
-   body: Updating the u-boot helped solve this cape debug
- - title: PRU compliler optimization
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=http%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-black/rFcrA6v74T4
-   body: When using BeagleBone® to make a simple motor controller you can use PRU's to do the critical timing events.
- - title: Powering BeagleBone® Blue with Batteries
+ - title: Powering Beaglebone Blue off a 4s battery 14.8V
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-blue/2luFEUXt-Kg
-   body: Check out this thread and others on the forums for help powering your robots
+   body: Powering BeagleBone Blue for Drones, robots and autonomous vehicles is popular.  Engage in the forums to talk power solutions.
+ - title: Maximum number of connected beaglebones per single beaglebone
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/7R2sEKY_4oM
+   body: Join this post if you interested to connect multiple BeagleBone Wireless Boards together.
+ - title: MotorCape and Software/Getting Four Motors to Move w/ a 12v Battery
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/IK0LfYWAJEI
+   body: Check out this thread for info on a community member using the Motor Cape
 #
 # Projects
 #
