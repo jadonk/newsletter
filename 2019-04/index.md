@@ -85,9 +85,9 @@ articles:
 # Be sure to use links that start with beagleboard.org/discuss. You can grab the links from there.
 #
 topics:
- - title: Ideas for Google Summer of Code 2019
-   link: https://elinux.org/BeagleBoard/GSoC/Ideas
-   body: Students wanting to apply to GSoC can start engaging the BeagleBoard.org® community now
+ - title: how to disable HDMI / eMMc pins in BeagleBone Black
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-black/oUh7gFVv3qQ
+   body: Looking for ways to disable HDMI or eMMC pins?  This discussion will help you.
  - title: 4D Systems display working with latest Debian release
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=http%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-black/vp0EoJQmVSk
    body: Updating the u-boot helped solve this cape debug
