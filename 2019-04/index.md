@@ -106,7 +106,7 @@ projects:
  - title: Treadmill Workstation
    link: https://bbb.io/+cfc2a3
    body: Using BeagleBone® Black to replace the dashboard of a treadmill enables walking and coding at the same time!
-   image: https://cathywicks.github.io/newsletter/static/images/rubiks-280px.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/treadmill_270px.jpg
  - title: PocketBeagle® Drone - Part 1
    link: https://bbb.io/+d80868
    body: This student project begins the development of a 210mm quadcopter.
