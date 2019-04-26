@@ -110,13 +110,13 @@ projects:
  - title: PocketBeagle® Drone - Part 1
    link: https://bbb.io/+d80868
    body: This student project begins the development of a 210mm quadcopter.
-   image: https://cathywicks.github.io/newsletter/static/images/PB_alexglow_280px.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/drone_270px.jpg
  - title: "Spotify-Pod: Streaming Music to the PocketBeagle®"
    link: https://bbb.io/+57a180
    body: Create your own headless music player with the PocketBeagle® and Mopidy
-   image: https://cathywicks.github.io/newsletter/static/images/tc_camera_280px.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/musicpod_270px.jpg
  - title: E-ALE (Embedded Apprentice Linux Engineer)
    link: https://bbb.io/+df7226
    body: Apprentice level training on embedded Linux concepts, tools and techniques.
-   image: https://cathywicks.github.io/newsletter/static/images/candy_zelda_280px.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/eale_270px.jpg
 ---
