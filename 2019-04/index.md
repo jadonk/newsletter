@@ -117,6 +117,6 @@ projects:
    image: https://cathywicks.github.io/newsletter/static/images/tc_camera_280px.jpg
  - title: E-ALE Embedded Apprentice Linux Engineer
    link: https://bbb.io/+df7226
-   body:  Apprentice level training on embedded Linux concepts, tools and techniques.
+   body: Apprentice level training on embedded Linux concepts, tools and techniques.
    image: https://cathywicks.github.io/newsletter/static/images/candy_zelda_280px.jpg
 ---
