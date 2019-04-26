@@ -2,7 +2,7 @@
 $extension = '.orig';
 $index = 0;
 $host = 'https://beagleboard.github.io/newsletter/';
-$prefix = 'static/images/newsletter-2019-02_';
+$prefix = 'static/images/newsletter-2019-04_';
 LINE: while (<>) {
     if ($ARGV ne $oldargv) {
         if ($extension !~ /\*/) {
