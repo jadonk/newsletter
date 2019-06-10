@@ -71,7 +71,7 @@ articles:
  - title: BeagleBoard.org® Community Kicks off GSoC 2019 with Four Projects
    link: https://bbb.io/@2300
    body: Check out the intro videos for each of the projects being mentored this summer by the BeagleBoard.org® community and join in the forums and IRC chat to encourage the new student developers.
-   image: https://cathywicks.github.io/newsletter/static/images/gsoc_social_280px.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/gsoc_social_280px.png
  - title: 10 Year Anniversary Classic Project - BeagleBone® Gaming System - Awesome Assembly Video
    link: https://bbb.io/+6a38e1
    body: In 2013, student Max Thrun got the world's attention when he published his BeagleBone® based Gameboy fast-forward, hand-build, 6 minute video and set it to the music Heart of Courage.
