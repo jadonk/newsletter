@@ -88,18 +88,18 @@ articles:
 # Be sure to use links that start with beagleboard.org/discuss. You can grab the links from there.
 #
 topics:
- - title: how to disable HDMI / eMMc pins in BeagleBone Black
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-black/oUh7gFVv3qQ
-   body: Looking for ways to disable HDMI or eMMC pins?  This discussion will help you.
- - title: Powering Beaglebone Blue off a 4s battery 14.8V
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-blue/2luFEUXt-Kg
-   body: Powering BeagleBone Blue for Drones, robots and autonomous vehicles is popular.  Engage in the forums to talk power solutions.
- - title: Maximum number of connected beaglebones per single beaglebone
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/7R2sEKY_4oM
-   body: Join this post if you interested to connect multiple BeagleBone Wireless Boards together.
- - title: MotorCape and Software/Getting Four Motors to Move w/ a 12v Battery
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/IK0LfYWAJEI
-   body: Check out this thread for info on a community member using the Motor Cape
+ - title: fixdep wrong format
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/6azld5iX9_E
+   body: Check out this thread of a user building a single driver module for testing and debugging
+ - title: Launch an aplications at startu p with root privileges
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-black/RWWp1gKz6lI
+   body: Join this discussion to find out more about launching an application at start up with root privileges
+ - title: PocketBeagle® user thread - device tree
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/support/IDg5-NxdxGc
+   body: This new user and six others discuss getting started on device-tree
+ - title: BeagleBone® Blue and GPS
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-blue/9-YHUv7PuqE
+   body: Getting your BeagleBone® Blue working with GPS?  Join this thread to discuss. 
 #
 # Projects
 #
