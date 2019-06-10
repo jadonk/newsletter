@@ -40,10 +40,10 @@ events:
 # The latest featured cape. Must be readily available.
 #
 cape:
- title: PocketBeagle® GamePup Cape
- link: https://beagleboard.org/capes
+ title: PocketBeagle® TechLab Cape
+ link: https://beagleboard.org/techlab
  body: Make your own game or emulate classic handheld games with 160x180 LCD, 10 user buttons, LiPo support and more
- image: https://cathywicks.github.io/newsletter/static/images/Gamepup_80px.jpg
+ image: https://cathywicks.github.io/newsletter/static/images/TechLab_80px.jpg
 #
 # Book
 #
