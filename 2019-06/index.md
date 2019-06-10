@@ -91,7 +91,7 @@ topics:
  - title: fixdep wrong format
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/6azld5iX9_E
    body: Check out this thread of a user building a single driver module for testing and debugging
- - title: Launch an aplications at startu p with root privileges
+ - title: Launch an app at start up
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-black/RWWp1gKz6lI
    body: Join this discussion to find out more about launching an application at start up with root privileges
  - title: PocketBeagle® user thread - device tree
