@@ -106,20 +106,20 @@ topics:
 # Use links that start with bbb.io/+. Just grab the last 6 characters of the project URL to put at the end.
 #
 projects:
- - title: Treadmill Workstation
-   link: https://bbb.io/+cfc2a3
-   body: Using BeagleBone® Black to replace the dashboard of a treadmill enables walking and coding at the same time!
-   image: https://cathywicks.github.io/newsletter/static/images/treadmill_270px.jpg
- - title: PocketBeagle® Drone - Part 1
-   link: https://bbb.io/+d80868
-   body: This student project begins the development of a 210mm quadcopter.
-   image: https://cathywicks.github.io/newsletter/static/images/drone_270px.jpg
- - title: "Spotify-Pod: Streaming Music to the PocketBeagle®"
-   link: https://bbb.io/+57a180
-   body: Create your own headless music player with the PocketBeagle® and Mopidy
-   image: https://cathywicks.github.io/newsletter/static/images/musicpod_270px.jpg
- - title: E-ALE (Embedded Apprentice Linux Engineer)
-   link: https://bbb.io/+df7226
-   body: Apprentice level training on embedded Linux concepts, tools and techniques.
-   image: https://cathywicks.github.io/newsletter/static/images/eale_270px.jpg
+ - title: PocketInvaders
+   link: https://bbb.io/+506e28
+   body: A High School student showcases a retro Space Invaders game using PocketBeagle®
+   image: https://cathywicks.github.io/newsletter/static/images/pocketinvaders_270px.jpg
+ - title: Drone on a Leash
+   link: https://bbb.io/+feed4e
+   body: University students use Ardupilot and Beaglebone® Blue to build a leash controlled drone.
+   image: https://cathywicks.github.io/newsletter/static/images/droneonaleash_270px.jpg
+ - title: An App to Control Your RoverBot with GPS
+   link: https://bbb.io/+dbe6a5
+   body: This detailed community project gives beginners instructions using a motor cape and GPS with BeagleBone® Black
+   image: https://cathywicks.github.io/newsletter/static/images/roverbotGPS_270px.jpg
+ - title: Automated PocketBeagle® WiFi Access Point
+   link: https://bbb.io/+057358
+   body: This project will help you set up your PocketBeagle® to automatically create a WiFi access poing on boot
+   image: https://cathywicks.github.io/newsletter/static/images/PBwifi_270px.jpg
 ---
