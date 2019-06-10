@@ -42,7 +42,7 @@ events:
 cape:
  title: PocketBeagle® TechLab Cape
  link: https://beagleboard.org/techlab
- body: Make your own game or emulate classic handheld games with 160x180 LCD, 10 user buttons, LiPo support and more
+ body: Explore the power of PocketBeagle® with exercises to use the rich collection of sensors, displays, LEDs, click header and USB host.
  image: https://cathywicks.github.io/newsletter/static/images/TechLab_80px.jpg
 #
 # Book
