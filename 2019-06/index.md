@@ -68,10 +68,10 @@ articles:
    link: https://bbb.io/@2223
    body: This New BeagleBone® fills the gap between small SBCs and large powerful industrial computers bringing the open source Linux approach to Artificial Intelligence applications development.  
    image: https://cathywicks.github.io/newsletter/static/images/BeagleBoneAI_inhand_280px.jpg
- - title: Two New PocketBeagle® Capes Debut at Embedded World
-   link: https://bbb.io/@2188
-   body: PocketBeagle® TechLab Cape and the PocketBeagle® GamePup Cape made their debut to thousands of visitors.  With plenty of IO and interesting features, these two capes are a great way to have fun while learning embedded programming or to start a larger project.
-   image: https://cathywicks.github.io/newsletter/static/images/capedebut_280px.jpg
+ - title: BeagleBoard.org® Community Kicks off GSoC 2019 with Four Projects
+   link: https://bbb.io/@2300
+   body: Check out the intro videos for each of the projects being mentored this summer by the BeagleBoard.org® community and join in the forums and IRC chat to encourage the new student developers.
+   image: https://cathywicks.github.io/newsletter/static/images/gsoc_social_280px.jpg
  - title: 10 Year Anniversary Classic Projects - Celebrating Ten Years of Projects Video
    link: https://bbb.io/@2269
    body: This two minute rapid video gives a fun glmipse of only fraction of the inspiring projects from our community!
