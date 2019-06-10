@@ -64,10 +64,10 @@ book:
 # Try to use the short URLs that start with bbb.io/@
 #
 articles:
- - title: Ten PocketBeagle® Beginner’s Projects Share Getting Started Tips
-   link: https://bbb.io/@2221
-   body: Each of these 10 projects is written with detailed building instructions, code, diagrams and photos, and the authors would enjoy your feedback.
-   image: https://cathywicks.github.io/newsletter/static/images/pbprojects_280px.jpg
+ - title: BeagleBone® AI Makes a Sneak Peek at Embedded World
+   link: https://bbb.io/@2223
+   body: This New BeagleBone® fills the gap between small SBCs and large powerful industrial computers bringing the open source Linux approach to Artificial Intelligence applications development.  
+   image: https://cathywicks.github.io/newsletter/static/images/BeagleBoneAI_inhand_280px.jpg
  - title: Two New PocketBeagle® Capes Debut at Embedded World
    link: https://bbb.io/@2188
    body: PocketBeagle® TechLab Cape and the PocketBeagle® GamePup Cape made their debut to thousands of visitors.  With plenty of IO and interesting features, these two capes are a great way to have fun while learning embedded programming or to start a larger project.
