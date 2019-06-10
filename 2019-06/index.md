@@ -72,14 +72,14 @@ articles:
    link: https://bbb.io/@2300
    body: Check out the intro videos for each of the projects being mentored this summer by the BeagleBoard.org® community and join in the forums and IRC chat to encourage the new student developers.
    image: https://cathywicks.github.io/newsletter/static/images/gsoc_social_280px.jpg
- - title: 10 Year Anniversary Classic Projects - Celebrating Ten Years of Projects Video
-   link: https://bbb.io/@2269
-   body: This two minute rapid video gives a fun glmipse of only fraction of the inspiring projects from our community!
-   image: https://cathywicks.github.io/newsletter/static/images/bbcollage_280px.jpg
- - title: Educator Highlight -  Inspiring Students in Slovenia with BeagleBone® Blue Based Micromouse
-   link: https://bbb.io/@2176
-   body: Maze solving robot competitions are a great way to recruit high school students into engineering.
-   image: https://cathywicks.github.io/newsletter/static/images/micromouse_280px.jpg
+ - title: 10 Year Anniversary Classic Project - BeagleBone® Gaming System - Awesome Assembly Video
+   link: https://bbb.io/+6a38e1
+   body: In 2013, student Max Thrun got the world's attention when he published his BeagleBone® based Gameboy fast-forward, hand-build, 6 minute video and set it to the music Heart of Courage.
+   image: https://cathywicks.github.io/newsletter/static/images/gamingcape_280px.jpg
+ - title: NASA, T STAR and TAMU Students Drive Space Experimentation using BeagleBone® Black
+   link: https://bbb.io/@2315
+   body: The Hermes project from NASA, deployed in May 2019 for a five year plan, is a powerful new way to remotely conduct experiments on the International Space Station.
+   image: https://cathywicks.github.io/newsletter/static/images/bb_nasa_hermes_280px.jpg
 #
 # Community Topics
 #
