@@ -52,10 +52,10 @@ cape:
 # TODO: We should probably create an Amazon Smile affiliate link for future books.
 #
 book:
- title: The BeagleBone® Black Primer
- link: https://www.amazon.com/BeagleBone-Black-Primer-Brian-McLaughlin/dp/0789753863
- body: <p>By Brian McLaughlin.<br><br>Get started in just five minutes. This book starts with embedded programming concepts and continues through a variety of projects.</p>
- image: https://cathywicks.github.io/newsletter/static/images/Primer_80px.jpg
+ title: Exploring BeagleBone® Tools and Techniques for Building with Embedded Linux 2nd Edition
+ link: https://bbb.io/@2113
+ body: <p>By Derek Molloy.<br><br>Get started with both PocketBeagle® and BeagleBone® Black or Wireless with detailed instructions, well explained examples and applications.</p>
+ image: https://cathywicks.github.io/newsletter/static/images/newsletter_2018_11_molloybook_80px.jpg
 #
 # Articles
 #
