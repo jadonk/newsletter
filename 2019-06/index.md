@@ -15,7 +15,7 @@ link: https://beagleboard.org/newsletter/2019-06
 #
 feature:
  title: Expanding Horizons!
- body: </p>Artificial Intelligence applications like machine learning, knowledge reasoning, natural language processing, computer vision, and robotics are growing exponentially and are a natural fit for the goals of BeagleBoard.org®. We are excited to share a sneak peek of our new BeagleBone® AI with you. Based on a very powerful new processor, it’s received tremendous feedback from the community at Embedded World and Maker Faire affirming our goals to educate and enable creativity in AI the same way we have with embedded Linux, to make low cost, friendly to use, open source hardware and software available to anyone expanding horizons from Kindergarten to Rocket Science.<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ body: </p>Artificial Intelligence applications like machine learning, knowledge reasoning, natural language processing, computer vision, and robotics are growing exponentially and are a natural fit for the goals of BeagleBoard.org®. We are excited to share a sneak peek of our new BeagleBone® AI https://beagleboard.org/ai with you. Based on a very powerful new processor, it’s received tremendous feedback from the community at Embedded World and Maker Faire affirming our goals to educate and enable creativity in AI the same way we have with embedded Linux, to make low cost, friendly to use, open source hardware and software available to anyone expanding horizons from Kindergarten to Rocket Science.<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #
@@ -64,7 +64,7 @@ book:
 # Try to use the short URLs that start with bbb.io/@
 #
 articles:
- - title: BeagleBone® AI Makes a Sneak Peek at Embedded World
+ - title: BeagleBone® AI Makes a Sneak Preview
    link: https://bbb.io/@2223
    body: This New BeagleBone® fills the gap between small SBCs and large powerful industrial computers bringing the open source Linux approach to Artificial Intelligence applications development.  
    image: https://cathywicks.github.io/newsletter/static/images/BeagleBoneAI_inhand_280px.jpg
