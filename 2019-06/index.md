@@ -40,9 +40,9 @@ events:
 # The latest featured cape. Must be readily available.
 #
 cape:
- title: Servo Cape
+ title: PocketBeagle® GamePup Cape
  link: https://beagleboard.org/capes
- body: Provides 16x servo outputs, 5V power input, I2C EEPROM. Great for Robotics and automation projects.
+ body: Make your own game or emulate classic handheld games with 160x180 LCD, 10 user buttons, LiPo support and more
  image: https://cathywicks.github.io/newsletter/static/images/servo_80px.jpg
 #
 # Book
