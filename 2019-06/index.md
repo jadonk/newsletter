@@ -14,8 +14,8 @@ link: https://beagleboard.org/newsletter/2019-06
 # This is the key message at the beginning of the newsletter
 #
 feature:
- title: Spring into Action!
- body: </p>Our Co-Founder Jason Kridner, reminds us that “The Projects tell the story.” In assembling this month’s newsletter we are so energized by the variety of projects using BeagleBoards® that are telling great stories.   From simple LED blink “hello world” projects from beginners to deep in the ocean rovers to space station research, BeagleBoard.org® based projects are inspiring!   We are excited to see how BeagleBone® and PocketBeagle® are enabling new ideas to spring into action.  We love spring; the air is full of energy and fresh ideas.  We want to hear about yours.<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ title: Expanding Horizons!
+ body: </p>Artificial Intelligence applications like machine learning, knowledge reasoning, natural language processing, computer vision, and robotics are growing exponentially and are a natural fit for the goals of BeagleBoard.org. We are excited to share a sneak peek with our new BeagleBone AI with you. Based on a very powerful new processor, it’s received tremendous feedback from the community at Embedded World and Maker Faire affirming our goals to educate and enable creativity in AI the same way we have with embedded Linux: to make low cost, friendly to use, open source hardware and software available to anyone expanding horizons from Kindergarten to Rocket Science.<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #
