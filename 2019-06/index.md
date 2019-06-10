@@ -22,12 +22,15 @@ feature:
 # Anything on the BeagleBoard.org calendar should go in here
 #
 events:
- - title: Maker Faire, Bay Area, California
-   date: May 17-19, 2019 
-   link: https://makerfaire.com/bay-area/
+ - title: PocketBeagle® TechLab Workshop, Crowd Supply Teardown, Portland, OR
+   date: June 21-23, 2019 
+   link: https://www.crowdsupply.com/teardown/portland-2019
  - title: Embedded Linux Conference, San Diego, CA - E-Ale Workshop with PocketBeagle®
    date: August 21-23, 2019 
    link: https://e-ale.org/elc2019/
+ - title: Embedded Linux Workshop using PocketBeagle®, ESC Silicon Valley
+   date: August 27, 2019 
+   link: https://adsc19.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=3  
  - title: Embedded Linux Conference Europe, Lyon, France - E-Ale Workshop with PocketBeagle®
    date: October 28-30, 2019
    link: https://e-ale.org/elce2019/
