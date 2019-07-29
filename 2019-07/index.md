@@ -6,8 +6,8 @@
 # Look for comments as you go along
 #
 layout: november_2018
-title: June 2019 Dog Dish
-link: https://beagleboard.org/newsletter/2019-06
+title: July 2019 Dog Dish
+link: https://beagleboard.org/newsletter/2019-07
 #
 # Feature
 #
