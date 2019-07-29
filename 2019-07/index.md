@@ -14,17 +14,14 @@ link: https://beagleboard.org/newsletter/2019-07
 # This is the key message at the beginning of the newsletter
 #
 feature:
- title: Expanding Horizons!
- body: </p>Artificial Intelligence applications like machine learning, knowledge reasoning, natural language processing, computer vision, and robotics are growing exponentially and are a natural fit for the goals of BeagleBoard.org®. We are excited to share a sneak peek of our new <a href="https://beagleboard.org/ai">BeagleBone® AI</a> with you.   Based on a very powerful new processor, it’s received tremendous feedback from the community at Embedded World and Maker Faire.  This affirms our goals to educate and enable creativity in AI the same way we have with embedded Linux - to make low cost, friendly to use, open source hardware and software available to anyone - expanding horizons from Kindergarten to Rocket Science.<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ title: Beagles in Space!
+ body: </p>Community members have been boldly going where no one has gone before using single board computers from BeagleBoard.org® for many years.  Inspired by the celebration events of teh Apollo 11 50th anniversary, including an Apollo Guidance Cmoputer resoration using <a href="https://beagleboard.org/black">BeagleBone® Black</a>, we take a look at just a few of the many space related projects using BeagleBoards®.  Check out our articles, from a fictional Star Wars movie BB-8 robot project to student-led CubeSats which teach STEM using 400km selfie sticks, to experiment stations on the International Space Station, space projects inspire creativity and problem solving.  We would love to hear about your space related project to share in future newsletters.<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #
 # Anything on the BeagleBoard.org calendar should go in here
 #
 events:
- - title: PocketBeagle® TechLab Workshop, Crowd Supply Teardown, Portland, OR
-   date: June 21-23, 2019 
-   link: https://www.crowdsupply.com/teardown/portland-2019
  - title: Embedded Linux Conference, San Diego, CA - E-Ale Workshop with PocketBeagle®
    date: August 21-23, 2019 
    link: https://e-ale.org/elc2019/
