@@ -15,7 +15,7 @@ link: https://beagleboard.org/newsletter/2019-08
 #
 feature:
  title: Beagles in Space!
- body: </p>Community members have been boldly going where no one has gone before using single board computers from BeagleBoard.org® for many years.  Inspired by the celebration events of the Apollo 11 - 50th anniversary, including an Apollo Guidance Computer restoration using BeagleBone® Black, we take a look at just a few of the many space related projects using <a href="https://beagleboard.org/boards">BeagleBoard®</a> SBCs.  From a fictional Star Wars movie BB-8 robot project to student-led CubeSats which teach STEM using 400km selfie sticks, to experiment stations on the International Space Station, space projects inspire creativity and problem solving.  We would love to hear about your Space related project to share in future newsletters.<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ body: </p>Community members have been boldly going where no one has gone before using single board computers from BeagleBoard.org® for many years.  Inspired by the celebration events of the Apollo 11 - 50th anniversary, including an Apollo Guidance Computer restoration using BeagleBone® Black, we take a look at just a few of the many space related projects using <a href="https://beagleboard.org/boards">BeagleBoard.org®</a> SBCs.  From a fictional Star Wars movie BB-8 robot project to student-led CubeSats which teach STEM using 400km selfie sticks, to experiment stations on the International Space Station, space projects inspire creativity and problem solving.  We would love to hear about your Space related project to share in future newsletters.<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #
