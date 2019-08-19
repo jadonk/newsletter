@@ -118,6 +118,6 @@ projects:
  - title: Automated PocketBeagle® WiFi Access Point
    link: https://bbb.io/+057358
    body: This project will help you set up your PocketBeagle® to automatically create a WiFi access point on boot
-   image: https://cathywicks.github.io/newsletter/static/images/emailBBx270.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/emailBBx270.png
 ---
 
