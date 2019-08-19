@@ -73,7 +73,7 @@ articles:
    link: https://bbb.io/@2315
    body: TAMU students, faculty and advisors team up with NASA scientists to launch a remote experimentation program on the International Space Station this summer providing control to teams on the ground.
    image: https://cathywicks.github.io/newsletter/static/images/hermespromox280.png
- - title: BeagleBoard.org Classic Project - BB-8 Uses Omniwheels and BeagleBone® for Self-Balancing Head 
+ - title: BeagleBoard.org® Classic Project - BB-8 Uses Omniwheels and BeagleBone® for Self-Balancing Head 
    link: https://bbb.io/+d03f65
    body: After seeing the new Star Wars movie, a student created his very own full-size BB-8 self-balancing robot and wrote these instructions.
    image: https://cathywicks.github.io/newsletter/static/images/beaglebb8x280.jpg
