@@ -111,9 +111,9 @@ projects:
    link: https://bbb.io/+feed4e
    body: University students use Ardupilot and Beaglebone® Blue to build a leash controlled drone.
    image: https://cathywicks.github.io/newsletter/static/images/sailingx270.jpg
- - title: An App to Control Your RoverBot with GPS
-   link: https://bbb.io/+dbe6a5
-   body: This detailed community project gives beginners instructions using a motor cape and GPS with BeagleBone® Black
+ - title: BeagleBone® Black Keychain Synthesizer
+   link: https://bbb.io/+376159
+   body: Student team project adds a midi keyboard, microphone and speakers for that composer on the go!
    image: https://cathywicks.github.io/newsletter/static/images/keychainx270.jpg
  - title: Automated PocketBeagle® WiFi Access Point
    link: https://bbb.io/+057358
