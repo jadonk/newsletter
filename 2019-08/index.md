@@ -61,21 +61,21 @@ book:
 # Try to use the short URLs that start with bbb.io/@
 #
 articles:
- - title: BeagleBone® AI Makes a Sneak Preview
-   link: https://bbb.io/@2223
-   body: This New BeagleBone® fills the gap between small SBCs and large powerful industrial computers bringing the open source Linux approach to Artificial Intelligence applications development.  
+ - title: BeagleBone® Helps Preserve the History of Apollo's "Hidden Figures"
+   link: https://bbb.io/@2335
+   body: Ken Shirriff and friends have been restoring an Apollo Guidance Computer that was used for ground testing of the NASA Apollo Lunar Module. Discover how their work is helping to preserve history.
    image: https://cathywicks.github.io/newsletter/static/images/rope-threaderx280.jpg
- - title: BeagleBoard.org® Community Kicks off GSoC 2019 with Four Projects
-   link: https://bbb.io/@2300
-   body: Check out the intro videos for each of the projects being mentored this summer by the BeagleBoard.org® community and join in the forums and IRC chat to encourage the new student developers.
+ - title: OreSat Uses PocketBeagle® to Provide STEM Motivation With Giant “Selfie-Stick” from Space
+   link: https://bbb.io/=2335
+   body:  Through a parntership between NASA, Portland State University and educators across the state, find out how BeagleBoard.org® PocketBeagles® are playing a key role in bringing Oregon's First Satellite into orbit. 
    image: https://cathywicks.github.io/newsletter/static/images/oresatpromopicx280.png
- - title: 10 Year Anniversary Classic Project - BeagleBone® Gaming System With Awesome Assembly Video
-   link: https://bbb.io/+6a38e1
-   body: In 2013, student Max Thrun got the world's attention when he published his BeagleBone® based Gameboy fast-forward, hand-build, 6 minute video and set it to the music Heart of Courage.
-   image: https://cathywicks.github.io/newsletter/static/images/hermespromox280.png
- - title: NASA, T STAR and TAMU Students Drive Space Experimentation using BeagleBone® Black
+ - title: NASA, T STAR and TAMU Students Drive Space Experimentation On the ISS Using BeagleBone® Black
    link: https://bbb.io/@2315
-   body: The Hermes project from NASA, deployed in May 2019 for a five year plan, is a powerful new way to remotely conduct experiments on the International Space Station.
+   body: TAMU students, faculty and advisors team up with NASA scientists to launch a remote experimentation program on the International Space Station this summer providing control to teams on the ground.
+   image: https://cathywicks.github.io/newsletter/static/images/hermespromox280.png
+ - title: 10 Year Anniversary Classic Project - BB-8 Uses Omniwheels and BeagleBone® for Self-Balancing Head 
+   link: https://bbb.io/+d03f65
+   body: After seeing the new Star Wars movie, a student created his very own full-size BB-8 self-balancing robot and wrote these instructions.
    image: https://cathywicks.github.io/newsletter/static/images/beaglebb8x280.jpg
 #
 # Community Topics
