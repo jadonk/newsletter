@@ -107,9 +107,9 @@ projects:
    link: https://bbb.io/+506e28
    body: A High School student showcases a retro Space Invaders game using PocketBeagle®
    image: https://cathywicks.github.io/newsletter/static/images/xinaboxx270.jpg
- - title: Drone on a Leash
-   link: https://bbb.io/+feed4e
-   body: University students use Ardupilot and Beaglebone® Blue to build a leash controlled drone.
+ - title: Lean Green RC Sailing Machine
+   link: https://bbb.io/+2cdde5
+   body: BeagleBone® Green + Grove Sensors create an Internet connected boat that controls and senses in real time over a GSM cell link
    image: https://cathywicks.github.io/newsletter/static/images/sailingx270.jpg
  - title: BeagleBone® Black Keychain Synthesizer
    link: https://bbb.io/+376159
