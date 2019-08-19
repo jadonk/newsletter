@@ -86,16 +86,16 @@ articles:
 #
 topics:
  - title: PocketBeagle® teaching Game Development with GamePup
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/MwQbS5K31kI
+   link: http://beagleboard.org/discuss?place=msg%2Fbeagleboard%2FMwQbS5K31kI%2FOtOCbRIPCgAJ
    body: User shares his excitement and experience in trying the new GamePup cape with PocketBeagle®
  - title: Reading GPIO State in BeagleBone® Black
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/A32nyTiPV8Q
+   link: http://beagleboard.org/discuss?place=msg%2Fbeagleboard%2FA32nyTiPV8Q%2FcsZlUlX6DwAJ
    body: Four community members provide tips to a new user in reading GPIO
  - title: BeagleBone® Blue based SCUTTLE robot from TAMU documentation published
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/T07U0Vl5bec
+   link: http://beagleboard.org/discuss?place=msg%2Fbeagleboard%2FT07U0Vl5bec%2F6bqRArZ3BQAJ
    body: Great materials are under development at Texas A and M University for a course in mechatronics, check them out.
  - title: librobotcontrol
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/wV2ih-6drrA
+   link: http://beagleboard.org/discuss?place=msg%2Fbeagleboard%2FwV2ih-6drrA%2FfvdTutnZBwAJ
    body: Join this thread with five community members using the Robot Control Library 
 #
 # Projects
