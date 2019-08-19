@@ -37,9 +37,9 @@ events:
 # The latest featured cape. Must be readily available.
 #
 cape:
- title: PocketBeagle® TechLab Cape
- link: https://beagleboard.org/techlab
- body: Explore the power of PocketBeagle® with exercises to use the rich collection of sensors, displays, LEDs, click header and USB host.
+ title: BeagleBone® Servo Cape
+ link: https://beagleboard.org/capes
+ body: 16x servo outputs for many remote control, robotics and automation projects.  5V power input 12C EEPROM
  image: https://cathywicks.github.io/newsletter/static/images/TechLab_80px.jpg
 #
 # Book
