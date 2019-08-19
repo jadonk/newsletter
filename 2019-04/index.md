@@ -40,7 +40,7 @@ cape:
  title: Servo Cape
  link: https://beagleboard.org/capes
  body: Provides 16x servo outputs, 5V power input, I2C EEPROM. Great for Robotics and automation projects.
- image: https://cathywicks.github.io/newsletter/static/images/servo_80px.jpg
+ image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-04_0000.jpg
 #
 # Book
 #
@@ -52,7 +52,7 @@ book:
  title: The BeagleBone® Black Primer
  link: https://www.amazon.com/BeagleBone-Black-Primer-Brian-McLaughlin/dp/0789753863
  body: <p>By Brian McLaughlin.<br><br>Get started in just five minutes. This book starts with embedded programming concepts and continues through a variety of projects.</p>
- image: https://cathywicks.github.io/newsletter/static/images/Primer_80px.jpg
+ image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-04_0001.jpg
 #
 # Articles
 #
@@ -64,19 +64,19 @@ articles:
  - title: Ten PocketBeagle® Beginner’s Projects Share Getting Started Tips
    link: https://bbb.io/@2221
    body: Each of these 10 projects is written with detailed building instructions, code, diagrams and photos, and the authors would enjoy your feedback.
-   image: https://cathywicks.github.io/newsletter/static/images/pbprojects_280px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-04_0002.jpg
  - title: Two New PocketBeagle® Capes Debut at Embedded World
    link: https://bbb.io/@2188
    body: PocketBeagle® TechLab Cape and the PocketBeagle® GamePup Cape made their debut to thousands of visitors.  With plenty of IO and interesting features, these two capes are a great way to have fun while learning embedded programming or to start a larger project.
-   image: https://cathywicks.github.io/newsletter/static/images/capedebut_280px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-04_0003.jpg
  - title: 10 Year Anniversary Classic Projects - Celebrating Ten Years of Projects Video
    link: https://bbb.io/@2269
    body: This two minute rapid video gives a fun glmipse of only fraction of the inspiring projects from our community!
-   image: https://cathywicks.github.io/newsletter/static/images/bbcollage_280px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-04_0004.jpg
  - title: Educator Highlight -  Inspiring Students in Slovenia with BeagleBone® Blue Based Micromouse
    link: https://bbb.io/@2176
    body: Maze solving robot competitions are a great way to recruit high school students into engineering.
-   image: https://cathywicks.github.io/newsletter/static/images/micromouse_280px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-04_0005.jpg
 #
 # Community Topics
 #
@@ -106,17 +106,17 @@ projects:
  - title: Treadmill Workstation
    link: https://bbb.io/+cfc2a3
    body: Using BeagleBone® Black to replace the dashboard of a treadmill enables walking and coding at the same time!
-   image: https://cathywicks.github.io/newsletter/static/images/treadmill_270px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-04_0006.jpg
  - title: PocketBeagle® Drone - Part 1
    link: https://bbb.io/+d80868
    body: This student project begins the development of a 210mm quadcopter.
-   image: https://cathywicks.github.io/newsletter/static/images/drone_270px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-04_0007.jpg
  - title: "Spotify-Pod: Streaming Music to the PocketBeagle®"
    link: https://bbb.io/+57a180
    body: Create your own headless music player with the PocketBeagle® and Mopidy
-   image: https://cathywicks.github.io/newsletter/static/images/musicpod_270px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-04_0008.jpg
  - title: E-ALE (Embedded Apprentice Linux Engineer)
    link: https://bbb.io/+df7226
    body: Apprentice level training on embedded Linux concepts, tools and techniques.
-   image: https://cathywicks.github.io/newsletter/static/images/eale_270px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-04_0009.jpg
 ---
