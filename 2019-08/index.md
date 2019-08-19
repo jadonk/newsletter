@@ -85,31 +85,31 @@ articles:
 # Be sure to use links that start with beagleboard.org/discuss. You can grab the links from there.
 #
 topics:
- - title: fixdep wrong format
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/6azld5iX9_E
-   body: Check out this thread of a user building a single driver module for testing and debugging
- - title: Launch an app at start up
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-black/RWWp1gKz6lI
-   body: Join this discussion to find out more about launching an application at start up with root privileges
- - title: PocketBeagle® user thread - device tree
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/support/IDg5-NxdxGc
-   body: This new user and six others discuss getting started on device-tree
- - title: BeagleBone® Blue and GPS
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-blue/9-YHUv7PuqE
-   body: Getting your BeagleBone® Blue working with GPS?  Join this thread to discuss. 
+ - title: PocketBeagle® teaching Game Development with GamePup
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/MwQbS5K31kI
+   body: User shares his excitement and experience in trying the new GamePup cape with PocketBeagle®
+ - title: Reading GPIO State in BeagleBone® Black
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/A32nyTiPV8Q
+   body: Four community members provide tips to a new user in reading GPIO
+ - title: BeagleBone® Blue based SCUTTLE robot from TAMU documentation published
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/T07U0Vl5bec
+   body: Great materials are under development at Texas A and M University for a course in mechatronics, check them out.
+ - title: librobotcontrol
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/T07U0Vl5bec
+   body: Join this thread with five community members using the Robot Control Library 
 #
 # Projects
 #
 # Use links that start with bbb.io/+. Just grab the last 6 characters of the project URL to put at the end.
 #
 projects:
- - title: PocketInvaders
-   link: https://bbb.io/+506e28
-   body: A High School student showcases a retro Space Invaders game using PocketBeagle®
+ - title: Using XinaBox with BeagleBone® Black
+   link: https://bbb.io/+d8f897
+   body: Project shows how to use xChips add-on boards with BeagleBone® Black through a XinaBox bridge using I2C.
    image: https://cathywicks.github.io/newsletter/static/images/xinaboxx270.jpg
  - title: Lean Green RC Sailing Machine
    link: https://bbb.io/+2cdde5
-   body: BeagleBone® Green + Grove Sensors create an Internet connected boat that controls and senses in real time over a GSM cell link
+   body: BeagleBone® Green + Grove Sensors create an Internet connected boat that controls and senses in real time over a GSM cell link.
    image: https://cathywicks.github.io/newsletter/static/images/sailingx270.jpg
  - title: BeagleBone® Black Keychain Synthesizer
    link: https://bbb.io/+376159
@@ -117,7 +117,7 @@ projects:
    image: https://cathywicks.github.io/newsletter/static/images/keychainx270.jpg
  - title: BeagleBone® Black Wireless and Perl with Email
    link: https://bbb.io/+7a560d
-   body: Set up an HTML email via Perl on the BeagleBone® Black Wireless with some G-mail 
+   body: Set up an HTML email via Perl on the BeagleBone® Black Wireless with some G-mail. 
    image: https://cathywicks.github.io/newsletter/static/images/emailBBx270.png
 ---
 
