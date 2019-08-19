@@ -49,9 +49,9 @@ cape:
 # TODO: We should probably create an Amazon Smile affiliate link for future books.
 #
 book:
- title: Harness the Power of the BeagleBone® Black to Manage External Environments using C, Bash and Phython/PHP Programming 
+ title: BeagleBone® Essentials
  link: https://www.amazon.com/BeagleBone-Essentials-Rodolfo-Giometti-ebook/dp/B00YHBVHCI
- body: <p>By Rodolfo Giometti.<br><br>This engineerng and embedded GNU/Linux expert is the author of several books.</p>
+ body: <p>By Rodolfo Giometti.<br><br>Harness the Power of the BeagleBone® Black to Manage External Environments using C, Bash and Phython/PHP Programming </p>
  image: https://cathywicks.github.io/newsletter/static/images/giomettibookx80.jpg
 #
 # Articles
