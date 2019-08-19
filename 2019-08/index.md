@@ -40,7 +40,7 @@ cape:
  title: BeagleBone® Servo Cape
  link: https://beagleboard.org/capes
  body: 16x servo outputs for many remote control, robotics and automation projects.  5V power input 12C EEPROM
- image: https://cathywicks.github.io/newsletter/static/images/servox80.png
+ image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0000.png
 #
 # Book
 #
@@ -52,7 +52,7 @@ book:
  title: BeagleBone® Essentials
  link: https://www.amazon.com/BeagleBone-Essentials-Rodolfo-Giometti-ebook/dp/B00YHBVHCI
  body: <p>By Rodolfo Giometti.<br><br>Harness the Power of the BeagleBone® Black to Manage External Environments using C, Bash and Phython/PHP Programming </p>
- image: https://cathywicks.github.io/newsletter/static/images/giomettibookx80.jpg
+ image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0001.jpg
 #
 # Articles
 #
@@ -68,15 +68,15 @@ articles:
  - title: OreSat Uses PocketBeagle® to Provide STEM Motivation With Giant “Selfie-Stick” from Space
    link: https://bbb.io/=2335
    body:  Through a partnership between NASA, Portland State University and educators across the state, find out how BeagleBoard.org® PocketBeagles® are playing a key role in bringing Oregon's First Satellite into orbit. 
-   image: https://cathywicks.github.io/newsletter/static/images/oresatpromopicx280.png
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0002.png
  - title: NASA, T STAR and TAMU Students Drive Space Experimentation On the ISS Using BeagleBone® Black
    link: https://bbb.io/@2315
    body: TAMU students, faculty and advisors team up with NASA scientists to launch a remote experimentation program on the International Space Station this summer providing control to teams on the ground.
-   image: https://cathywicks.github.io/newsletter/static/images/hermespromox280.png
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0003.png
  - title: BeagleBoard.org Classic Project - BB-8 Uses Omniwheels and BeagleBone® for Self-Balancing Head 
    link: https://bbb.io/+d03f65
    body: After seeing the new Star Wars movie, a student created his very own full-size BB-8 self-balancing robot and wrote these instructions.
-   image: https://cathywicks.github.io/newsletter/static/images/beaglebb8x280.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0004.jpg
 #
 # Community Topics
 #
@@ -106,18 +106,18 @@ projects:
  - title: Using XinaBox with BeagleBone® Black
    link: https://bbb.io/+d8f897
    body: Project shows how to use xChips add-on boards with BeagleBone® Black through a XinaBox bridge using I2C.
-   image: https://cathywicks.github.io/newsletter/static/images/xinaboxx270.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0005.jpg
  - title: Lean Green RC Sailing Machine
    link: https://bbb.io/+2cdde5
    body: BeagleBone® Green + Grove Sensors create an Internet connected boat that controls and senses in real time over a GSM cell link.
-   image: https://cathywicks.github.io/newsletter/static/images/sailingx270.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0006.jpg
  - title: BeagleBone® Black Keychain Synthesizer
    link: https://bbb.io/+376159
    body: Student team project adds a midi keyboard, microphone and speakers for that composer on the go!
-   image: https://cathywicks.github.io/newsletter/static/images/keychainx270.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0007.jpg
  - title: BeagleBone® Black Wireless and Perl with Email
    link: https://bbb.io/+7a560d
    body: Set up an HTML email via Perl on the BeagleBone® Black Wireless with some G-mail. 
-   image: https://cathywicks.github.io/newsletter/static/images/emailBBx270.png
+   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0008.png
 ---
 
