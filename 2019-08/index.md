@@ -52,7 +52,7 @@ book:
  title: Exploring BeagleBone® Tools and Techniques for Building with Embedded Linux 2nd Edition
  link: https://bbb.io/@2113
  body: <p>By Derek Molloy.<br><br>Get started with both PocketBeagle® and BeagleBone® Black or Wireless with detailed instructions, well explained examples and applications.</p>
- image: https://cathywicks.github.io/newsletter/static/images/newsletter_2018_11_molloybook_80px.jpg
+ image: https://cathywicks.github.io/newsletter/static/images/giomettibookx80.jpg
 #
 # Articles
 #
@@ -64,19 +64,19 @@ articles:
  - title: BeagleBone® AI Makes a Sneak Preview
    link: https://bbb.io/@2223
    body: This New BeagleBone® fills the gap between small SBCs and large powerful industrial computers bringing the open source Linux approach to Artificial Intelligence applications development.  
-   image: https://cathywicks.github.io/newsletter/static/images/BeagleBoneAI_inhand_280px.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/rope-threaderx280.jpg
  - title: BeagleBoard.org® Community Kicks off GSoC 2019 with Four Projects
    link: https://bbb.io/@2300
    body: Check out the intro videos for each of the projects being mentored this summer by the BeagleBoard.org® community and join in the forums and IRC chat to encourage the new student developers.
-   image: https://cathywicks.github.io/newsletter/static/images/gsoc_social_280px.png
+   image: https://cathywicks.github.io/newsletter/static/images/oresatpromopicx280.png
  - title: 10 Year Anniversary Classic Project - BeagleBone® Gaming System With Awesome Assembly Video
    link: https://bbb.io/+6a38e1
    body: In 2013, student Max Thrun got the world's attention when he published his BeagleBone® based Gameboy fast-forward, hand-build, 6 minute video and set it to the music Heart of Courage.
-   image: https://cathywicks.github.io/newsletter/static/images/gamingcape_280px.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/hermespromox280.png
  - title: NASA, T STAR and TAMU Students Drive Space Experimentation using BeagleBone® Black
    link: https://bbb.io/@2315
    body: The Hermes project from NASA, deployed in May 2019 for a five year plan, is a powerful new way to remotely conduct experiments on the International Space Station.
-   image: https://cathywicks.github.io/newsletter/static/images/bb_nasa_hermes_280px.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/beaglebb8x280.jpg
 #
 # Community Topics
 #
@@ -106,18 +106,18 @@ projects:
  - title: PocketInvaders
    link: https://bbb.io/+506e28
    body: A High School student showcases a retro Space Invaders game using PocketBeagle®
-   image: https://cathywicks.github.io/newsletter/static/images/pocketinvaders_270px.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/xinaboxx270.jpg
  - title: Drone on a Leash
    link: https://bbb.io/+feed4e
    body: University students use Ardupilot and Beaglebone® Blue to build a leash controlled drone.
-   image: https://cathywicks.github.io/newsletter/static/images/droneonaleash_270px.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/sailingx270.jpg
  - title: An App to Control Your RoverBot with GPS
    link: https://bbb.io/+dbe6a5
    body: This detailed community project gives beginners instructions using a motor cape and GPS with BeagleBone® Black
-   image: https://cathywicks.github.io/newsletter/static/images/roverbotGPS_270px.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/keychainx270.jpg
  - title: Automated PocketBeagle® WiFi Access Point
    link: https://bbb.io/+057358
    body: This project will help you set up your PocketBeagle® to automatically create a WiFi access point on boot
-   image: https://cathywicks.github.io/newsletter/static/images/PBwifi_270px.jpg
+   image: https://cathywicks.github.io/newsletter/static/images/emailBBx270.jpg
 ---
 
