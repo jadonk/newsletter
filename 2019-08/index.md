@@ -49,9 +49,9 @@ cape:
 # TODO: We should probably create an Amazon Smile affiliate link for future books.
 #
 book:
- title: Exploring BeagleBone® Tools and Techniques for Building with Embedded Linux 2nd Edition
- link: https://bbb.io/@2113
- body: <p>By Derek Molloy.<br><br>Get started with both PocketBeagle® and BeagleBone® Black or Wireless with detailed instructions, well explained examples and applications.</p>
+ title: Harness the Power of the BeagleBone® Black to Manage External Environments using C, Bash and Phython/PHP Programming 
+ link: https://www.amazon.com/BeagleBone-Essentials-Rodolfo-Giometti-ebook/dp/B00YHBVHCI
+ body: <p>By Rodolfo Giometti.<br><br>This engineerng and embedded GNU/Linux expert is the author of several books.</p>
  image: https://cathywicks.github.io/newsletter/static/images/giomettibookx80.jpg
 #
 # Articles
