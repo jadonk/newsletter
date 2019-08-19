@@ -115,9 +115,9 @@ projects:
    link: https://bbb.io/+376159
    body: Student team project adds a midi keyboard, microphone and speakers for that composer on the go!
    image: https://cathywicks.github.io/newsletter/static/images/keychainx270.jpg
- - title: Automated PocketBeagle® WiFi Access Point
-   link: https://bbb.io/+057358
-   body: This project will help you set up your PocketBeagle® to automatically create a WiFi access point on boot
+ - title: BeagleBone® Black Wireless and Perl with Email
+   link: https://bbb.io/+7a560d
+   body: Set up an HTML email via Perl on the BeagleBone® Black Wireless with some G-mail 
    image: https://cathywicks.github.io/newsletter/static/images/emailBBx270.png
 ---
 
