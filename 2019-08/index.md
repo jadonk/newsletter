@@ -40,7 +40,7 @@ cape:
  title: BeagleBone® Servo Cape
  link: https://beagleboard.org/capes
  body: 16x servo outputs for many remote control, robotics and automation projects.  5V power input 12C EEPROM
- image: https://cathywicks.github.io/newsletter/static/images/TechLab_80px.jpg
+ image: https://cathywicks.github.io/newsletter/static/images/servox80.png
 #
 # Book
 #
