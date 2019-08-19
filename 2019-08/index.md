@@ -67,7 +67,7 @@ articles:
    image: https://cathywicks.github.io/newsletter/static/images/rope-threaderx280.jpg
  - title: OreSat Uses PocketBeagle® to Provide STEM Motivation With Giant “Selfie-Stick” from Space
    link: https://bbb.io/=2335
-   body:  Through a parntership between NASA, Portland State University and educators across the state, find out how BeagleBoard.org® PocketBeagles® are playing a key role in bringing Oregon's First Satellite into orbit. 
+   body:  Through a partnership between NASA, Portland State University and educators across the state, find out how BeagleBoard.org® PocketBeagles® are playing a key role in bringing Oregon's First Satellite into orbit. 
    image: https://cathywicks.github.io/newsletter/static/images/oresatpromopicx280.png
  - title: NASA, T STAR and TAMU Students Drive Space Experimentation On the ISS Using BeagleBone® Black
    link: https://bbb.io/@2315
