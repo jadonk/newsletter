@@ -52,7 +52,7 @@ book:
  title: BeagleBone® Cookbook - Software and Hardware Problems and Solutions
  link: http://shop.oreilly.com/product/0636920033899.do
  body: <p>By Mark Yoder and Jason Kridner.<br><br>Whether you are new to BeagleBone® or want to explore more of its capabilities, this cookbook provides scores of recipes for connecting and talking to the physical world. </p>
- image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0001.jpg
+ image: https://beagleboard.github.io/newsletter/static/images/beaglebone-cookbook.gif
 #
 # Articles
 #
