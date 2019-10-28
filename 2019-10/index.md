@@ -62,8 +62,8 @@ book:
 #
 articles:
  - title: BeagleBone® Helps Preserve the History of Apollo's "Hidden Figures"
-   link: https://bbb.io/@2335
-   body: Ken Shirriff and friends have been restoring an Apollo Guidance Computer that was used for ground testing of the NASA Apollo Lunar Module. Discover how their work is helping to preserve history.
+   link: https://bbb.io/@2417
+   body: Meet BeagleBone® AI, the fastest, most powerful BeagleBoard.org® low cost board yet and the answer to the community’s request to see the next major advancement in the BeagleBone® family
    image: https://beagleboard.github.io/newsletter/static/images/rope-threaderx280.jpg
  - title: OreSat Uses PocketBeagle® to Provide STEM Motivation With Giant “Selfie-Stick” from Space
    link: https://bbb.io/@2351
