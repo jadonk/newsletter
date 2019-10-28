@@ -61,13 +61,13 @@ book:
 # Try to use the short URLs that start with bbb.io/@
 #
 articles:
- - title: BeagleBone® Helps Preserve the History of Apollo's "Hidden Figures"
+ - title: BeagleBoard.org® Launches BeagleBone® AI, Offering a fast Track to getting Started with Artificial Intelligence
    link: https://bbb.io/@2417
    body: Meet BeagleBone® AI, the fastest, most powerful BeagleBoard.org® low cost board yet and the answer to the community’s request to see the next major advancement in the BeagleBone® family
    image: https://beagleboard.github.io/newsletter/static/images/rope-threaderx280.jpg
- - title: OreSat Uses PocketBeagle® to Provide STEM Motivation With Giant “Selfie-Stick” from Space
-   link: https://bbb.io/@2351
-   body:  Through a partnership between NASA, Portland State University and educators across the state, find out how BeagleBoard.org® PocketBeagles® are playing a key role in bringing Oregon's First Satellite into orbit. 
+ - title: GSoC 2019 Projects Advance BeagleBaord.org® Code for Click Boards, PRU and Xen Hypervisor
+   link: https://bbb.io/@2432
+   body:  Students worked this summer with the BeagleBoard.org® community and through Google Summer of Code, contributing projects that will help both new and advanced developers ranging from adding new click boards to programming PRUs to Xen hypervisor. 
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0002.png
  - title: NASA, T STAR and TAMU Students Drive Space Experimentation On the ISS Using BeagleBone® Black
    link: https://bbb.io/@2315
