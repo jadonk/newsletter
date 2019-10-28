@@ -34,7 +34,7 @@ cape:
  title: PocketBeagle® GamePup Cape
  link: https://beagleboard.org/capes
  body: Make your own or emulate handheld games with 160x180 LCD, 10 user programmable buttons, buzzer, LiPo support and more.
- image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0000.png
+ image: https://beagleboard.github.io/newsletter/static/images/Gamepup_80px.jpg
 #
 # Book
 #
