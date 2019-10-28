@@ -14,8 +14,8 @@ link: https://beagleboard.org/newsletter/2019-08
 # This is the key message at the beginning of the newsletter
 #
 feature:
- title: Beagles in Space!
- body: </p>Community members have been boldly going where no one has gone before using single board computers from BeagleBoard.org® for many years.  Inspired by the celebration events of the Apollo 11 - 50th anniversary, including an Apollo Guidance Computer restoration using BeagleBone® Black, we take a look at just a few of the many space related projects using <a href="https://beagleboard.org/boards">BeagleBoard.org®</a> SBCs.  From a fictional Star Wars movie BB-8 robot project to student-led CubeSats which teach STEM using 400km selfie sticks, to experiment stations on the International Space Station, space projects inspire creativity and problem solving.  We would love to hear about your Space related project to share in future newsletters.<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ title: Learning AI in the Palm of Your Hand
+ body: </p>We are delighted at the excitement from the community upon the release of the <a href="https://beagleboard.org/ai">BeagleBone® AI</a>.  The newest, fastest, most powerful BeagleBone® low cost development board yet is driving a whole new AI revolution.  Built on our proven open source Linux approach, BeagleBone® AI makes it easy to explore how artificial intelligence and machine learning can be used in everyday life. With a price that enables every embedded developer to put learning AI in the palm of your Hand, we look forward to hearing more about your new AI innovations!<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #
