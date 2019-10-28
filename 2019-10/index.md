@@ -82,15 +82,15 @@ topics:
  - title: Cameras supported by BeagleBone® AI TIDL demo
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/4SBk_JBiKQQ
    body: Ready to add a camera to your BeagleBone® AI? Join this thread for tips from other users.
- - title: Reading GPIO State in BeagleBone® Black
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/A32nyTiPV8Q
-   body: Four community members provide tips to a new user in reading GPIO
- - title: BeagleBone® Blue based SCUTTLE robot from TAMU documentation published
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/T07U0Vl5bec
-   body: Great materials are under development at Texas A and M University for a course in mechatronics, check them out.
- - title: librobotcontrol
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/wV2ih-6drrA
-   body: Join this thread with five community members using the Robot Control Library 
+ - title: Where to order BeagleBone® AI
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-ai/h7tc6DP7bLs
+   body: Check out this thread or the product page for links to ordering the new BeagleBone® AI
+ - title: Adding USB 3.0 storage for BeagleBone® AI
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-ai/4mEiIqqUMYo
+   body: Join this thread to look into solution for adding USB 3.0 storage in a NAS-style enclosure.
+ - title: BeagleBone® AI and using the DSP cores for real time control
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-ai/sJ2Kd65DhwQ
+   body: Contribute to this group of users discussing use of PRU and DSP  for real-time
 #
 # Projects
 #
