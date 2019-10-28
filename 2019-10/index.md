@@ -58,7 +58,7 @@ articles:
  - title: BeagleBoard.org® Launches BeagleBone® AI, Offering a fast Track to getting Started with Artificial Intelligence
    link: https://bbb.io/@2417
    body: Meet BeagleBone® AI, the fastest, most powerful BeagleBoard.org® low cost board yet and the answer to the community’s request to see the next major advancement in the BeagleBone® family
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/BB_AI_BeautyAngle_280px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/BB_AI_BeautyAngle_280px.jpg
  - title: GSoC 2019 Projects Advance BeagleBaord.org® Code for Click Boards, PRU and Xen Hypervisor
    link: https://bbb.io/@2432
    body:  Students worked this summer with the BeagleBoard.org® community and through Google Summer of Code, contributing projects that will help both new and advanced developers ranging from adding new click boards to programming PRUs to Xen hypervisor. 
@@ -66,7 +66,7 @@ articles:
  - title: TIDL on BeagleBone® AI
    link: https://bbb.io/+iee263
    body: Texas Instruments Deep Learning API and examples ported onto BeagleBone® AI's default Debian distribution image and mjpg-streamer filters.
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/TIDLx280.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/TIDLx280.jpg
  - title: BeagleBoard.org® Classic Project - BB-8 Uses Omniwheels and BeagleBone® for Self-Balancing Head 
    link: https://bbb.io/+d03f65
    body: After seeing the new Star Wars movie, a student created his very own full-size BB-8 self-balancing robot and wrote these instructions.
