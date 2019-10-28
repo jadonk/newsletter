@@ -66,7 +66,7 @@ articles:
  - title: TIDL on BeagleBone® AI
    link: https://bbb.io/+iee263
    body: Texas Instruments Deep Learning API and examples ported onto BeagleBone® AI's default Debian distribution image and mjpg-streamer filters.
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0003.png
+   image: https://beagleboard.github.io/newsletter/static/images/TIDLx280.jpg
  - title: BeagleBoard.org® Classic Project - BB-8 Uses Omniwheels and BeagleBone® for Self-Balancing Head 
    link: https://bbb.io/+d03f65
    body: After seeing the new Star Wars movie, a student created his very own full-size BB-8 self-balancing robot and wrote these instructions.
