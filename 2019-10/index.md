@@ -62,7 +62,7 @@ articles:
  - title: GSoC 2019 Projects Advance BeagleBaord.org® Code for Click Boards, PRU and Xen Hypervisor
    link: https://bbb.io/@2432
    body:  Students worked this summer with the BeagleBoard.org® community and through Google Summer of Code, contributing projects that will help both new and advanced developers ranging from adding new click boards to programming PRUs to Xen hypervisor. 
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0002.png
+   image: https://beagleboard.github.io/newsletter/static/images/gsoc_social_280px.jpg
  - title: NASA, T STAR and TAMU Students Drive Space Experimentation On the ISS Using BeagleBone® Black
    link: https://bbb.io/@2315
    body: TAMU students, faculty and advisors team up with NASA scientists to launch a remote experimentation program on the International Space Station this summer providing control to teams on the ground.
