@@ -31,9 +31,9 @@ events:
 # The latest featured cape. Must be readily available.
 #
 cape:
- title: BeagleBone® Servo Cape
- link: https://beagleboard.org/capes#servo
- body: 16x servo outputs for many remote control, robotics and automation projects.  5V power input, I2C EEPROM
+ title: PocketBeagle® GamePup Cape
+ link: https://beagleboard.org/capes
+ body: Make your own or emulate handheld games with 160x180 LCD, 10 user programmable buttons, buzzer, LiPo support and more.
  image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0000.png
 #
 # Book
