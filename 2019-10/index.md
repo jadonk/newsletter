@@ -49,9 +49,9 @@ cape:
 # TODO: We should probably create an Amazon Smile affiliate link for future books.
 #
 book:
- title: BeagleBone® Essentials
- link: https://www.amazon.com/BeagleBone-Essentials-Rodolfo-Giometti-ebook/dp/B00YHBVHCI
- body: <p>By Rodolfo Giometti.<br><br>Harness the Power of the BeagleBone® Black to Manage External Environments using C, Bash and Phython/PHP Programming </p>
+ title: BeagleBone® Cookbook - Software and Hardware Problems and Solutions
+ link: http://shop.oreilly.com/product/0636920033899.do
+ body: <p>By Mark Yoder and Jason Kridner.<br><br>Whether you are new to BeagleBone® or want to explore more of its capabilities, this cookbook provides scores of recipes for connecting and talking to the physical world. </p>
  image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0001.jpg
 #
 # Articles
