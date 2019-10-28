@@ -22,15 +22,9 @@ feature:
 # Anything on the BeagleBoard.org calendar should go in here
 #
 events:
- - title: Embedded Linux Conference, San Diego, CA - E-Ale Workshop with PocketBeagle®
-   date: August 21-23, 2019 
-   link: https://e-ale.org/elc2019/
- - title: Embedded Linux Workshop using PocketBeagle®, ESC Silicon Valley
-   date: August 27, 2019 
-   link: https://adsc19.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=3  
- - title: Embedded Linux Conference Europe, Lyon, France - E-Ale Workshop with PocketBeagle®
-   date: October 28-30, 2019
-   link: https://e-ale.org/elce2019/
+ - title: Embedded World 2020 Exhibition and Conference, Nuremberg, Germany
+   date: February 25-27, 2020 
+   link: https://www.embedded-world.de/en/ausstellerprodukte/embwld20/exhibitor-47280394/beagleboard-org-foundation
 #
 # Cape
 #
