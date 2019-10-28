@@ -79,9 +79,9 @@ articles:
 # Be sure to use links that start with beagleboard.org/discuss. You can grab the links from there.
 #
 topics:
- - title: PocketBeagle® teaching Game Development with GamePup
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/MwQbS5K31kI
-   body: User shares his excitement and experience in trying the new GamePup cape with PocketBeagle®
+ - title: Cameras supported by BeagleBone® AI TIDL demo
+   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/4SBk_JBiKQQ
+   body: Ready to add a camera to your BeagleBone® AI? Join this thread for tips from other users.
  - title: Reading GPIO State in BeagleBone® Black
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/A32nyTiPV8Q
    body: Four community members provide tips to a new user in reading GPIO
