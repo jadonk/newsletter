@@ -109,7 +109,7 @@ projects:
    link: https://bbb.io/+376159
    body: Student team project adds a midi keyboard, microphone and speakers for that composer on the go!
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0007.jpg
- - title: BeagleBone® Black Wireless and Perl with Email
+ - title: BeagleBone® Black Wireless and Perl with Email.
    link: https://bbb.io/+7a560d
    body: Set up an HTML email via Perl on the BeagleBone® Black Wireless with some G-mail. 
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0008.png
