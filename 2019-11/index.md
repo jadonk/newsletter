@@ -14,8 +14,10 @@ link: https://beagleboard.org/newsletter/2019-11
 # This is the key message at the beginning of the newsletter
 #
 feature:
- title: Learning AI in the Palm of Your Hand
- body: </p>We are delighted at the excitement from the community upon the release of the <a href="https://beagleboard.org/ai">BeagleBone® AI</a>.  The newest, fastest, most powerful BeagleBone® low cost development board yet is driving a whole new AI revolution.  Built on our proven open source Linux approach, BeagleBone® AI makes it easy to explore how artificial intelligence and machine learning can be used in everyday life. With a price that enables every embedded developer to put learning AI in the palm of your Hand, we look forward to hearing more about your new AI innovations!<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ title: Giving Thanks with a New Contest
+ body: </p>During this time of year we turn our thoughts to gratitude.  Here at BeagleBoard.org® we have so much to be thankful for. Our community is amazing and provides inspiration, support and encouragement to thousands of innovators across the globe.  
+
+With this thankfulness in mind, we are enabling a new competition.  The world of AI presents exciting challenges and innovations that we would have never dreamed possible when BeagleBoard.org began.  We want to help our community reach those new levels. Enter your idea for a project using the new BeagleBone AI Board <link> on this form <link to the /give form>  We will choose 10 entries to ship a FREE BeagleBone® AI board to build and demonstrate their idea. Selections will be made and boards shipped by 12/15/2019.  Finish and post your project by February 1 <link to /p> and BeagleBoard.org will highlight your project at Embedded World 2020. Email me at christi@beagleboard.org for questions. We look forward to receiving your project idea and request for a free BeagleBone® AI Board!<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #
