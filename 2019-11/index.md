@@ -15,7 +15,7 @@ link: https://beagleboard.org/newsletter/2019-11
 #
 feature:
  title: Giving Thanks with a New Contest
- body: </p>During this time of year we turn our thoughts to gratitude.  Here at BeagleBoard.org® we have so much to be thankful for. Our community is amazing and provides inspiration, support and encouragement to thousands of innovators across the globe.  <br /> <strong>BeagleBone® AI Free Board Contest</strong><br /> With this thankfulness in mind, we are enabling a new competition.  The world of AI presents exciting challenges and innovations that we would have never dreamed possible when BeagleBoard.org began.  We want to help our community reach those new levels. Enter your idea for a project using the new <a href="https://beagleboard.org/ai">BeagleBone® AI</a> on  <a href="https://beagleboard.org/give">this form</a>  We will choose entries to ship a FREE BeagleBone® AI board to build and demonstrate their idea. Selections will be made and boards shipped by 12/15/2019.  Finish and  <a href="https://beagleboard.org/p">post your project by February 1</a> and BeagleBoard.org® will highlight your project at Embedded World 2020. <br />Email me at <a href="mailto:christi@beagleboard.org">christi@beagleboard.org</a>christi@beagleboard.org for questions. We look forward to receiving your project idea and request for a free BeagleBone® AI Board!<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ body: </p>During this time of year we turn our thoughts to gratitude.  Here at BeagleBoard.org® we have so much to be thankful for. Our community is amazing and provides inspiration, support and encouragement to thousands of innovators across the globe.  <br /> <strong>BeagleBone® AI Free Board Contest</strong><br /> With this thankfulness in mind, we are enabling a new competition.  The world of AI presents exciting challenges and innovations that we would have never dreamed possible when BeagleBoard.org began.  We want to help our community reach those new levels. Enter your idea for a project using the new <a href="https://beagleboard.org/ai">BeagleBone® AI</a> on  <a href="https://beagleboard.org/give">this form</a>  We will choose entries to ship a FREE BeagleBone® AI board to build and demonstrate their idea. Selections will be made and boards shipped by 12/15/2019.  Finish and  <a href="https://beagleboard.org/p">post your project by February 1</a> and BeagleBoard.org® will highlight your project at Embedded World 2020. <br />Email me at <a href="mailto:christi@beagleboard.org">christi@beagleboard.org</a> for questions. We look forward to receiving your project idea and request for a free BeagleBone® AI Board!<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #
@@ -25,6 +25,9 @@ events:
  - title: Embedded World 2020 Exhibition and Conference, Nuremberg, Germany
    date: February 25-27, 2020 
    link: https://www.embedded-world.de/en/ausstellerprodukte/embwld20/exhibitor-47280394/beagleboard-org-foundation
+ - title: Workshop - Introduction to Embedded Linux and Heterogeneous Computing Using BeagleBone AI at Embedded World 2020, Nuremberg, Germany (Class 3.4)
+   date: Thursday, February 27, 2020 9:30AM-12:30PM
+   link: https://events.weka-fachmedien.de/embedded-world-conference/program/
 #
 # Cape
 #
