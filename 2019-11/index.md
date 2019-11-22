@@ -59,7 +59,7 @@ articles:
    link: https://bbb.io/@2417
    body: Meet BeagleBone® AI, the fastest, most powerful BeagleBoard.org® low cost board yet and the answer to the community’s request to see the next major advancement in the BeagleBone® family
    image: https://beagleboard.github.io/newsletter/static/images/BB_AI_BeautyAngle_280px.jpg
- - title: GSoC 2019 Projects Advance BeagleBaord.org® Code for Click Boards, PRU and Xen Hypervisor
+ - title: GSoC 2019 Projects Advance BeagleBoard.org® Code for Click Boards, PRU and Xen Hypervisor
    link: https://bbb.io/@2432
    body:  Students worked this summer with the BeagleBoard.org® community and through Google Summer of Code, contributing projects that will help both new and advanced developers ranging from adding new click boards to programming PRUs to Xen hypervisor. 
    image: https://beagleboard.github.io/newsletter/static/images/gsoc_social_280px.jpg
