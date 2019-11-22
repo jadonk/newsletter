@@ -43,7 +43,7 @@ cape:
 # TODO: We should probably create an Amazon Smile affiliate link for future books.
 #
 book:
- title: BeagleBone® Cookbook - Software and Hardware Problems and Solutions
+ title: Effective Robotics Programming with ROS - Third Edition
  link: https://www.amazon.com/Effective-Robotics-Programming-ROS-Third/dp/1786463652
  body: <p>By Mahtani, Sanchez, Fernandez and Martinez.<br><br>Experienced or beginner, this comprehensive book will help you ill help you find your way through the ROS framework and build great robots! </p>
  image: https://beagleboard.github.io/newsletter/static/images/beaglebone-cookbook.gif
