@@ -46,7 +46,7 @@ book:
  title: Effective Robotics Programming with ROS - Third Edition
  link: https://www.amazon.com/Effective-Robotics-Programming-ROS-Third/dp/1786463652
  body: <p>By Mahtani, Sanchez, Fernandez and Martinez.<br><br>Experienced or beginner, this comprehensive book will help you ill help you find your way through the ROS framework and build great robots! </p>
- image: https://beagleboard.github.io/newsletter/static/images/beaglebone-cookbook.gif
+ image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/ROSbookx80.jpg
 #
 # Articles
 #
