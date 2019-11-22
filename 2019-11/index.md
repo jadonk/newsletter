@@ -71,8 +71,8 @@ articles:
    body:  Video review of the new BeagleBone® AI by Brandon Lewis, Editor-in-Chief of Embedded Computing Design and expert in development boards.  Walk through the features and benefits for AI projects.
    image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/BBAI_vidx280.png
  - title: BeagleBoard.org® Classic Project - Beagle Alexa
-   link: https://bbb.io/+d03f65
-   body: After seeing the new Star Wars movie, a student created his very own full-size BB-8 self-balancing robot and wrote these instructions.
+   link: https://bbb.io/+56f174
+   body: With the popularity of voice recognition personal assistants, this community member creates his own personalized Alexa-style IoT platform with BeagleBone® and provides great instructions to build your own.
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0004.jpg
 #
 # Community Topics
