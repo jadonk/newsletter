@@ -49,7 +49,7 @@ book:
  title: Effective Robotics Programming with ROS - Third Edition
  link: https://www.amazon.com/Effective-Robotics-Programming-ROS-Third/dp/1786463652
  body: <p>By Mahtani, Sanchez, Fernandez and Martinez.<br><br>Experienced or beginner, this comprehensive book will help you ill help you find your way through the ROS framework and build great robots! </p>
- image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/ROSbookx80.jpg
+ image: https://beagleboard.github.io/newsletter/static/images/ROSbookx80.jpg
 #
 # Articles
 #
@@ -69,11 +69,11 @@ articles:
  - title: Embedded Computing Design Video Walks Through BeagleBone® AI
    link: https://bbb.io/@2453
    body:  Video review of the new BeagleBone® AI by Brandon Lewis, Editor-in-Chief of Embedded Computing Design and expert in development boards.  Walk through the features and benefits for AI projects.
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/BBAI_vidx280.png
+   image: https://beagleboard.github.io/newsletter/static/images/BBAI_vidx280.png
  - title: BeagleBoard.org® Classic Project - Beagle Alexa
    link: https://bbb.io/+56f174
    body: With the popularity of voice recognition personal assistants, this community member creates his own personalized Alexa-style IoT platform with BeagleBone® and provides great instructions to build your own.
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/beaglealexa280px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/beaglealexa280px.jpg
 #
 # Community Topics
 #
@@ -103,19 +103,20 @@ projects:
  - title: TIDL on BeagleBone® AI
    link: https://bbb.io/+1ee263
    body: Get started today with BeagleBone® AI, a webcam and the TI Deep Learning Library. Project includes instructions, code and a detailed video tutorial. 
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/tidl270px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/tidl270px.jpg
  - title: PocketBeagle® Arcade Machine
    link: https://bbb.io/+ee661e
    body: Great student or beginner project with PocketBeagle® includes all instructions and fritzing diagram to build multi-game machine
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/arcade270px.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/arcade270px.jpg
  - title: PocketBeagle® LED Audio Spectrometer
    link: https://bbb.io/+001868
    body: Audio spectrometer implemented on a set of 6 LED matrix panels using PocketScroller and Falcon player.
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/spectro270.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/spectro270.jpg
  - title: BeagleBone® Black MiniSumo Bot with LabView
    link: https://bbb.io/+8a55b6
    body: Using great tutorials on LabVIEW Makerhub and these hardware instructions your sumobot is ready for the ring.
-   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/sumobot270.jpg
+   image: https://beagleboard.github.io/newsletter/static/images/sumobot270.jpg
+
 ---
 
 
