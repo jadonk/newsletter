@@ -111,11 +111,11 @@ projects:
  - title: PocketBeagle® LED Audio Spectrometer
    link: https://bbb.io/+001868
    body: Audio spectrometer implemented on a set of 6 LED matrix panels using PocketScroller and Falcon player.
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0007.jpg
+   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/spectro270.jpg
  - title: BeagleBone® Black MiniSumo Bot with LabView
    link: https://bbb.io/+8a55b6
    body: Using great tutorials on LabVIEW Makerhub and these hardware instructions your sumobot is ready for the ring.
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0008.png
+   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/sumobot270.jpg
 ---
 
 
