@@ -107,7 +107,7 @@ projects:
  - title: PocketBeagle® Arcade Machine
    link: https://bbb.io/+ee661e
    body: Great student or beginner project with PocketBeagle® includes all instructions and fritzing diagram to build multi-game machine
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0006.jpg
+   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/arcade270px.jpg
  - title: BeagleBone® Black Keychain Synthesizer
    link: https://bbb.io/+376159
    body: Student team project adds a midi keyboard, microphone and speakers for that composer on the go!
