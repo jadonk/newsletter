@@ -103,7 +103,7 @@ projects:
  - title: TIDL on BeagleBone® AI
    link: https://bbb.io/+1ee263
    body: Get started today with BeagleBone® AI, a webcam and the TI Deep Learning Library. Project includes instructions, code and a detailed video tutorial. 
-   image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0005.jpg
+   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/tidl270px.jpg
  - title: PocketBeagle® Arcade Machine
    link: https://bbb.io/+ee661e
    body: Great student or beginner project with PocketBeagle® includes all instructions and fritzing diagram to build multi-game machine
