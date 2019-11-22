@@ -48,7 +48,7 @@ cape:
 book:
  title: Effective Robotics Programming with ROS - Third Edition
  link: https://www.amazon.com/Effective-Robotics-Programming-ROS-Third/dp/1786463652
- body: <p>By Mahtani, Sanchez, Fernandez and Martinez.<br><br>Experienced or beginner, this comprehensive book will help you ill help you find your way through the ROS framework and build great robots! </p>
+ body: <p>By Mahtani, Sanchez, Fernandez and Martinez.<br><br>Experienced or beginner, this comprehensive book will help you find your way through the ROS framework and build great robots! </p>
  image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/ROSbookx80.jpg
 #
 # Articles
@@ -85,9 +85,6 @@ topics:
  - title: Cameras supported by BeagleBone® AI TIDL demo
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/newbies/4SBk_JBiKQQ
    body: Ready to add a camera to your BeagleBone® AI? Join this thread for tips from other users.
- - title: Where to order BeagleBone® AI
-   link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-ai/h7tc6DP7bLs
-   body: Check out this thread or the product page for links to ordering the new BeagleBone® AI
  - title: Adding USB 3.0 storage for BeagleBone® AI
    link: https://groups.google.com/forum/embed/?place=forum/beagleboard&showsearch=true&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fbeagleboard.org%2Fdiscuss#!category-topic/beagleboard/beaglebone-ai/4mEiIqqUMYo
    body: Join this thread to look into solution for adding USB 3.0 storage in a NAS-style enclosure.
