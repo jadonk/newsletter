@@ -69,7 +69,7 @@ articles:
  - title: Embedded Computing Design Video Walks Through BeagleBone® AI
    link: https://bbb.io/@2453
    body:  Video review of the new BeagleBone® AI by Brandon Lewis, Editor-in-Chief of Embedded Computing Design and expert in development boards.  Walk through the features and benefits for AI projects.
-   image: https://beagleboard.github.io/newsletter/static/images/TIDLx280.jpg
+   image: https://github.com/cathywicks/newsletter/blob/gh-pages/static/images/BBAI_vidx280.png
  - title: BeagleBoard.org® Classic Project - Beagle Alexa
    link: https://bbb.io/+d03f65
    body: After seeing the new Star Wars movie, a student created his very own full-size BB-8 self-balancing robot and wrote these instructions.
