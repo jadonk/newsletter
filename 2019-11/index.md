@@ -15,7 +15,7 @@ link: https://beagleboard.org/newsletter/2019-11
 #
 feature:
  title: Giving Thanks with a New Contest
- body: </p>During this time of year we turn our thoughts to gratitude.  Here at BeagleBoard.org® we have so much to be thankful for. Our community is amazing and provides inspiration, support and encouragement to thousands of innovators across the globe.  <br /> <strong>BeagleBone® AI Free Board Contest</strong><br /> With this thankfulness in mind, we are enabling a new competition.  The world of AI presents exciting challenges and innovations that we would have never dreamed possible when BeagleBoard.org began.  We want to help our community reach those new levels. Enter your idea for a project using the new <a href="https://beagleboard.org/ai">BeagleBone® AI</a> on  <a href="https://beagleboard.org/give">this form</a>  We will choose entries to ship a FREE BeagleBone® AI board to build and demonstrate their idea. Selections will be made and boards shipped by 12/15/2019.  Finish and  <a href="https://beagleboard.org/p">post your project by February 1</a> and BeagleBoard.org® will highlight your project at Embedded World 2020. <br />Email me at <a href="mailto:christi@beagleboard.org">christi@beagleboard.org</a> for questions. We look forward to receiving your project idea and request for a free BeagleBone® AI Board!<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
+ body: </p>During this time of year we turn our thoughts to gratitude.  Here at BeagleBoard.org® we have so much to be thankful for. Our community is amazing and provides inspiration, support and encouragement to thousands of innovators across the globe.  <br /> <strong>BeagleBone® AI Free Board Contest</strong><br /> With this thankfulness in mind, we are enabling a new competition.  The world of AI presents exciting challenges and innovations that we would have never dreamed possible when BeagleBoard.org began.  We want to help our community reach those new levels. Enter your idea for a project using the new <a href="https://beagleboard.org/ai">BeagleBone® AI</a> on  <a href="https://beagleboard.org/give">this form</a>  We will choose 10 entries to ship a FREE BeagleBone® AI board to build and demonstrate their idea. Selections will be made and boards shipped by 12/15/2019.  Finish and  <a href="https://beagleboard.org/p">post your project by February 1</a> and BeagleBoard.org® will highlight your project at Embedded World 2020. <br />Email me at <a href="mailto:christi@beagleboard.org">christi@beagleboard.org</a> for questions. We look forward to receiving your project idea and request for a free BeagleBone® AI Board!<br>&mdash;<strong>Christine Long</strong>, <em>Executive Director</em></p>
 #
 # Events
 #
@@ -58,7 +58,7 @@ book:
 # Try to use the short URLs that start with bbb.io/@
 #
 articles:
- - title: BeagleBoard.org® Launches BeagleBone® AI, Offering a fast Track to getting Started with Artificial Intelligence
+ - title: BeagleBoard.org® Launches BeagleBone® AI, Offering a Fast Track to Getting Started with Artificial Intelligence
    link: https://bbb.io/@2417
    body: Meet BeagleBone® AI, the fastest, most powerful BeagleBoard.org® low cost board yet and the answer to the community’s request to see the next major advancement in the BeagleBone® family
    image: https://beagleboard.github.io/newsletter/static/images/BB_AI_BeautyAngle_280px.jpg
@@ -100,13 +100,13 @@ topics:
 # Use links that start with bbb.io/+. Just grab the last 6 characters of the project URL to put at the end.
 #
 projects:
- - title: Using XinaBox with BeagleBone® Black
-   link: https://bbb.io/+d8f897
-   body: Project shows how to use xChips add-on boards with BeagleBone® Black through a XinaBox bridge using I2C.
+ - title: TIDL on BeagleBone® AI
+   link: https://bbb.io/+1ee263
+   body: Get started today with BeagleBone® AI, a webcam and the TI Deep Learning Library. Project includes detailed video tutorial. 
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0005.jpg
- - title: Lean Green RC Sailing Machine
-   link: https://bbb.io/+2cdde5
-   body: BeagleBone® Green + Grove Sensors create an Internet connected boat that controls and senses in real time over a GSM cell link.
+ - title: PocketBeagle® Arcade Machine
+   link: https://bbb.io/+ee661e
+   body: Great student or beginner project with PocketBeagle® includes all instructions and fritzing diagram to build multi-game machine
    image: https://beagleboard.github.io/newsletter/static/images/newsletter-2019-08_0006.jpg
  - title: BeagleBone® Black Keychain Synthesizer
    link: https://bbb.io/+376159
