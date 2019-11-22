@@ -66,9 +66,9 @@ articles:
    link: https://bbb.io/@2432
    body:  Students worked this summer with the BeagleBoard.org® community and through Google Summer of Code, contributing projects that will help both new and advanced developers ranging from adding new click boards to programming PRUs to Xen hypervisor. 
    image: https://beagleboard.github.io/newsletter/static/images/gsoc_social_280px.jpg
- - title: TIDL on BeagleBone® AI
-   link: https://bbb.io/+iee263
-   body: Texas Instruments Deep Learning API and examples ported onto BeagleBone® AI's default Debian distribution image and mjpg-streamer filters.
+ - title: Embedded Computing Design Video Walks Through BeagleBone® AI
+   link: https://bbb.io/@2453
+   body:  Video review of the new BeagleBone® AI by Brandon Lewis, Editor-in-Chief of Embedded Computing Design and expert in development boards.  Walk through the features and benefits for AI projects.
    image: https://beagleboard.github.io/newsletter/static/images/TIDLx280.jpg
  - title: BeagleBoard.org® Classic Project - BB-8 Uses Omniwheels and BeagleBone® for Self-Balancing Head 
    link: https://bbb.io/+d03f65
